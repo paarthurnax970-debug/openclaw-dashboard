@@ -1,0 +1,320 @@
+{
+  "timestamp": "2026-03-28T21:47:49.785374+00:00",
+  "overall_score": 8,
+  "high_priority_count": 3,
+  "total_signals": 22,
+  "repo_summaries": {
+    "Uniswap/v3-core": {
+      "commits_scanned": 30,
+      "prs_scanned": 20,
+      "signals_found": 3,
+      "max_signal_score": 6
+    },
+    "aave/aave-v3-core": {
+      "commits_scanned": 30,
+      "prs_scanned": 20,
+      "signals_found": 6,
+      "max_signal_score": 7
+    },
+    "solana-labs/solana": {
+      "commits_scanned": 30,
+      "prs_scanned": 20,
+      "signals_found": 8,
+      "max_signal_score": 8
+    },
+    "project-serum/serum-dex": {
+      "commits_scanned": 30,
+      "prs_scanned": 20,
+      "signals_found": 5,
+      "max_signal_score": 5
+    }
+  },
+  "signals": [
+    {
+      "type": "pull_request",
+      "repo": "Uniswap/v3-core",
+      "pr_number": 1080,
+      "state": "open",
+      "title": "docs: improve README with overview, security section, and documentation links",
+      "updated_at": "2026-03-25T08:48:16Z",
+      "url": "https://github.com/Uniswap/v3-core/pull/1080",
+      "matched_keywords": [
+        "deploy"
+      ],
+      "signal_score": 6
+    },
+    {
+      "type": "pull_request",
+      "repo": "Uniswap/v3-core",
+      "pr_number": 1076,
+      "state": "open",
+      "title": "fix: resolve TypeScript type error in BitMath.spec.ts",
+      "updated_at": "2026-03-22T14:13:56Z",
+      "url": "https://github.com/Uniswap/v3-core/pull/1076",
+      "matched_keywords": [
+        "deploy"
+      ],
+      "signal_score": 6
+    },
+    {
+      "type": "pull_request",
+      "repo": "Uniswap/v3-core",
+      "pr_number": 1060,
+      "state": "closed",
+      "title": "docs: clarify tick spacing parameter behavior in README",
+      "updated_at": "2026-03-04T19:36:12Z",
+      "url": "https://github.com/Uniswap/v3-core/pull/1060",
+      "matched_keywords": [
+        "deploy"
+      ],
+      "signal_score": 6
+    },
+    {
+      "type": "pull_request",
+      "repo": "aave/aave-v3-core",
+      "pr_number": 701,
+      "state": "closed",
+      "title": "3.0.1 Upgrade",
+      "updated_at": "2024-10-14T22:16:15Z",
+      "url": "https://github.com/aave/aave-v3-core/pull/701",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "signal_score": 7
+    },
+    {
+      "type": "release",
+      "repo": "aave/aave-v3-core",
+      "tag": "v1.19.4",
+      "name": "v1.19.4",
+      "published_at": "2024-06-25T17:57:27Z",
+      "url": "https://github.com/aave/aave-v3-core/releases/tag/v1.19.4",
+      "matched_keywords": [],
+      "signal_score": 5
+    },
+    {
+      "type": "release",
+      "repo": "aave/aave-v3-core",
+      "tag": "v1.19.3",
+      "name": "v1.19.3",
+      "published_at": "2024-03-07T08:56:29Z",
+      "url": "https://github.com/aave/aave-v3-core/releases/tag/v1.19.3",
+      "matched_keywords": [],
+      "signal_score": 5
+    },
+    {
+      "type": "release",
+      "repo": "aave/aave-v3-core",
+      "tag": "v1.19.2",
+      "name": "v1.19.2",
+      "published_at": "2023-10-17T10:29:44Z",
+      "url": "https://github.com/aave/aave-v3-core/releases/tag/v1.19.2",
+      "matched_keywords": [],
+      "signal_score": 5
+    },
+    {
+      "type": "release",
+      "repo": "aave/aave-v3-core",
+      "tag": "v1.19.1",
+      "name": "v1.19.1",
+      "published_at": "2023-07-04T14:34:53Z",
+      "url": "https://github.com/aave/aave-v3-core/releases/tag/v1.19.1",
+      "matched_keywords": [],
+      "signal_score": 5
+    },
+    {
+      "type": "release",
+      "repo": "aave/aave-v3-core",
+      "tag": "v1.19.0",
+      "name": "v1.19.0",
+      "published_at": "2023-07-04T11:15:51Z",
+      "url": "https://github.com/aave/aave-v3-core/releases/tag/v1.19.0",
+      "matched_keywords": [],
+      "signal_score": 5
+    },
+    {
+      "type": "pull_request",
+      "repo": "solana-labs/solana",
+      "pr_number": 28398,
+      "state": "closed",
+      "title": "Replace deploy command with program deploy in tests",
+      "updated_at": "2025-09-04T08:09:25Z",
+      "url": "https://github.com/solana-labs/solana/pull/28398",
+      "matched_keywords": [
+        "upgrade",
+        "deploy"
+      ],
+      "signal_score": 8
+    },
+    {
+      "type": "pull_request",
+      "repo": "solana-labs/solana",
+      "pr_number": 24479,
+      "state": "closed",
+      "title": "Clap v3 update: keygen",
+      "updated_at": "2025-09-04T08:09:01Z",
+      "url": "https://github.com/solana-labs/solana/pull/24479",
+      "matched_keywords": [
+        "migrate"
+      ],
+      "signal_score": 7
+    },
+    {
+      "type": "pull_request",
+      "repo": "solana-labs/solana",
+      "pr_number": 27425,
+      "state": "closed",
+      "title": "Gossip Simulation & multiple gossip instances/node in GCP",
+      "updated_at": "2026-01-09T01:12:53Z",
+      "url": "https://github.com/solana-labs/solana/pull/27425",
+      "matched_keywords": [
+        "deploy"
+      ],
+      "signal_score": 6
+    },
+    {
+      "type": "release",
+      "repo": "solana-labs/solana",
+      "tag": "v1.18.26",
+      "name": "Release v1.18.26",
+      "published_at": "2024-10-12T16:56:55Z",
+      "url": "https://github.com/solana-labs/solana/releases/tag/v1.18.26",
+      "matched_keywords": [],
+      "signal_score": 5
+    },
+    {
+      "type": "release",
+      "repo": "solana-labs/solana",
+      "tag": "v1.18.25",
+      "name": "Release v1.18.25",
+      "published_at": "2024-10-04T04:09:57Z",
+      "url": "https://github.com/solana-labs/solana/releases/tag/v1.18.25",
+      "matched_keywords": [],
+      "signal_score": 5
+    },
+    {
+      "type": "release",
+      "repo": "solana-labs/solana",
+      "tag": "v1.18.23",
+      "name": "Release v1.18.23",
+      "published_at": "2024-08-31T00:57:53Z",
+      "url": "https://github.com/solana-labs/solana/releases/tag/v1.18.23",
+      "matched_keywords": [
+        "reward"
+      ],
+      "signal_score": 5
+    },
+    {
+      "type": "release",
+      "repo": "solana-labs/solana",
+      "tag": "v1.18.22",
+      "name": "Release v1.18.22",
+      "published_at": "2024-08-09T00:03:55Z",
+      "url": "https://github.com/solana-labs/solana/releases/tag/v1.18.22",
+      "matched_keywords": [],
+      "signal_score": 5
+    },
+    {
+      "type": "release",
+      "repo": "solana-labs/solana",
+      "tag": "v1.18.21",
+      "name": "Release v1.18.21",
+      "published_at": "2024-08-03T05:36:34Z",
+      "url": "https://github.com/solana-labs/solana/releases/tag/v1.18.21",
+      "matched_keywords": [],
+      "signal_score": 5
+    },
+    {
+      "type": "release",
+      "repo": "project-serum/serum-dex",
+      "tag": "v0.5.6",
+      "name": "v0.5.6",
+      "published_at": "2022-04-21T05:53:59Z",
+      "url": "https://github.com/project-serum/serum-dex/releases/tag/v0.5.6",
+      "matched_keywords": [],
+      "signal_score": 5
+    },
+    {
+      "type": "release",
+      "repo": "project-serum/serum-dex",
+      "tag": "v0.5.5",
+      "name": "v0.5.5",
+      "published_at": "2022-02-14T15:48:48Z",
+      "url": "https://github.com/project-serum/serum-dex/releases/tag/v0.5.5",
+      "matched_keywords": [],
+      "signal_score": 5
+    },
+    {
+      "type": "release",
+      "repo": "project-serum/serum-dex",
+      "tag": "v0.5.4",
+      "name": "v0.5.4",
+      "published_at": "2022-01-23T20:06:15Z",
+      "url": "https://github.com/project-serum/serum-dex/releases/tag/v0.5.4",
+      "matched_keywords": [],
+      "signal_score": 5
+    },
+    {
+      "type": "release",
+      "repo": "project-serum/serum-dex",
+      "tag": "v0.5.3",
+      "name": "v0.5.3",
+      "published_at": "2022-01-23T20:05:19Z",
+      "url": "https://github.com/project-serum/serum-dex/releases/tag/v0.5.3",
+      "matched_keywords": [],
+      "signal_score": 5
+    },
+    {
+      "type": "release",
+      "repo": "project-serum/serum-dex",
+      "tag": "v0.5.2",
+      "name": "v0.5.2",
+      "published_at": "2021-12-17T17:46:32Z",
+      "url": "https://github.com/project-serum/serum-dex/releases/tag/v0.5.2",
+      "matched_keywords": [],
+      "signal_score": 5
+    }
+  ],
+  "high_priority_signals": [
+    {
+      "type": "pull_request",
+      "repo": "aave/aave-v3-core",
+      "pr_number": 701,
+      "state": "closed",
+      "title": "3.0.1 Upgrade",
+      "updated_at": "2024-10-14T22:16:15Z",
+      "url": "https://github.com/aave/aave-v3-core/pull/701",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "signal_score": 7
+    },
+    {
+      "type": "pull_request",
+      "repo": "solana-labs/solana",
+      "pr_number": 28398,
+      "state": "closed",
+      "title": "Replace deploy command with program deploy in tests",
+      "updated_at": "2025-09-04T08:09:25Z",
+      "url": "https://github.com/solana-labs/solana/pull/28398",
+      "matched_keywords": [
+        "upgrade",
+        "deploy"
+      ],
+      "signal_score": 8
+    },
+    {
+      "type": "pull_request",
+      "repo": "solana-labs/solana",
+      "pr_number": 24479,
+      "state": "closed",
+      "title": "Clap v3 update: keygen",
+      "updated_at": "2025-09-04T08:09:01Z",
+      "url": "https://github.com/solana-labs/solana/pull/24479",
+      "matched_keywords": [
+        "migrate"
+      ],
+      "signal_score": 7
+    }
+  ]
+}
