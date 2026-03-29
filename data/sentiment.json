@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-03-28T21:48:30.078711+00:00",
-  "overall_score": -2.13,
+  "timestamp": "2026-03-29T07:45:41.696561+00:00",
+  "overall_score": -2.39,
   "classification": "MILD_BEARISH",
   "components": {
     "fear_greed": {
-      "value": 12,
+      "value": 9,
       "classification": "Extreme Fear",
-      "normalized_score": -7.6,
+      "normalized_score": -8.2,
       "trend": "declining",
-      "yesterday": 13
+      "yesterday": 12
     },
     "news": {
       "score": 0,
@@ -17,20 +17,20 @@
       "bearish_count": 0
     },
     "reddit": {
-      "score": 1.51,
+      "score": 1.49,
       "post_count": 25,
-      "avg_upvote_ratio": 0.745,
-      "weighted_text_avg": 0.177,
-      "upvote_signal": 0.981
+      "avg_upvote_ratio": 0.791,
+      "weighted_text_avg": 0.11,
+      "upvote_signal": 1.165
     }
   },
   "top_headlines": [],
   "top_reddit_posts": [
-    "Daily Crypto Discussion - March 28, 2026 (GMT+0)",
+    "Daily Crypto Discussion - March 29, 2026 (GMT+0)",
+    "Nikolai Mushegian Tweeted the CIA Would Kill Him. Hours Later, He Was Dead.",
+    "Tom Lee Predicts Crypto Winter End by April",
     "Ethereum Whale Activity Surges by 1,500% as Developers Launch Post-Quantum Security Team",
-    "Coinbase Warned the CLARITY Act May Not Pass This Year",
-    "5 Straight Red Months For Bitcoin - One More And Its An ATH",
-    "India Leads the World in Crypto Adoption with 119 Million Users"
+    "Morgan Stanley Sets Spot Bitcoin ETF Fee at 0.14%, Undercutting BlackRock"
   ],
   "trading_signal": "CAUTION"
 }
