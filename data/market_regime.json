@@ -1,0 +1,9 @@
+{
+  "regime": "BEAR",
+  "reason": "BTC ($66,756) below EMA50 ($71,594)",
+  "btc_price": 66756.25,
+  "ema50": 71594.35,
+  "ema200": 85468.1,
+  "timestamp": "2026-03-28T21:49:07.978021+00:00",
+  "trading_bias": "BEAR regime: Only SHORT setups or high-confluence mean-reversion bounces."
+}
