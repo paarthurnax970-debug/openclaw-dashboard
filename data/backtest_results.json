@@ -1,0 +1,638 @@
+{
+  "timestamp": "2026-03-28T21:46:52.979248+00:00",
+  "backtest_days": 90,
+  "coins_tested": [
+    "bitcoin",
+    "ethereum",
+    "solana",
+    "binancecoin",
+    "ripple",
+    "cardano",
+    "avalanche-2",
+    "chainlink",
+    "uniswap",
+    "aave"
+  ],
+  "strategy_count": 8,
+  "strategy_scores": [
+    {
+      "strategy": "Volume Spike Reversal",
+      "edge_score": 62.6,
+      "metrics": {
+        "total_trades": 17,
+        "wins": 10,
+        "losses": 7,
+        "win_rate": 58.8,
+        "profit_factor": 1.76,
+        "total_return_pct": 39.87,
+        "max_drawdown_pct": 20.67,
+        "sharpe_ratio": 3.91,
+        "expectancy": 2.5
+      },
+      "trades_sample": [
+        {
+          "entry_idx": 39,
+          "exit_idx": 40,
+          "entry_price": 3.1769659262659595,
+          "exit_price": 3.552801621520323,
+          "pnl_pct": 11.83,
+          "days_held": 1,
+          "exit_reason": "TP",
+          "win": true
+        },
+        {
+          "entry_idx": 45,
+          "exit_idx": 51,
+          "entry_price": 3.374170206944431,
+          "exit_price": 3.525303570001379,
+          "pnl_pct": 4.48,
+          "days_held": 6,
+          "exit_reason": "TIME",
+          "win": true
+        },
+        {
+          "entry_idx": 59,
+          "exit_idx": 61,
+          "entry_price": 4.0096787156711375,
+          "exit_price": 3.7435698913841424,
+          "pnl_pct": -6.64,
+          "days_held": 2,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 39,
+          "exit_idx": 40,
+          "entry_price": 101.48655058594598,
+          "exit_price": 113.96911381644145,
+          "pnl_pct": 12.3,
+          "days_held": 1,
+          "exit_reason": "TP",
+          "win": true
+        },
+        {
+          "entry_idx": 60,
+          "exit_idx": 66,
+          "entry_price": 114.355722092957,
+          "exit_price": 115.95091641612761,
+          "pnl_pct": 1.39,
+          "days_held": 6,
+          "exit_reason": "TIME",
+          "win": true
+        }
+      ]
+    },
+    {
+      "strategy": "RSI Oversold Bounce",
+      "edge_score": 14.6,
+      "metrics": {
+        "total_trades": 31,
+        "wins": 13,
+        "losses": 18,
+        "win_rate": 41.9,
+        "profit_factor": 0.83,
+        "total_return_pct": -32.72,
+        "max_drawdown_pct": 43.6,
+        "sharpe_ratio": -1.23,
+        "expectancy": -0.77
+      },
+      "trades_sample": [
+        {
+          "entry_idx": 32,
+          "exit_idx": 34,
+          "entry_price": 4.393302428533402,
+          "exit_price": 3.94569212067087,
+          "pnl_pct": -10.19,
+          "days_held": 2,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 35,
+          "exit_idx": 39,
+          "entry_price": 3.8489896776360895,
+          "exit_price": 3.1769659262659595,
+          "pnl_pct": -17.46,
+          "days_held": 4,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 40,
+          "exit_idx": 44,
+          "entry_price": 3.552801621520323,
+          "exit_price": 3.3622163386059944,
+          "pnl_pct": -5.36,
+          "days_held": 4,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 45,
+          "exit_idx": 52,
+          "entry_price": 3.374170206944431,
+          "exit_price": 3.3991548179983013,
+          "pnl_pct": 0.74,
+          "days_held": 7,
+          "exit_reason": "TIME",
+          "win": true
+        },
+        {
+          "entry_idx": 39,
+          "exit_idx": 40,
+          "entry_price": 101.48655058594598,
+          "exit_price": 113.96911381644145,
+          "pnl_pct": 12.3,
+          "days_held": 1,
+          "exit_reason": "TP",
+          "win": true
+        }
+      ]
+    },
+    {
+      "strategy": "Momentum Continuation",
+      "edge_score": 14.5,
+      "metrics": {
+        "total_trades": 33,
+        "wins": 12,
+        "losses": 21,
+        "win_rate": 36.4,
+        "profit_factor": 0.81,
+        "total_return_pct": -18.58,
+        "max_drawdown_pct": 25.97,
+        "sharpe_ratio": -1.22,
+        "expectancy": -0.45
+      },
+      "trades_sample": [
+        {
+          "entry_idx": 62,
+          "exit_idx": 69,
+          "entry_price": 3.8186616385484053,
+          "exit_price": 3.7667863844870535,
+          "pnl_pct": -1.36,
+          "days_held": 7,
+          "exit_reason": "TIME",
+          "win": false
+        },
+        {
+          "entry_idx": 75,
+          "exit_idx": 80,
+          "entry_price": 4.001879201095426,
+          "exit_price": 3.6801550744439364,
+          "pnl_pct": -8.04,
+          "days_held": 5,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 44,
+          "exit_idx": 48,
+          "entry_price": 109.30632249492464,
+          "exit_price": 128.35005995422603,
+          "pnl_pct": 17.42,
+          "days_held": 4,
+          "exit_reason": "TP",
+          "win": true
+        },
+        {
+          "entry_idx": 49,
+          "exit_idx": 54,
+          "entry_price": 125.80928239866256,
+          "exit_price": 116.05852534257193,
+          "pnl_pct": -7.75,
+          "days_held": 5,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 75,
+          "exit_idx": 82,
+          "entry_price": 112.28902483063676,
+          "exit_price": 111.28785185052192,
+          "pnl_pct": -0.89,
+          "days_held": 7,
+          "exit_reason": "TIME",
+          "win": false
+        }
+      ]
+    },
+    {
+      "strategy": "Mean Reversion Extreme",
+      "edge_score": 12.3,
+      "metrics": {
+        "total_trades": 48,
+        "wins": 18,
+        "losses": 30,
+        "win_rate": 37.5,
+        "profit_factor": 0.59,
+        "total_return_pct": -73.2,
+        "max_drawdown_pct": 77.21,
+        "sharpe_ratio": -3.68,
+        "expectancy": -2.23
+      },
+      "trades_sample": [
+        {
+          "entry_idx": 40,
+          "exit_idx": 44,
+          "entry_price": 3.552801621520323,
+          "exit_price": 3.3622163386059944,
+          "pnl_pct": -5.36,
+          "days_held": 4,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 45,
+          "exit_idx": 48,
+          "entry_price": 3.374170206944431,
+          "exit_price": 3.624599238406535,
+          "pnl_pct": 7.42,
+          "days_held": 3,
+          "exit_reason": "TP",
+          "win": true
+        },
+        {
+          "entry_idx": 34,
+          "exit_idx": 39,
+          "entry_price": 128.75815639111372,
+          "exit_price": 101.48655058594598,
+          "pnl_pct": -21.18,
+          "days_held": 5,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 40,
+          "exit_idx": 44,
+          "entry_price": 113.96911381644145,
+          "exit_price": 109.30632249492464,
+          "pnl_pct": -4.09,
+          "days_held": 4,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 45,
+          "exit_idx": 47,
+          "entry_price": 107.38323098119524,
+          "exit_price": 118.79257027468073,
+          "pnl_pct": 10.62,
+          "days_held": 2,
+          "exit_reason": "TP",
+          "win": true
+        }
+      ]
+    },
+    {
+      "strategy": "Bollinger Lower Bounce",
+      "edge_score": 10.2,
+      "metrics": {
+        "total_trades": 29,
+        "wins": 9,
+        "losses": 20,
+        "win_rate": 31.0,
+        "profit_factor": 0.5,
+        "total_return_pct": -68.57,
+        "max_drawdown_pct": 70.45,
+        "sharpe_ratio": -5.03,
+        "expectancy": -3.35
+      },
+      "trades_sample": [
+        {
+          "entry_idx": 35,
+          "exit_idx": 39,
+          "entry_price": 3.8489896776360895,
+          "exit_price": 3.1769659262659595,
+          "pnl_pct": -17.46,
+          "days_held": 4,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 84,
+          "exit_idx": 87,
+          "entry_price": 3.470205127696691,
+          "exit_price": 3.6999670652893646,
+          "pnl_pct": 6.62,
+          "days_held": 3,
+          "exit_reason": "TP",
+          "win": true
+        },
+        {
+          "entry_idx": 33,
+          "exit_idx": 34,
+          "entry_price": 137.70362372930043,
+          "exit_price": 128.75815639111372,
+          "pnl_pct": -6.5,
+          "days_held": 1,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 35,
+          "exit_idx": 39,
+          "entry_price": 124.36203530400148,
+          "exit_price": 101.48655058594598,
+          "pnl_pct": -18.39,
+          "days_held": 4,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 70,
+          "exit_idx": 75,
+          "entry_price": 105.58684668264317,
+          "exit_price": 112.28902483063676,
+          "pnl_pct": 6.35,
+          "days_held": 5,
+          "exit_reason": "TP",
+          "win": true
+        }
+      ]
+    },
+    {
+      "strategy": "EMA Cross Momentum",
+      "edge_score": 0.0,
+      "metrics": {
+        "total_trades": 15,
+        "wins": 0,
+        "losses": 15,
+        "win_rate": 0.0,
+        "profit_factor": 0.0,
+        "total_return_pct": -59.82,
+        "max_drawdown_pct": 59.82,
+        "sharpe_ratio": -80.12,
+        "expectancy": -5.89
+      },
+      "trades_sample": [
+        {
+          "entry_idx": 77,
+          "exit_idx": 83,
+          "entry_price": 9.927851418839087,
+          "exit_price": 9.343580505352255,
+          "pnl_pct": -5.89,
+          "days_held": 6,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 77,
+          "exit_idx": 83,
+          "entry_price": 9.470695729485374,
+          "exit_price": 8.957444054706196,
+          "pnl_pct": -5.42,
+          "days_held": 6,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 71,
+          "exit_idx": 81,
+          "entry_price": 3.859009994642292,
+          "exit_price": 3.5766251019060022,
+          "pnl_pct": -7.32,
+          "days_held": 10,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 50,
+          "exit_idx": 54,
+          "entry_price": 127.06625299651881,
+          "exit_price": 116.05852534257193,
+          "pnl_pct": -8.66,
+          "days_held": 4,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 77,
+          "exit_idx": 83,
+          "entry_price": 116.22508676906484,
+          "exit_price": 109.76682239727587,
+          "pnl_pct": -5.56,
+          "days_held": 6,
+          "exit_reason": "SL",
+          "win": false
+        }
+      ]
+    },
+    {
+      "strategy": "Bollinger Band Breakout",
+      "edge_score": 0.0,
+      "metrics": {
+        "total_trades": 11,
+        "wins": 0,
+        "losses": 11,
+        "win_rate": 0.0,
+        "profit_factor": 0.0,
+        "total_return_pct": -52.97,
+        "max_drawdown_pct": 52.97,
+        "sharpe_ratio": -186.11,
+        "expectancy": -6.63
+      },
+      "trades_sample": [
+        {
+          "entry_idx": 78,
+          "exit_idx": 80,
+          "entry_price": 10.486513865444476,
+          "exit_price": 9.670918043549433,
+          "pnl_pct": -7.78,
+          "days_held": 2,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 66,
+          "exit_idx": 68,
+          "entry_price": 9.360538983067187,
+          "exit_price": 8.795506268836863,
+          "pnl_pct": -6.04,
+          "days_held": 2,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 78,
+          "exit_idx": 80,
+          "entry_price": 9.935684177029247,
+          "exit_price": 9.222609777299333,
+          "pnl_pct": -7.18,
+          "days_held": 2,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 59,
+          "exit_idx": 61,
+          "entry_price": 4.0096787156711375,
+          "exit_price": 3.7435698913841424,
+          "pnl_pct": -6.64,
+          "days_held": 2,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 78,
+          "exit_idx": 80,
+          "entry_price": 122.24993356219625,
+          "exit_price": 115.24651648013824,
+          "pnl_pct": -5.73,
+          "days_held": 2,
+          "exit_reason": "SL",
+          "win": false
+        }
+      ]
+    },
+    {
+      "strategy": "Golden Cross Trend Follow",
+      "edge_score": 0.0,
+      "metrics": {
+        "total_trades": 26,
+        "wins": 0,
+        "losses": 26,
+        "win_rate": 0.0,
+        "profit_factor": 0.0,
+        "total_return_pct": -86.41,
+        "max_drawdown_pct": 86.41,
+        "sharpe_ratio": -78.58,
+        "expectancy": -7.38
+      },
+      "trades_sample": [
+        {
+          "entry_idx": 50,
+          "exit_idx": 54,
+          "entry_price": 127.06625299651881,
+          "exit_price": 116.05852534257193,
+          "pnl_pct": -8.66,
+          "days_held": 4,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 55,
+          "exit_idx": 60,
+          "entry_price": 121.67566664139146,
+          "exit_price": 114.355722092957,
+          "pnl_pct": -6.02,
+          "days_held": 5,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 64,
+          "exit_idx": 65,
+          "entry_price": 122.44247025315359,
+          "exit_price": 111.3539257139868,
+          "pnl_pct": -9.06,
+          "days_held": 1,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 66,
+          "exit_idx": 69,
+          "entry_price": 115.95091641612761,
+          "exit_price": 108.79461189245507,
+          "pnl_pct": -6.17,
+          "days_held": 3,
+          "exit_reason": "SL",
+          "win": false
+        },
+        {
+          "entry_idx": 77,
+          "exit_idx": 84,
+          "entry_price": 116.22508676906484,
+          "exit_price": 106.41284921197577,
+          "pnl_pct": -8.44,
+          "days_held": 7,
+          "exit_reason": "SL",
+          "win": false
+        }
+      ]
+    }
+  ],
+  "best_strategy": "Volume Spike Reversal",
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "Volume Spike Reversal",
+      "edge_score": 62.6,
+      "win_rate": 58.8,
+      "profit_factor": 1.76,
+      "sharpe": 3.91,
+      "return_pct": 39.87,
+      "max_dd": 20.67
+    },
+    {
+      "rank": 2,
+      "name": "RSI Oversold Bounce",
+      "edge_score": 14.6,
+      "win_rate": 41.9,
+      "profit_factor": 0.83,
+      "sharpe": -1.23,
+      "return_pct": -32.72,
+      "max_dd": 43.6
+    },
+    {
+      "rank": 3,
+      "name": "Momentum Continuation",
+      "edge_score": 14.5,
+      "win_rate": 36.4,
+      "profit_factor": 0.81,
+      "sharpe": -1.22,
+      "return_pct": -18.58,
+      "max_dd": 25.97
+    },
+    {
+      "rank": 4,
+      "name": "Mean Reversion Extreme",
+      "edge_score": 12.3,
+      "win_rate": 37.5,
+      "profit_factor": 0.59,
+      "sharpe": -3.68,
+      "return_pct": -73.2,
+      "max_dd": 77.21
+    },
+    {
+      "rank": 5,
+      "name": "Bollinger Lower Bounce",
+      "edge_score": 10.2,
+      "win_rate": 31.0,
+      "profit_factor": 0.5,
+      "sharpe": -5.03,
+      "return_pct": -68.57,
+      "max_dd": 70.45
+    },
+    {
+      "rank": 6,
+      "name": "EMA Cross Momentum",
+      "edge_score": 0.0,
+      "win_rate": 0.0,
+      "profit_factor": 0.0,
+      "sharpe": -80.12,
+      "return_pct": -59.82,
+      "max_dd": 59.82
+    },
+    {
+      "rank": 7,
+      "name": "Bollinger Band Breakout",
+      "edge_score": 0.0,
+      "win_rate": 0.0,
+      "profit_factor": 0.0,
+      "sharpe": -186.11,
+      "return_pct": -52.97,
+      "max_dd": 52.97
+    },
+    {
+      "rank": 8,
+      "name": "Golden Cross Trend Follow",
+      "edge_score": 0.0,
+      "win_rate": 0.0,
+      "profit_factor": 0.0,
+      "sharpe": -78.58,
+      "return_pct": -86.41,
+      "max_dd": 86.41
+    }
+  ]
+}
