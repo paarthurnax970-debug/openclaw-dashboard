@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-03-28T21:48:30.078711+00:00",
+  "overall_score": -2.13,
+  "classification": "MILD_BEARISH",
+  "components": {
+    "fear_greed": {
+      "value": 12,
+      "classification": "Extreme Fear",
+      "normalized_score": -7.6,
+      "trend": "declining",
+      "yesterday": 13
+    },
+    "news": {
+      "score": 0,
+      "article_count": 0,
+      "bullish_count": 0,
+      "bearish_count": 0
+    },
+    "reddit": {
+      "score": 1.51,
+      "post_count": 25,
+      "avg_upvote_ratio": 0.745,
+      "weighted_text_avg": 0.177,
+      "upvote_signal": 0.981
+    }
+  },
+  "top_headlines": [],
+  "top_reddit_posts": [
+    "Daily Crypto Discussion - March 28, 2026 (GMT+0)",
+    "Ethereum Whale Activity Surges by 1,500% as Developers Launch Post-Quantum Security Team",
+    "Coinbase Warned the CLARITY Act May Not Pass This Year",
+    "5 Straight Red Months For Bitcoin - One More And Its An ATH",
+    "India Leads the World in Crypto Adoption with 119 Million Users"
+  ],
+  "trading_signal": "CAUTION"
+}
