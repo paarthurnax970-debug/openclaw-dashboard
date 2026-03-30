@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-30T17:00:38.096405+00:00",
-  "overall_score": -3.31,
+  "timestamp": "2026-03-30T21:00:36.299566+00:00",
+  "overall_score": -3.23,
   "classification": "FEAR",
   "components": {
     "fear_greed": {
@@ -17,20 +17,20 @@
       "bearish_count": 0
     },
     "reddit": {
-      "score": 0.09,
+      "score": 0.21,
       "post_count": 25,
-      "avg_upvote_ratio": 0.826,
-      "weighted_text_avg": -0.406,
-      "upvote_signal": 1.306
+      "avg_upvote_ratio": 0.828,
+      "weighted_text_avg": -0.366,
+      "upvote_signal": 1.312
     }
   },
   "top_headlines": [],
   "top_reddit_posts": [
     "Daily Crypto Discussion - March 29, 2026 (GMT+0)",
+    "Strategy Buys at least 75,000 BTC in Q1, Aims to Own 1 Million BTC within 2026",
     "Chase pays 0.01% on savings. Coinbase pays 3.5% on USDC. Bank of America's CEO says $6 trillion in deposits could move to stablecoins as a result.",
     "Coinbase is currently fighting to protect $1.35B in annual revenue tied to USDC",
-    "Ah shit, here we go again",
-    "World is a casino and it will keep becoming bigger thanks to crypto... Hyperliquid, stocks on CEXs, Sphinx, then what's next?"
+    "Saylor Brings Back Laser Eyes as Bitcoin Whales Double Down"
   ],
   "trading_signal": "CAUTION"
 }
