@@ -1,48 +1,18 @@
 {
-  "timestamp": "2026-03-30T04:57:58.624711+00:00",
+  "timestamp": "2026-03-30T09:03:17.342867+00:00",
   "cryptopanic_hot": [],
   "defi_tvl_movers": [
     {
       "protocol": "Ball Exchange",
       "coin": "BALL",
-      "tvl_change_pct": 314231.11,
-      "tvl_usd": 128.73738711074478
-    },
-    {
-      "protocol": "Earnifty",
-      "coin": "-",
-      "tvl_change_pct": 1227.78,
-      "tvl_usd": 48.84405468094858
-    },
-    {
-      "protocol": "Solayer USD",
-      "coin": "LAYER",
-      "tvl_change_pct": 527.62,
-      "tvl_usd": 92.80340817384726
+      "tvl_change_pct": 313963.86,
+      "tvl_usd": 128.7378659886743
     },
     {
       "protocol": "ChewySwap",
       "coin": "CHEWY",
-      "tvl_change_pct": 494.48,
-      "tvl_usd": 181246.66768114673
-    },
-    {
-      "protocol": "firefly",
-      "coin": "-",
-      "tvl_change_pct": 286.29,
-      "tvl_usd": 197434.28395347286
-    },
-    {
-      "protocol": "Quenta",
-      "coin": "-",
-      "tvl_change_pct": 240.98,
-      "tvl_usd": 638.3878781173026
-    },
-    {
-      "protocol": "Monroe Protocol",
-      "coin": "-",
-      "tvl_change_pct": 225.92,
-      "tvl_usd": 16201.51540944268
+      "tvl_change_pct": 493.36,
+      "tvl_usd": 181258.7966571623
     },
     {
       "protocol": "MARSWAP",
@@ -51,34 +21,156 @@
       "tvl_usd": 18650.657316340847
     },
     {
-      "protocol": "Enclabs",
-      "coin": "-",
-      "tvl_change_pct": 157.98,
-      "tvl_usd": 82320.83097178824
-    },
-    {
       "protocol": "CORE Bridge",
       "coin": "CORE",
-      "tvl_change_pct": 112.84,
-      "tvl_usd": 5245303.979437225
+      "tvl_change_pct": 109.61,
+      "tvl_usd": 5166335.629797937
+    },
+    {
+      "protocol": "Spectra MetaVaults",
+      "coin": "SPECTRA",
+      "tvl_change_pct": 107.97,
+      "tvl_usd": 414033.3556528245
+    },
+    {
+      "protocol": "Revest Finance",
+      "coin": "RVST",
+      "tvl_change_pct": 101.45,
+      "tvl_usd": 91827.63395708003
+    },
+    {
+      "protocol": "KlimaDAO",
+      "coin": "KLIMA",
+      "tvl_change_pct": -100.0,
+      "tvl_usd": 0
+    },
+    {
+      "protocol": "SmartDEXBCH",
+      "coin": "DSMART",
+      "tvl_change_pct": -100.0,
+      "tvl_usd": 0
+    },
+    {
+      "protocol": "HonkSwap",
+      "coin": "HONK",
+      "tvl_change_pct": -100.0,
+      "tvl_usd": 0
+    },
+    {
+      "protocol": "cantOHM",
+      "coin": "COHM",
+      "tvl_change_pct": -100.0,
+      "tvl_usd": 0
     }
   ],
   "whale_alerts": [],
   "twitter_spikes": [],
+  "reddit_mentions": {
+    "CTO": 2,
+    "TON": 2,
+    "GROYP": 2,
+    "GROYPER": 2,
+    "BILLY": 2,
+    "MICHI": 2,
+    "MOODENG": 2,
+    "MOTHER": 2,
+    "BRETT": 1,
+    "EX": 1,
+    "LXVII": 1,
+    "SUS": 1,
+    "ANONCOIN": 1,
+    "GASHY": 1,
+    "PUNCH": 1,
+    "PISSIN": 1,
+    "AURA": 1,
+    "MUSK": 1,
+    "MEMA": 1,
+    "GIGA": 1,
+    "LFGO": 1,
+    "KNS": 1,
+    "KSW": 1,
+    "DOGE": 1,
+    "TRIPLET": 1,
+    "FAPCOIN": 1,
+    "ROSE": 1,
+    "ESP": 1,
+    "ZAMA": 1,
+    "RED": 1
+  },
+  "reddit_gem_leads": [
+    {
+      "address": "0xaa95f26e30001251fb905d264Aa7b00eE9dF6C18",
+      "source_post": "An Example Of An All Timer Community",
+      "subreddit": "CryptoMoonShots",
+      "upvotes": 19,
+      "age_hours": 10.3,
+      "url": "https://reddit.com/r/CryptoMoonShots/comments/1s79ikj/an_example_of_an_all_timer_community/"
+    },
+    {
+      "address": "0xef73611F98DA6E57e0776317957af61B59E09Ed7",
+      "source_post": "An Example Of An All Timer Community",
+      "subreddit": "CryptoMoonShots",
+      "upvotes": 19,
+      "age_hours": 10.3,
+      "url": "https://reddit.com/r/CryptoMoonShots/comments/1s79ikj/an_example_of_an_all_timer_community/"
+    }
+  ],
   "news_score": {
-    "-": 10,
     "BALL": 4,
-    "LAYER": 4,
     "CHEWY": 4,
     "MSWAP": 4,
-    "CORE": 4
+    "CORE": 4,
+    "SPECTRA": 4,
+    "RVST": 4,
+    "BRETT": 1,
+    "EX": 1,
+    "CTO": 1,
+    "TON": 1,
+    "GROYP": 1,
+    "GROYPER": 1,
+    "LXVII": 1,
+    "SUS": 1,
+    "ANONCOIN": 1,
+    "GASHY": 1,
+    "PUNCH": 1,
+    "PISSIN": 1,
+    "BILLY": 1,
+    "MICHI": 1,
+    "MOODENG": 1,
+    "MOTHER": 1,
+    "AURA": 1,
+    "MUSK": 1,
+    "MEMA": 1,
+    "GIGA": 1,
+    "LFGO": 1,
+    "KNS": 1,
+    "KSW": 1,
+    "DOGE": 1,
+    "TRIPLET": 1,
+    "FAPCOIN": 1,
+    "ROSE": 1,
+    "ESP": 1,
+    "ZAMA": 1,
+    "RED": 1,
+    "BTC": 1,
+    "SAHARA": 1,
+    "MERL": 1,
+    "SPARK": 1,
+    "WAVES": 1,
+    "BIRB": 1,
+    "ETH": 1,
+    "KLIMA": -2,
+    "DSMART": -2,
+    "HONK": -2,
+    "COHM": -2
   },
-  "overall_sentiment": "MILD_BULLISH",
+  "overall_sentiment": "NEUTRAL",
   "nitter_available": false,
   "sources": {
     "cryptopanic": false,
     "defi_llama": true,
     "whale_alert": false,
-    "nitter": false
+    "nitter": false,
+    "reddit": true
   }
 }
