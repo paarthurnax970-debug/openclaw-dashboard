@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-30T04:53:47.989978+00:00",
-  "overall_score": -3.21,
+  "timestamp": "2026-03-30T09:00:37.422691+00:00",
+  "overall_score": -3.23,
   "classification": "FEAR",
   "components": {
     "fear_greed": {
@@ -17,11 +17,11 @@
       "bearish_count": 0
     },
     "reddit": {
-      "score": 0.25,
+      "score": 0.22,
       "post_count": 25,
-      "avg_upvote_ratio": 0.766,
-      "weighted_text_avg": -0.27,
-      "upvote_signal": 1.064
+      "avg_upvote_ratio": 0.761,
+      "weighted_text_avg": -0.275,
+      "upvote_signal": 1.043
     }
   },
   "top_headlines": [],
@@ -29,8 +29,8 @@
     "Daily Crypto Discussion - March 29, 2026 (GMT+0)",
     "Ah shit, here we go again",
     "If Polymarket Insiders are to be believed, US might be initiating a land incursion into Iran before the end of the Month.",
-    "Nikolai Mushegian Tweeted the CIA Would Kill Him. Hours Later, He Was Dead.",
-    "MicroStrategy Chair Michael Saylor Breaks 13-Week Bitcoin Buying Ritual"
+    "MicroStrategy Chair Michael Saylor Breaks 13-Week Bitcoin Buying Ritual",
+    "Nikolai Mushegian Tweeted the CIA Would Kill Him. Hours Later, He Was Dead."
   ],
   "trading_signal": "CAUTION"
 }
