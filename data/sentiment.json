@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-30T09:00:37.422691+00:00",
-  "overall_score": -3.23,
+  "timestamp": "2026-03-30T13:00:36.754574+00:00",
+  "overall_score": -3.31,
   "classification": "FEAR",
   "components": {
     "fear_greed": {
@@ -17,20 +17,20 @@
       "bearish_count": 0
     },
     "reddit": {
-      "score": 0.22,
+      "score": 0.08,
       "post_count": 25,
-      "avg_upvote_ratio": 0.761,
-      "weighted_text_avg": -0.275,
-      "upvote_signal": 1.043
+      "avg_upvote_ratio": 0.736,
+      "weighted_text_avg": -0.287,
+      "upvote_signal": 0.942
     }
   },
   "top_headlines": [],
   "top_reddit_posts": [
     "Daily Crypto Discussion - March 29, 2026 (GMT+0)",
+    "Chase pays 0.01% on savings. Coinbase pays 3.5% on USDC. Bank of America's CEO says $6 trillion in deposits could move to stablecoins as a result.",
     "Ah shit, here we go again",
     "If Polymarket Insiders are to be believed, US might be initiating a land incursion into Iran before the end of the Month.",
-    "MicroStrategy Chair Michael Saylor Breaks 13-Week Bitcoin Buying Ritual",
-    "Nikolai Mushegian Tweeted the CIA Would Kill Him. Hours Later, He Was Dead."
+    "Congress proposes removal of widely used Bitcoin tax loophole and giving it to regulated stablecoins"
   ],
   "trading_signal": "CAUTION"
 }
