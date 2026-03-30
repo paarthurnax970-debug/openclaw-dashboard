@@ -1,12 +1,9 @@
 {
-  "timestamp": "2026-03-30T04:54:49.068618+00:00",
-  "confluence_score": 0,
-  "active_whale_count": 0,
-  "active_whales": [],
-  "total_events": 0,
-  "large_inflow_count": 0,
-  "dex_swap_count": 0,
-  "wallet_events": {},
-  "all_events": [],
-  "summary": "No significant whale activity detected in last 48h."
+  "generated_at": "2026-03-30T09:05:24.013377+00:00",
+  "scanner_version": "2.0",
+  "vc_signals_found": 0,
+  "vc_wallet_signals": [],
+  "large_wallet_moves": [],
+  "exchange_flows": [],
+  "smart_money_signals": []
 }
