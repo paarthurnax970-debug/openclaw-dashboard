@@ -1,36 +1,42 @@
 {
-  "timestamp": "2026-03-30T13:03:13.965629+00:00",
+  "timestamp": "2026-03-30T17:03:16.990927+00:00",
   "cryptopanic_hot": [],
   "defi_tvl_movers": [
     {
       "protocol": "Ball Exchange",
       "coin": "BALL",
-      "tvl_change_pct": 313963.86,
-      "tvl_usd": 128.7378659886743
+      "tvl_change_pct": 315648.75,
+      "tvl_usd": 128.73807481155393
     },
     {
       "protocol": "ChewySwap",
       "coin": "CHEWY",
-      "tvl_change_pct": 493.32,
-      "tvl_usd": 181216.69492294593
+      "tvl_change_pct": 492.15,
+      "tvl_usd": 180974.557753162
+    },
+    {
+      "protocol": "BIM Yield",
+      "coin": "BIM",
+      "tvl_change_pct": 431.68,
+      "tvl_usd": 150119.60299379562
     },
     {
       "protocol": "MARSWAP",
       "coin": "MSWAP",
-      "tvl_change_pct": 220.24,
-      "tvl_usd": 18685.94494005544
+      "tvl_change_pct": 220.3,
+      "tvl_usd": 18662.02241411859
     },
     {
       "protocol": "Rhino.fi",
       "coin": "RHINO",
-      "tvl_change_pct": 151.49,
-      "tvl_usd": 1495237.8761590444
+      "tvl_change_pct": 122.55,
+      "tvl_usd": 1296056.8702715146
     },
     {
       "protocol": "Revest Finance",
       "coin": "RVST",
-      "tvl_change_pct": 102.43,
-      "tvl_usd": 92011.49409151755
+      "tvl_change_pct": 102.53,
+      "tvl_usd": 91978.80307120278
     },
     {
       "protocol": "KlimaDAO",
@@ -51,12 +57,6 @@
       "tvl_usd": 0
     },
     {
-      "protocol": "cantOHM",
-      "coin": "COHM",
-      "tvl_change_pct": -100.0,
-      "tvl_usd": 0
-    },
-    {
       "protocol": "Solayer USD",
       "coin": "LAYER",
       "tvl_change_pct": -100.0,
@@ -67,15 +67,14 @@
   "twitter_spikes": [],
   "reddit_mentions": {
     "CTO": 2,
-    "GROYP": 2,
-    "GROYPER": 2,
     "TON": 2,
-    "MOODENG": 2,
-    "MICHI": 2,
-    "BILLY": 2,
+    "GROYPER": 2,
+    "GROYP": 2,
     "MOTHER": 2,
+    "MOODENG": 2,
+    "BILLY": 2,
+    "MICHI": 2,
     "BRETT": 1,
-    "EX": 1,
     "LXVII": 1,
     "ANONCOIN": 1,
     "SUS": 1,
@@ -91,50 +90,51 @@
     "TRIPLET": 1,
     "FAPCOIN": 1,
     "ROSE": 1,
+    "OMNI": 1,
     "DAG": 1,
-    "BTC": 1,
-    "MERL": 1,
-    "RED": 1,
-    "SPARK": 1
+    "PYTHIA": 1,
+    "BCE": 1,
+    "ESPORTS": 1,
+    "WAVES": 1
   },
   "reddit_gem_leads": [
-    {
-      "address": "0xaa95f26e30001251fb905d264Aa7b00eE9dF6C18",
-      "source_post": "An Example Of An All Timer Community",
-      "subreddit": "CryptoMoonShots",
-      "upvotes": 26,
-      "age_hours": 14.3,
-      "url": "https://reddit.com/r/CryptoMoonShots/comments/1s79ikj/an_example_of_an_all_timer_community/"
-    },
     {
       "address": "0xef73611F98DA6E57e0776317957af61B59E09Ed7",
       "source_post": "An Example Of An All Timer Community",
       "subreddit": "CryptoMoonShots",
-      "upvotes": 26,
-      "age_hours": 14.3,
+      "upvotes": 28,
+      "age_hours": 18.3,
+      "url": "https://reddit.com/r/CryptoMoonShots/comments/1s79ikj/an_example_of_an_all_timer_community/"
+    },
+    {
+      "address": "0xaa95f26e30001251fb905d264Aa7b00eE9dF6C18",
+      "source_post": "An Example Of An All Timer Community",
+      "subreddit": "CryptoMoonShots",
+      "upvotes": 28,
+      "age_hours": 18.3,
       "url": "https://reddit.com/r/CryptoMoonShots/comments/1s79ikj/an_example_of_an_all_timer_community/"
     }
   ],
   "news_score": {
     "BALL": 4,
     "CHEWY": 4,
+    "BIM": 4,
     "MSWAP": 4,
     "RHINO": 4,
     "RVST": 4,
     "BRETT": 1,
-    "EX": 1,
     "CTO": 1,
-    "GROYP": 1,
-    "GROYPER": 1,
     "TON": 1,
+    "GROYPER": 1,
+    "GROYP": 1,
     "LXVII": 1,
     "ANONCOIN": 1,
     "SUS": 1,
     "GASHY": 1,
-    "MOODENG": 1,
-    "MICHI": 1,
-    "BILLY": 1,
     "MOTHER": 1,
+    "MOODENG": 1,
+    "BILLY": 1,
+    "MICHI": 1,
     "AURA": 1,
     "MUSK": 1,
     "MEMA": 1,
@@ -146,21 +146,20 @@
     "TRIPLET": 1,
     "FAPCOIN": 1,
     "ROSE": 1,
+    "OMNI": 1,
     "DAG": 1,
-    "BTC": 1,
-    "MERL": 1,
-    "RED": 1,
-    "SPARK": 1,
     "PYTHIA": 1,
+    "BCE": 1,
     "ESPORTS": 1,
-    "ZAMA": 1,
     "WAVES": 1,
+    "BIRB": 1,
+    "ZAMA": 1,
+    "SAHARA": 1,
     "ESP": 1,
     "IDOS": 1,
     "KLIMA": -2,
     "DSMART": -2,
     "HONK": -2,
-    "COHM": -2,
     "LAYER": -2
   },
   "overall_sentiment": "NEUTRAL",
