@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T13:04:44.946514+00:00",
+  "generated_at": "2026-03-30T17:04:56.929762+00:00",
   "scanner_version": "2.0",
   "chains_scanned": [
     "BASE",
@@ -8,25 +8,25 @@
     "ETH"
   ],
   "chain_priority": "Base \u2192 BSC \u2192 SOL \u2192 ETH",
-  "total_raw": 1,
-  "passed_security": 1,
+  "total_raw": 2,
+  "passed_security": 2,
   "launch_watchlist": [
     {
-      "name": "ARBOS / WETH 0.01%",
-      "symbol": "ARBOS",
-      "address": "0x8e9b88eca346cd678ddcec7d17e2e3b4a0b133ca",
+      "name": "GINA / WETH 1%",
+      "symbol": "GINA",
+      "address": "0x08079160750d583fb3174bce9ca4b519b4c86f39",
       "chain": "BASE",
       "age_days": 0,
-      "market_cap": 199973.912,
-      "liquidity_usd": 90927.9041,
-      "volume_24h": 136776.328144428,
-      "price_change_24h": 1689.828,
-      "price_change_6h": 1689.828,
-      "buys_24h": 226,
-      "sells_24h": 103,
-      "txns_24h": 329,
+      "market_cap": 47742.07414,
+      "liquidity_usd": 48986.1015,
+      "volume_24h": 71042.299705969,
+      "price_change_24h": 281.042,
+      "price_change_6h": 281.042,
+      "buys_24h": 190,
+      "sells_24h": 92,
+      "txns_24h": 282,
       "narrative_tags": [],
-      "dex_url": "https://dexscreener.com/base/0x8e9b88eca346cd678ddcec7d17e2e3b4a0b133ca",
+      "dex_url": "https://dexscreener.com/base/0x08079160750d583fb3174bce9ca4b519b4c86f39",
       "goplus": {
         "is_honeypot": "0",
         "is_mintable": "0",
@@ -38,6 +38,34 @@
       "holders": 0,
       "volume_growing": true,
       "launch_score": 53
+    },
+    {
+      "name": "\u6211\u7684\u5200\u76fe / WETH",
+      "symbol": "\u6211\u7684\u5200\u76fe",
+      "address": "0xfabd8d91c9c0cd3f852466bada03673918de5284",
+      "chain": "ETH",
+      "age_days": 0,
+      "market_cap": 289151.511281655,
+      "liquidity_usd": 50174.7534,
+      "volume_24h": 321151.711148541,
+      "price_change_24h": 4735.745,
+      "price_change_6h": 4735.745,
+      "buys_24h": 126,
+      "sells_24h": 30,
+      "txns_24h": 156,
+      "narrative_tags": [],
+      "dex_url": "https://dexscreener.com/eth/0xfabd8d91c9c0cd3f852466bada03673918de5284",
+      "goplus": {
+        "is_honeypot": "0",
+        "is_mintable": "0",
+        "buy_tax": "0",
+        "sell_tax": "0",
+        "holder_count": 0,
+        "lp_holders": []
+      },
+      "holders": 0,
+      "volume_growing": true,
+      "launch_score": 48
     }
   ]
 }
