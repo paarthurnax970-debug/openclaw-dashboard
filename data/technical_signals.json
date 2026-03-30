@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-03-30T13:00:32.234665+00:00",
+  "timestamp": "2026-03-30T17:00:33.550018+00:00",
   "coins_analyzed": 10,
   "top_signals_count": 6,
   "results": [
     {
       "coin": "USDC",
       "coin_id": "usd-coin",
-      "current_price": 0.999754,
+      "current_price": 0.999665,
       "score": 7,
       "reasons": [
-        "RSI approaching oversold (35.35)",
+        "RSI approaching oversold (34.14)",
         "Price at BB lower (potential bounce)"
       ],
       "indicators": {
-        "rsi_14": 35.35,
+        "rsi_14": 34.14,
         "macd": {
-          "macd": -4.7e-05,
+          "macd": -4.9e-05,
           "signal": -2.4e-05,
-          "histogram": -2.3e-05,
+          "histogram": -2.5e-05,
           "bullish_cross": false,
           "bearish_cross": false
         },
@@ -26,7 +26,7 @@
           "middle": 0.9999,
           "lower": 0.9997,
           "width": 0.0003,
-          "price_position": -0.05,
+          "price_position": -0.095,
           "above_upper": false,
           "below_lower": true
         },
@@ -48,33 +48,33 @@
         "7d_pct": -0.02,
         "30d_pct": -0.02
       },
-      "volume_24h": 6357954034.405253,
-      "avg_volume_20d": 7683349571.0
+      "volume_24h": 7512479299.488151,
+      "avg_volume_20d": 7741075834.0
     },
     {
       "coin": "USD1",
       "coin_id": "usd1-wlfi",
-      "current_price": 0.999631,
+      "current_price": 0.999682,
       "score": 7,
       "reasons": [
         "MACD positive histogram",
         "BB squeeze \u2014 volatility imminent"
       ],
       "indicators": {
-        "rsi_14": 52.74,
+        "rsi_14": 54.66,
         "macd": {
-          "macd": -7e-06,
-          "signal": -3.7e-05,
-          "histogram": 3e-05,
+          "macd": 3e-06,
+          "signal": -3.5e-05,
+          "histogram": 3.8e-05,
           "bullish_cross": false,
           "bearish_cross": false
         },
         "bollinger_bands": {
-          "upper": 0.9997,
+          "upper": 0.9998,
           "middle": 0.9994,
           "lower": 0.9991,
           "width": 0.0007,
-          "price_position": 0.843,
+          "price_position": 0.99,
           "above_upper": false,
           "below_lower": false
         },
@@ -92,43 +92,43 @@
         "death_cross": false
       },
       "price_change": {
-        "1d_pct": 0.01,
-        "7d_pct": 0.03,
-        "30d_pct": 0.03
+        "1d_pct": 0.02,
+        "7d_pct": 0.04,
+        "30d_pct": 0.04
       },
-      "volume_24h": 1012306977.3023783,
-      "avg_volume_20d": 1233090047.0
+      "volume_24h": 1172091247.6738844,
+      "avg_volume_20d": 1241079261.0
     },
     {
       "coin": "TRX",
       "coin_id": "tron",
-      "current_price": 0.319042,
+      "current_price": 0.318481,
       "score": 7,
       "reasons": [
-        "RSI bullish momentum (66.7)",
+        "RSI bullish momentum (65.99)",
         "MACD positive histogram"
       ],
       "indicators": {
-        "rsi_14": 66.7,
+        "rsi_14": 65.99,
         "macd": {
-          "macd": 0.007468,
-          "signal": 0.006521,
-          "histogram": 0.000947,
+          "macd": 0.007426,
+          "signal": 0.006513,
+          "histogram": 0.000913,
           "bullish_cross": false,
           "bearish_cross": false
         },
         "bollinger_bands": {
-          "upper": 0.3241,
+          "upper": 0.324,
           "middle": 0.306,
           "lower": 0.288,
-          "width": 0.1179,
-          "price_position": 0.86,
+          "width": 0.1175,
+          "price_position": 0.848,
           "above_upper": false,
           "below_lower": false
         },
         "emas": {
-          "ema9": 0.3138,
-          "ema21": 0.3065,
+          "ema9": 0.3136,
+          "ema21": 0.3064,
           "ema50": 0.2989
         }
       },
@@ -140,27 +140,27 @@
         "death_cross": false
       },
       "price_change": {
-        "1d_pct": -0.79,
-        "7d_pct": 3.81,
-        "30d_pct": 13.14
+        "1d_pct": -0.95,
+        "7d_pct": 3.64,
+        "30d_pct": 12.96
       },
-      "volume_24h": 650545946.4153782,
-      "avg_volume_20d": 538861356.0
+      "volume_24h": 695887606.5023986,
+      "avg_volume_20d": 541128439.0
     },
     {
       "coin": "USDT",
       "coin_id": "tether",
-      "current_price": 0.999201,
+      "current_price": 0.999329,
       "score": 6,
       "reasons": [
-        "RSI approaching oversold (31.03)"
+        "RSI approaching oversold (36.37)"
       ],
       "indicators": {
-        "rsi_14": 31.03,
+        "rsi_14": 36.37,
         "macd": {
-          "macd": -0.00017,
-          "signal": -8.1e-05,
-          "histogram": -8.9e-05,
+          "macd": -0.000159,
+          "signal": -7.9e-05,
+          "histogram": -8e-05,
           "bullish_cross": false,
           "bearish_cross": false
         },
@@ -169,13 +169,13 @@
           "middle": 0.9998,
           "lower": 0.9991,
           "width": 0.0013,
-          "price_position": 0.069,
+          "price_position": 0.153,
           "above_upper": false,
           "below_lower": false
         },
         "emas": {
-          "ema9": 0.9994,
-          "ema21": 0.9996,
+          "ema9": 0.9995,
+          "ema21": 0.9997,
           "ema50": 0.9997
         }
       },
@@ -187,43 +187,43 @@
         "death_cross": false
       },
       "price_change": {
-        "1d_pct": -0.0,
-        "7d_pct": -0.05,
-        "30d_pct": -0.12
+        "1d_pct": 0.01,
+        "7d_pct": -0.04,
+        "30d_pct": -0.1
       },
-      "volume_24h": 53449415641.057396,
-      "avg_volume_20d": 66587316240.0
+      "volume_24h": 60293096896.431625,
+      "avg_volume_20d": 66929500302.0
     },
     {
       "coin": "ETH",
       "coin_id": "ethereum",
-      "current_price": 2073.56,
+      "current_price": 2061.07,
       "score": 6,
       "reasons": [
         "BB squeeze \u2014 volatility imminent"
       ],
       "indicators": {
-        "rsi_14": 48.89,
+        "rsi_14": 48.02,
         "macd": {
-          "macd": -16.106165,
-          "signal": -2.089877,
-          "histogram": -14.016288,
+          "macd": -17.106914,
+          "signal": -2.290027,
+          "histogram": -14.816887,
           "bullish_cross": false,
           "bearish_cross": false
         },
         "bollinger_bands": {
-          "upper": 2307.3,
-          "middle": 2117.8668,
-          "lower": 1928.4337,
-          "width": 0.1789,
-          "price_position": 0.383,
+          "upper": 2307.3374,
+          "middle": 2117.2396,
+          "lower": 1927.1417,
+          "width": 0.1796,
+          "price_position": 0.352,
           "above_upper": false,
           "below_lower": false
         },
         "emas": {
-          "ema9": 2062.0617,
-          "ema21": 2082.5202,
-          "ema50": 2196.0385
+          "ema9": 2059.5527,
+          "ema21": 2081.3797,
+          "ema50": 2195.5466
         }
       },
       "patterns": {
@@ -234,42 +234,42 @@
         "death_cross": false
       },
       "price_change": {
-        "1d_pct": 4.56,
-        "7d_pct": -3.62,
-        "30d_pct": 5.52
+        "1d_pct": 3.92,
+        "7d_pct": -4.21,
+        "30d_pct": 4.88
       },
-      "volume_24h": 14708584208.605658,
-      "avg_volume_20d": 18677418722.0
+      "volume_24h": 16839697633.236664,
+      "avg_volume_20d": 18783974393.0
     },
     {
       "coin": "DOGE",
       "coin_id": "dogecoin",
-      "current_price": 0.092905,
+      "current_price": 0.092522,
       "score": 6,
       "reasons": [
         "BB squeeze \u2014 volatility imminent"
       ],
       "indicators": {
-        "rsi_14": 47.9,
+        "rsi_14": 47.3,
         "macd": {
-          "macd": -0.001344,
-          "signal": -0.00122,
-          "histogram": -0.000124,
+          "macd": -0.001374,
+          "signal": -0.001226,
+          "histogram": -0.000148,
           "bullish_cross": false,
           "bearish_cross": false
         },
         "bollinger_bands": {
           "upper": 0.1009,
-          "middle": 0.0944,
-          "lower": 0.0879,
-          "width": 0.1378,
-          "price_position": 0.389,
+          "middle": 0.0943,
+          "lower": 0.0878,
+          "width": 0.1382,
+          "price_position": 0.362,
           "above_upper": false,
           "below_lower": false
         },
         "emas": {
           "ema9": 0.0924,
-          "ema21": 0.0936,
+          "ema21": 0.0935,
           "ema50": 0.0992
         }
       },
@@ -281,41 +281,41 @@
         "death_cross": false
       },
       "price_change": {
-        "1d_pct": 2.8,
-        "7d_pct": -1.15,
-        "30d_pct": -1.27
+        "1d_pct": 2.39,
+        "7d_pct": -1.54,
+        "30d_pct": -1.66
       },
-      "volume_24h": 1138952682.8550694,
-      "avg_volume_20d": 1166892799.0
+      "volume_24h": 1202218382.4913232,
+      "avg_volume_20d": 1170056084.0
     },
     {
       "coin": "BTC",
       "coin_id": "bitcoin",
-      "current_price": 67851,
+      "current_price": 67263,
       "score": 5,
       "reasons": [],
       "indicators": {
-        "rsi_14": 45.9,
+        "rsi_14": 44.23,
         "macd": {
-          "macd": -789.745608,
-          "signal": -365.884976,
-          "histogram": -423.860632,
+          "macd": -836.720303,
+          "signal": -375.279915,
+          "histogram": -461.440388,
           "bullish_cross": false,
           "bearish_cross": false
         },
         "bollinger_bands": {
-          "upper": 74707.6988,
-          "middle": 70033.0905,
-          "lower": 65358.4823,
-          "width": 0.1335,
-          "price_position": 0.266,
+          "upper": 74739.9157,
+          "middle": 70003.6475,
+          "lower": 65267.3792,
+          "width": 0.1353,
+          "price_position": 0.21,
           "above_upper": false,
           "below_lower": false
         },
         "emas": {
-          "ema9": 68150.4014,
-          "ema21": 69066.1158,
-          "ema50": 71866.0703
+          "ema9": 68032.6291,
+          "ema21": 69012.5829,
+          "ema50": 71842.9777
         }
       },
       "patterns": {
@@ -326,41 +326,41 @@
         "death_cross": false
       },
       "price_change": {
-        "1d_pct": 2.85,
-        "7d_pct": -4.29,
-        "30d_pct": 1.25
+        "1d_pct": 1.96,
+        "7d_pct": -5.12,
+        "30d_pct": 0.38
       },
-      "volume_24h": 33288458594.758995,
-      "avg_volume_20d": 40404410195.0
+      "volume_24h": 38132172605.3414,
+      "avg_volume_20d": 40646595896.0
     },
     {
       "coin": "SOL",
       "coin_id": "solana",
-      "current_price": 84.45,
+      "current_price": 84.02,
       "score": 5,
       "reasons": [],
       "indicators": {
-        "rsi_14": 45.1,
+        "rsi_14": 44.37,
         "macd": {
-          "macd": -1.249443,
-          "signal": -0.483264,
-          "histogram": -0.766178,
+          "macd": -1.283416,
+          "signal": -0.490059,
+          "histogram": -0.793357,
           "bullish_cross": false,
           "bearish_cross": false
         },
         "bollinger_bands": {
-          "upper": 96.0319,
-          "middle": 88.3362,
-          "lower": 80.6404,
-          "width": 0.1742,
-          "price_position": 0.247,
+          "upper": 96.0558,
+          "middle": 88.3149,
+          "lower": 80.574,
+          "width": 0.1753,
+          "price_position": 0.223,
           "above_upper": false,
           "below_lower": false
         },
         "emas": {
-          "ema9": 85.494,
-          "ema21": 86.9592,
-          "ema50": 92.6347
+          "ema9": 85.4089,
+          "ema21": 86.9204,
+          "ema50": 92.618
         }
       },
       "patterns": {
@@ -371,41 +371,41 @@
         "death_cross": false
       },
       "price_change": {
-        "1d_pct": 3.82,
-        "7d_pct": -7.58,
-        "30d_pct": 0.02
+        "1d_pct": 3.3,
+        "7d_pct": -8.05,
+        "30d_pct": -0.48
       },
-      "volume_24h": 3123749800.887936,
-      "avg_volume_20d": 3587696998.0
+      "volume_24h": 3437926664.2248464,
+      "avg_volume_20d": 3603405841.0
     },
     {
       "coin": "XRP",
       "coin_id": "ripple",
-      "current_price": 1.35,
+      "current_price": 1.34,
       "score": 5,
       "reasons": [],
       "indicators": {
-        "rsi_14": 43.15,
+        "rsi_14": 41.16,
         "macd": {
-          "macd": -0.023757,
-          "signal": -0.014861,
-          "histogram": -0.008896,
+          "macd": -0.024791,
+          "signal": -0.015068,
+          "histogram": -0.009723,
           "bullish_cross": false,
           "bearish_cross": false
         },
         "bollinger_bands": {
-          "upper": 1.5241,
-          "middle": 1.4098,
-          "lower": 1.2954,
-          "width": 0.1623,
-          "price_position": 0.248,
+          "upper": 1.5249,
+          "middle": 1.4091,
+          "lower": 1.2933,
+          "width": 0.1644,
+          "price_position": 0.198,
           "above_upper": false,
           "below_lower": false
         },
         "emas": {
-          "ema9": 1.3671,
-          "ema21": 1.392,
-          "ema50": 1.4764
+          "ema9": 1.3645,
+          "ema21": 1.3908,
+          "ema50": 1.4759
         }
       },
       "patterns": {
@@ -416,41 +416,41 @@
         "death_cross": false
       },
       "price_change": {
-        "1d_pct": 1.9,
-        "7d_pct": -5.52,
-        "30d_pct": -1.97
+        "1d_pct": 0.93,
+        "7d_pct": -6.43,
+        "30d_pct": -2.91
       },
-      "volume_24h": 1951390055.8438122,
-      "avg_volume_20d": 2355269667.0
+      "volume_24h": 2110345698.2636101,
+      "avg_volume_20d": 2363217449.0
     },
     {
       "coin": "BNB",
       "coin_id": "binancecoin",
-      "current_price": 618.96,
+      "current_price": 615.72,
       "score": 5,
       "reasons": [],
       "indicators": {
-        "rsi_14": 43.38,
+        "rsi_14": 42.13,
         "macd": {
-          "macd": -8.879406,
-          "signal": -5.740829,
-          "histogram": -3.138577,
+          "macd": -9.124354,
+          "signal": -5.789818,
+          "histogram": -3.334536,
           "bullish_cross": false,
           "bearish_cross": false
         },
         "bollinger_bands": {
-          "upper": 681.9274,
-          "middle": 641.4979,
-          "lower": 601.0684,
-          "width": 0.126,
-          "price_position": 0.221,
+          "upper": 682.1368,
+          "middle": 641.3444,
+          "lower": 600.552,
+          "width": 0.1272,
+          "price_position": 0.188,
           "above_upper": false,
           "below_lower": false
         },
         "emas": {
-          "ema9": 623.6961,
-          "ema21": 632.8926,
-          "ema50": 668.2665
+          "ema9": 623.0819,
+          "ema21": 632.6135,
+          "ema50": 668.1461
         }
       },
       "patterns": {
@@ -461,30 +461,30 @@
         "death_cross": false
       },
       "price_change": {
-        "1d_pct": 2.19,
-        "7d_pct": -3.09,
-        "30d_pct": 0.23
+        "1d_pct": 1.68,
+        "7d_pct": -3.57,
+        "30d_pct": -0.27
       },
-      "volume_24h": 949170233.611175,
-      "avg_volume_20d": 1018063979.0
+      "volume_24h": 989959752.4457234,
+      "avg_volume_20d": 1020103455.0
     }
   ],
   "top_signals": [
     {
       "coin": "USDC",
       "coin_id": "usd-coin",
-      "current_price": 0.999754,
+      "current_price": 0.999665,
       "score": 7,
       "reasons": [
-        "RSI approaching oversold (35.35)",
+        "RSI approaching oversold (34.14)",
         "Price at BB lower (potential bounce)"
       ],
       "indicators": {
-        "rsi_14": 35.35,
+        "rsi_14": 34.14,
         "macd": {
-          "macd": -4.7e-05,
+          "macd": -4.9e-05,
           "signal": -2.4e-05,
-          "histogram": -2.3e-05,
+          "histogram": -2.5e-05,
           "bullish_cross": false,
           "bearish_cross": false
         },
@@ -493,7 +493,7 @@
           "middle": 0.9999,
           "lower": 0.9997,
           "width": 0.0003,
-          "price_position": -0.05,
+          "price_position": -0.095,
           "above_upper": false,
           "below_lower": true
         },
@@ -515,33 +515,33 @@
         "7d_pct": -0.02,
         "30d_pct": -0.02
       },
-      "volume_24h": 6357954034.405253,
-      "avg_volume_20d": 7683349571.0
+      "volume_24h": 7512479299.488151,
+      "avg_volume_20d": 7741075834.0
     },
     {
       "coin": "USD1",
       "coin_id": "usd1-wlfi",
-      "current_price": 0.999631,
+      "current_price": 0.999682,
       "score": 7,
       "reasons": [
         "MACD positive histogram",
         "BB squeeze \u2014 volatility imminent"
       ],
       "indicators": {
-        "rsi_14": 52.74,
+        "rsi_14": 54.66,
         "macd": {
-          "macd": -7e-06,
-          "signal": -3.7e-05,
-          "histogram": 3e-05,
+          "macd": 3e-06,
+          "signal": -3.5e-05,
+          "histogram": 3.8e-05,
           "bullish_cross": false,
           "bearish_cross": false
         },
         "bollinger_bands": {
-          "upper": 0.9997,
+          "upper": 0.9998,
           "middle": 0.9994,
           "lower": 0.9991,
           "width": 0.0007,
-          "price_position": 0.843,
+          "price_position": 0.99,
           "above_upper": false,
           "below_lower": false
         },
@@ -559,43 +559,43 @@
         "death_cross": false
       },
       "price_change": {
-        "1d_pct": 0.01,
-        "7d_pct": 0.03,
-        "30d_pct": 0.03
+        "1d_pct": 0.02,
+        "7d_pct": 0.04,
+        "30d_pct": 0.04
       },
-      "volume_24h": 1012306977.3023783,
-      "avg_volume_20d": 1233090047.0
+      "volume_24h": 1172091247.6738844,
+      "avg_volume_20d": 1241079261.0
     },
     {
       "coin": "TRX",
       "coin_id": "tron",
-      "current_price": 0.319042,
+      "current_price": 0.318481,
       "score": 7,
       "reasons": [
-        "RSI bullish momentum (66.7)",
+        "RSI bullish momentum (65.99)",
         "MACD positive histogram"
       ],
       "indicators": {
-        "rsi_14": 66.7,
+        "rsi_14": 65.99,
         "macd": {
-          "macd": 0.007468,
-          "signal": 0.006521,
-          "histogram": 0.000947,
+          "macd": 0.007426,
+          "signal": 0.006513,
+          "histogram": 0.000913,
           "bullish_cross": false,
           "bearish_cross": false
         },
         "bollinger_bands": {
-          "upper": 0.3241,
+          "upper": 0.324,
           "middle": 0.306,
           "lower": 0.288,
-          "width": 0.1179,
-          "price_position": 0.86,
+          "width": 0.1175,
+          "price_position": 0.848,
           "above_upper": false,
           "below_lower": false
         },
         "emas": {
-          "ema9": 0.3138,
-          "ema21": 0.3065,
+          "ema9": 0.3136,
+          "ema21": 0.3064,
           "ema50": 0.2989
         }
       },
@@ -607,27 +607,27 @@
         "death_cross": false
       },
       "price_change": {
-        "1d_pct": -0.79,
-        "7d_pct": 3.81,
-        "30d_pct": 13.14
+        "1d_pct": -0.95,
+        "7d_pct": 3.64,
+        "30d_pct": 12.96
       },
-      "volume_24h": 650545946.4153782,
-      "avg_volume_20d": 538861356.0
+      "volume_24h": 695887606.5023986,
+      "avg_volume_20d": 541128439.0
     },
     {
       "coin": "USDT",
       "coin_id": "tether",
-      "current_price": 0.999201,
+      "current_price": 0.999329,
       "score": 6,
       "reasons": [
-        "RSI approaching oversold (31.03)"
+        "RSI approaching oversold (36.37)"
       ],
       "indicators": {
-        "rsi_14": 31.03,
+        "rsi_14": 36.37,
         "macd": {
-          "macd": -0.00017,
-          "signal": -8.1e-05,
-          "histogram": -8.9e-05,
+          "macd": -0.000159,
+          "signal": -7.9e-05,
+          "histogram": -8e-05,
           "bullish_cross": false,
           "bearish_cross": false
         },
@@ -636,13 +636,13 @@
           "middle": 0.9998,
           "lower": 0.9991,
           "width": 0.0013,
-          "price_position": 0.069,
+          "price_position": 0.153,
           "above_upper": false,
           "below_lower": false
         },
         "emas": {
-          "ema9": 0.9994,
-          "ema21": 0.9996,
+          "ema9": 0.9995,
+          "ema21": 0.9997,
           "ema50": 0.9997
         }
       },
@@ -654,43 +654,43 @@
         "death_cross": false
       },
       "price_change": {
-        "1d_pct": -0.0,
-        "7d_pct": -0.05,
-        "30d_pct": -0.12
+        "1d_pct": 0.01,
+        "7d_pct": -0.04,
+        "30d_pct": -0.1
       },
-      "volume_24h": 53449415641.057396,
-      "avg_volume_20d": 66587316240.0
+      "volume_24h": 60293096896.431625,
+      "avg_volume_20d": 66929500302.0
     },
     {
       "coin": "ETH",
       "coin_id": "ethereum",
-      "current_price": 2073.56,
+      "current_price": 2061.07,
       "score": 6,
       "reasons": [
         "BB squeeze \u2014 volatility imminent"
       ],
       "indicators": {
-        "rsi_14": 48.89,
+        "rsi_14": 48.02,
         "macd": {
-          "macd": -16.106165,
-          "signal": -2.089877,
-          "histogram": -14.016288,
+          "macd": -17.106914,
+          "signal": -2.290027,
+          "histogram": -14.816887,
           "bullish_cross": false,
           "bearish_cross": false
         },
         "bollinger_bands": {
-          "upper": 2307.3,
-          "middle": 2117.8668,
-          "lower": 1928.4337,
-          "width": 0.1789,
-          "price_position": 0.383,
+          "upper": 2307.3374,
+          "middle": 2117.2396,
+          "lower": 1927.1417,
+          "width": 0.1796,
+          "price_position": 0.352,
           "above_upper": false,
           "below_lower": false
         },
         "emas": {
-          "ema9": 2062.0617,
-          "ema21": 2082.5202,
-          "ema50": 2196.0385
+          "ema9": 2059.5527,
+          "ema21": 2081.3797,
+          "ema50": 2195.5466
         }
       },
       "patterns": {
@@ -701,42 +701,42 @@
         "death_cross": false
       },
       "price_change": {
-        "1d_pct": 4.56,
-        "7d_pct": -3.62,
-        "30d_pct": 5.52
+        "1d_pct": 3.92,
+        "7d_pct": -4.21,
+        "30d_pct": 4.88
       },
-      "volume_24h": 14708584208.605658,
-      "avg_volume_20d": 18677418722.0
+      "volume_24h": 16839697633.236664,
+      "avg_volume_20d": 18783974393.0
     },
     {
       "coin": "DOGE",
       "coin_id": "dogecoin",
-      "current_price": 0.092905,
+      "current_price": 0.092522,
       "score": 6,
       "reasons": [
         "BB squeeze \u2014 volatility imminent"
       ],
       "indicators": {
-        "rsi_14": 47.9,
+        "rsi_14": 47.3,
         "macd": {
-          "macd": -0.001344,
-          "signal": -0.00122,
-          "histogram": -0.000124,
+          "macd": -0.001374,
+          "signal": -0.001226,
+          "histogram": -0.000148,
           "bullish_cross": false,
           "bearish_cross": false
         },
         "bollinger_bands": {
           "upper": 0.1009,
-          "middle": 0.0944,
-          "lower": 0.0879,
-          "width": 0.1378,
-          "price_position": 0.389,
+          "middle": 0.0943,
+          "lower": 0.0878,
+          "width": 0.1382,
+          "price_position": 0.362,
           "above_upper": false,
           "below_lower": false
         },
         "emas": {
           "ema9": 0.0924,
-          "ema21": 0.0936,
+          "ema21": 0.0935,
           "ema50": 0.0992
         }
       },
@@ -748,12 +748,12 @@
         "death_cross": false
       },
       "price_change": {
-        "1d_pct": 2.8,
-        "7d_pct": -1.15,
-        "30d_pct": -1.27
+        "1d_pct": 2.39,
+        "7d_pct": -1.54,
+        "30d_pct": -1.66
       },
-      "volume_24h": 1138952682.8550694,
-      "avg_volume_20d": 1166892799.0
+      "volume_24h": 1202218382.4913232,
+      "avg_volume_20d": 1170056084.0
     }
   ],
   "market_summary": {
@@ -765,11 +765,11 @@
   },
   "market_regime": {
     "regime": "BEAR",
-    "reason": "BTC ($67,849) below EMA50 ($71,220)",
-    "btc_price": 67849.25,
-    "ema50": 71219.83,
-    "ema200": 85131.85,
-    "timestamp": "2026-03-30T13:00:32.234665+00:00",
+    "reason": "BTC ($67,260) below EMA50 ($71,197)",
+    "btc_price": 67260.39,
+    "ema50": 71196.74,
+    "ema200": 85125.99,
+    "timestamp": "2026-03-30T17:00:33.550018+00:00",
     "trading_bias": "BEAR regime: Only SHORT setups or high-confluence mean-reversion bounces."
   }
 }
