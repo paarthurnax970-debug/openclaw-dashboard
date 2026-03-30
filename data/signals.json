@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-30T04:56:33.289693+00:00",
+  "timestamp": "2026-03-30T05:01:26.087965+00:00",
   "signal_count": 3,
   "market_regime": "BEAR",
   "watchlist_mode": true,
   "active_signals": [
     {
       "id": "ETH-2026-03-30-001",
-      "generated_at": "2026-03-30T04:56:33",
+      "generated_at": "2026-03-30T05:01:25",
       "coin": "ETH",
       "coin_name": "ETH",
       "direction": "LONG",
@@ -41,7 +41,7 @@
         "gem_factor": "Market cap data unavailable.",
         "key_risk": "BEAR regime \u2014 this is a counter-trend bounce. Hard stop required. Do not hold through SL. Exit quickly if momentum doesn't follow through. Max 1.5% account risk."
       },
-      "status": "TRIGGERED",
+      "status": "WATCHING",
       "status_note": "WATCHLIST entry. Lower threshold. Enter only at $1925.2113\u2013$2074.6397.",
       "watchlist_mode": true,
       "outcome": null,
@@ -60,14 +60,13 @@
         "sentiment": -3.21,
         "orderbook": 1.7877,
         "vol_surge": 1.0,
-        "gem_score": 0
-      },
-      "last_price": 2047.22,
-      "last_checked": "2026-03-30T05:00:49.187330+00:00"
+        "gem_score": 0,
+        "news": 0
+      }
     },
     {
       "id": "SOL-2026-03-30-003",
-      "generated_at": "2026-03-30T04:56:33",
+      "generated_at": "2026-03-30T05:01:25",
       "coin": "SOL",
       "coin_name": "SOL",
       "direction": "LONG",
@@ -102,7 +101,7 @@
         "gem_factor": "Market cap data unavailable.",
         "key_risk": "BEAR regime \u2014 this is a counter-trend bounce. Hard stop required. Do not hold through SL. Exit quickly if momentum doesn't follow through. Max 1.5% account risk."
       },
-      "status": "TRIGGERED",
+      "status": "WATCHING",
       "status_note": "WATCHLIST entry. Lower threshold. Enter only at $80.4944\u2013$83.9376.",
       "watchlist_mode": true,
       "outcome": null,
@@ -121,14 +120,13 @@
         "sentiment": -3.21,
         "orderbook": 1.25025,
         "vol_surge": 1.0,
-        "gem_score": 0
-      },
-      "last_price": 83.68,
-      "last_checked": "2026-03-30T05:00:49.187330+00:00"
+        "gem_score": 0,
+        "news": 0
+      }
     },
     {
       "id": "DOGE-2026-03-30-002",
-      "generated_at": "2026-03-30T04:56:33",
+      "generated_at": "2026-03-30T05:01:25",
       "coin": "DOGE",
       "coin_name": "DOGE",
       "direction": "LONG",
@@ -163,7 +161,7 @@
         "gem_factor": "Market cap data unavailable.",
         "key_risk": "BEAR regime \u2014 this is a counter-trend bounce. Hard stop required. Do not hold through SL. Exit quickly if momentum doesn't follow through. Max 1.5% account risk."
       },
-      "status": "TRIGGERED",
+      "status": "WATCHING",
       "status_note": "WATCHLIST entry. Lower threshold. Enter only at $0.0878\u2013$0.094131.",
       "watchlist_mode": true,
       "outcome": null,
@@ -182,10 +180,9 @@
         "sentiment": -3.21,
         "orderbook": 5,
         "vol_surge": 1.0,
-        "gem_score": 0
-      },
-      "last_price": 0.0929,
-      "last_checked": "2026-03-30T05:00:49.187330+00:00"
+        "gem_score": 0,
+        "news": 0
+      }
     }
   ],
   "historical": [
@@ -396,6 +393,5 @@
         "gem_score": 0
       }
     }
-  ],
-  "last_checked": "2026-03-30T05:00:49.187330+00:00"
+  ]
 }
