@@ -1,0 +1,84 @@
+{
+  "timestamp": "2026-03-30T04:57:58.624711+00:00",
+  "cryptopanic_hot": [],
+  "defi_tvl_movers": [
+    {
+      "protocol": "Ball Exchange",
+      "coin": "BALL",
+      "tvl_change_pct": 314231.11,
+      "tvl_usd": 128.73738711074478
+    },
+    {
+      "protocol": "Earnifty",
+      "coin": "-",
+      "tvl_change_pct": 1227.78,
+      "tvl_usd": 48.84405468094858
+    },
+    {
+      "protocol": "Solayer USD",
+      "coin": "LAYER",
+      "tvl_change_pct": 527.62,
+      "tvl_usd": 92.80340817384726
+    },
+    {
+      "protocol": "ChewySwap",
+      "coin": "CHEWY",
+      "tvl_change_pct": 494.48,
+      "tvl_usd": 181246.66768114673
+    },
+    {
+      "protocol": "firefly",
+      "coin": "-",
+      "tvl_change_pct": 286.29,
+      "tvl_usd": 197434.28395347286
+    },
+    {
+      "protocol": "Quenta",
+      "coin": "-",
+      "tvl_change_pct": 240.98,
+      "tvl_usd": 638.3878781173026
+    },
+    {
+      "protocol": "Monroe Protocol",
+      "coin": "-",
+      "tvl_change_pct": 225.92,
+      "tvl_usd": 16201.51540944268
+    },
+    {
+      "protocol": "MARSWAP",
+      "coin": "MSWAP",
+      "tvl_change_pct": 219.96,
+      "tvl_usd": 18650.657316340847
+    },
+    {
+      "protocol": "Enclabs",
+      "coin": "-",
+      "tvl_change_pct": 157.98,
+      "tvl_usd": 82320.83097178824
+    },
+    {
+      "protocol": "CORE Bridge",
+      "coin": "CORE",
+      "tvl_change_pct": 112.84,
+      "tvl_usd": 5245303.979437225
+    }
+  ],
+  "whale_alerts": [],
+  "twitter_spikes": [],
+  "news_score": {
+    "-": 10,
+    "BALL": 4,
+    "LAYER": 4,
+    "CHEWY": 4,
+    "MSWAP": 4,
+    "CORE": 4
+  },
+  "overall_sentiment": "MILD_BULLISH",
+  "nitter_available": false,
+  "sources": {
+    "cryptopanic": false,
+    "defi_llama": true,
+    "whale_alert": false,
+    "nitter": false
+  }
+}
