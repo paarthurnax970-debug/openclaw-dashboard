@@ -1,66 +1,66 @@
 {
-  "timestamp": "2026-03-31T13:03:12.854259+00:00",
+  "timestamp": "2026-03-31T17:03:12.938721+00:00",
   "cryptopanic_hot": [],
   "defi_tvl_movers": [
     {
-      "protocol": "1Swap",
-      "coin": "1SWAP",
-      "tvl_change_pct": 932.76,
-      "tvl_usd": 10161.214688569908
+      "protocol": "Orion Money",
+      "coin": "ORION",
+      "tvl_change_pct": 1073.34,
+      "tvl_usd": 670617.6418959491
+    },
+    {
+      "protocol": "Euphoria",
+      "coin": "WAGMI",
+      "tvl_change_pct": 677.35,
+      "tvl_usd": 0.21292106786745707
     },
     {
       "protocol": "BIM Yield",
       "coin": "BIM",
-      "tvl_change_pct": 428.79,
-      "tvl_usd": 149828.95698476612
+      "tvl_change_pct": 427.94,
+      "tvl_usd": 149654.76730645786
     },
     {
       "protocol": "Liquis",
       "coin": "LIQ",
-      "tvl_change_pct": 391.32,
-      "tvl_usd": 443282.00323015347
+      "tvl_change_pct": 389.88,
+      "tvl_usd": 444585.6520085601
+    },
+    {
+      "protocol": "Aave V4",
+      "coin": "AAVE",
+      "tvl_change_pct": 236.67,
+      "tvl_usd": 3805406.5725379493
     },
     {
       "protocol": "Compound V1",
       "coin": "COMP",
-      "tvl_change_pct": 198.89,
-      "tvl_usd": 2672637.9281586544
+      "tvl_change_pct": 199.22,
+      "tvl_usd": 2690456.3898741584
     },
     {
       "protocol": "XY Finance",
       "coin": "XY",
-      "tvl_change_pct": 197.01,
-      "tvl_usd": 1468.6191488349764
+      "tvl_change_pct": 146.54,
+      "tvl_usd": 1458.2106751128931
+    },
+    {
+      "protocol": "KoalaSwap",
+      "coin": "KOALA",
+      "tvl_change_pct": 114.31,
+      "tvl_usd": 8382.142856591889
     },
     {
       "protocol": "Spartan",
       "coin": "SPARTA",
-      "tvl_change_pct": 104.78,
-      "tvl_usd": 5895.490903557444
+      "tvl_change_pct": 106.77,
+      "tvl_usd": 5951.637421012519
     },
     {
       "protocol": "Chronos V2",
       "coin": "CHR",
-      "tvl_change_pct": 100.85,
-      "tvl_usd": 168.73894602745773
-    },
-    {
-      "protocol": "HebeSwap",
-      "coin": "HEBE",
-      "tvl_change_pct": -100.0,
-      "tvl_usd": 0
-    },
-    {
-      "protocol": "Radiate Protocol",
-      "coin": "RADT",
-      "tvl_change_pct": -100.0,
-      "tvl_usd": 0
-    },
-    {
-      "protocol": "Dalmatian",
-      "coin": "DAL",
-      "tvl_change_pct": -100.0,
-      "tvl_usd": 0
+      "tvl_change_pct": 100.59,
+      "tvl_usd": 168.7921837733336
     }
   ],
   "whale_alerts": [],
@@ -70,10 +70,10 @@
     "GROYPER": 2,
     "TON": 2,
     "GROYP": 2,
-    "MOTHER": 2,
-    "BILLY": 2,
-    "MOODENG": 2,
     "MICHI": 2,
+    "MOODENG": 2,
+    "BILLY": 2,
+    "MOTHER": 2,
     "BRETT": 1,
     "LXVII": 1,
     "SUS": 1,
@@ -90,37 +90,40 @@
     "TRIPLET": 1,
     "FAPCOIN": 1,
     "ROSE": 1,
+    "ZAMA": 1,
+    "SPARK": 1,
     "RED": 1,
     "ESPORTS": 1,
-    "ETH": 1,
-    "BCE": 1,
-    "PYTHIA": 1,
-    "ORBS": 1
+    "BTC": 1,
+    "MERL": 1
   },
   "reddit_gem_leads": [
-    {
-      "address": "0xaa95f26e30001251fb905d264Aa7b00eE9dF6C18",
-      "source_post": "An Example Of An All Timer Community",
-      "subreddit": "CryptoMoonShots",
-      "upvotes": 34,
-      "age_hours": 38.3,
-      "url": "https://reddit.com/r/CryptoMoonShots/comments/1s79ikj/an_example_of_an_all_timer_community/"
-    },
     {
       "address": "0xef73611F98DA6E57e0776317957af61B59E09Ed7",
       "source_post": "An Example Of An All Timer Community",
       "subreddit": "CryptoMoonShots",
-      "upvotes": 34,
-      "age_hours": 38.3,
+      "upvotes": 33,
+      "age_hours": 42.3,
+      "url": "https://reddit.com/r/CryptoMoonShots/comments/1s79ikj/an_example_of_an_all_timer_community/"
+    },
+    {
+      "address": "0xaa95f26e30001251fb905d264Aa7b00eE9dF6C18",
+      "source_post": "An Example Of An All Timer Community",
+      "subreddit": "CryptoMoonShots",
+      "upvotes": 33,
+      "age_hours": 42.3,
       "url": "https://reddit.com/r/CryptoMoonShots/comments/1s79ikj/an_example_of_an_all_timer_community/"
     }
   ],
   "news_score": {
-    "1SWAP": 4,
+    "ORION": 4,
+    "WAGMI": 4,
     "BIM": 4,
     "LIQ": 4,
+    "AAVE": 4,
     "COMP": 4,
     "XY": 4,
+    "KOALA": 4,
     "SPARTA": 4,
     "CHR": 4,
     "BRETT": 1,
@@ -131,10 +134,10 @@
     "LXVII": 1,
     "SUS": 1,
     "ANONCOIN": 1,
-    "MOTHER": 1,
-    "BILLY": 1,
-    "MOODENG": 1,
     "MICHI": 1,
+    "MOODENG": 1,
+    "BILLY": 1,
+    "MOTHER": 1,
     "AURA": 1,
     "MUSK": 1,
     "MEMA": 1,
@@ -147,19 +150,16 @@
     "TRIPLET": 1,
     "FAPCOIN": 1,
     "ROSE": 1,
+    "ZAMA": 1,
+    "SPARK": 1,
     "RED": 1,
     "ESPORTS": 1,
-    "ETH": 1,
-    "BCE": 1,
+    "BTC": 1,
+    "MERL": 1,
+    "GPS": 1,
     "PYTHIA": 1,
-    "ORBS": 1,
-    "OMNI": 1,
-    "BIRB": 1,
-    "ESP": 1,
-    "DAG": 1,
-    "HEBE": -2,
-    "RADT": -2,
-    "DAL": -2
+    "SAHARA": 1,
+    "ESP": 1
   },
   "overall_sentiment": "NEUTRAL",
   "nitter_available": false,
