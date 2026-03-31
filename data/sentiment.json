@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-31T13:00:37.948517+00:00",
-  "overall_score": -2.27,
+  "timestamp": "2026-03-31T17:00:36.627634+00:00",
+  "overall_score": -2.21,
   "classification": "MILD_BEARISH",
   "components": {
     "fear_greed": {
@@ -17,20 +17,20 @@
       "bearish_count": 0
     },
     "reddit": {
-      "score": 1.42,
+      "score": 1.51,
       "post_count": 25,
-      "avg_upvote_ratio": 0.842,
-      "weighted_text_avg": 0.018,
-      "upvote_signal": 1.37
+      "avg_upvote_ratio": 0.82,
+      "weighted_text_avg": 0.077,
+      "upvote_signal": 1.282
     }
   },
   "top_headlines": [],
   "top_reddit_posts": [
     "Daily Crypto Discussion - March 30, 2026 (GMT+0)",
+    "\u2018It\u2019s Happening\u2019\u2014Elon Musk Sparks Wild Bitcoin Price Speculation After Trump Declares \u2018Crypto Revolution\u2019",
+    "Google Warns That Quantum Armageddon Is Drawing Closer",
     "Vitalik Buterin Says Binance 51% Attack on Ethereum Would Fail",
-    "Bitcoin Lightning Network Hits Massive Adoption Milestone in the US",
-    "Strategy Buys at least 75,000 BTC in Q1, Aims to Own 1 Million BTC within 2026",
-    "CLARITY Act Could Pass in April, But Crypto Makes Big Sacrifices"
+    "\ud83d\udea8Unknown Kraken user loses $18.2M in suspected social engineering attack"
   ],
   "trading_signal": "CAUTION"
 }
