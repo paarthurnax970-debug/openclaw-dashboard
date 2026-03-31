@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-31T09:00:36.497827+00:00",
-  "overall_score": -2.3,
+  "timestamp": "2026-03-31T13:00:37.948517+00:00",
+  "overall_score": -2.27,
   "classification": "MILD_BEARISH",
   "components": {
     "fear_greed": {
@@ -17,19 +17,19 @@
       "bearish_count": 0
     },
     "reddit": {
-      "score": 1.36,
+      "score": 1.42,
       "post_count": 25,
       "avg_upvote_ratio": 0.842,
-      "weighted_text_avg": -0.004,
-      "upvote_signal": 1.368
+      "weighted_text_avg": 0.018,
+      "upvote_signal": 1.37
     }
   },
   "top_headlines": [],
   "top_reddit_posts": [
     "Daily Crypto Discussion - March 30, 2026 (GMT+0)",
     "Vitalik Buterin Says Binance 51% Attack on Ethereum Would Fail",
+    "Bitcoin Lightning Network Hits Massive Adoption Milestone in the US",
     "Strategy Buys at least 75,000 BTC in Q1, Aims to Own 1 Million BTC within 2026",
-    "Senators File Bill to Manufacture More Bitcoin Miners in US",
     "CLARITY Act Could Pass in April, But Crypto Makes Big Sacrifices"
   ],
   "trading_signal": "CAUTION"
