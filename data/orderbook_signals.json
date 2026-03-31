@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-31T09:00:39.545249+00:00",
+  "timestamp": "2026-03-31T13:00:41.161424+00:00",
   "symbols_scanned": [
     "BTCUSDT",
     "ETHUSDT",
@@ -11,276 +11,279 @@
     "BTCUSDT": {
       "symbol": "BTCUSDT",
       "coin": "BTC",
-      "timestamp": "2026-03-31T09:00:37.418886+00:00",
-      "best_bid": 66797.5,
-      "best_ask": 66797.51,
+      "timestamp": "2026-03-31T13:00:39.052833+00:00",
+      "best_bid": 66691.99,
+      "best_ask": 66692.0,
       "spread_pct": 0.0,
-      "bids_volume": 4.9658,
-      "asks_volume": 10.0957,
-      "imbalance_ratio": 0.4919,
-      "thin_zone": false,
-      "near_book_thin": false,
+      "bids_volume": 28.8692,
+      "asks_volume": 3.5722,
+      "imbalance_ratio": 8.0816,
+      "thin_zone": true,
+      "near_book_thin": true,
       "largest_bid_wall": {
-        "price": 66797.5,
-        "qty": 2.6644,
-        "pct_of_total": 53.66,
+        "price": 66685.08,
+        "qty": 10.6608,
+        "pct_of_total": 36.93,
         "label": "Support"
       },
       "largest_ask_wall": {
-        "price": 66797.51,
-        "qty": 2.9167,
-        "pct_of_total": 28.89,
+        "price": 66702.73,
+        "qty": 0.6288,
+        "pct_of_total": 17.6,
         "label": "Resistance"
       },
-      "score": 4,
-      "interpretation": "Heavy ask pressure (0.49x)"
+      "score": 10,
+      "interpretation": "Strong bid pressure (8.08x); Ask side thin \u2014 potential breakout zone"
     },
     "ETHUSDT": {
       "symbol": "ETHUSDT",
       "coin": "ETH",
-      "timestamp": "2026-03-31T09:00:37.926152+00:00",
-      "best_bid": 2040.1,
-      "best_ask": 2040.11,
+      "timestamp": "2026-03-31T13:00:39.546488+00:00",
+      "best_bid": 2048.81,
+      "best_ask": 2048.82,
       "spread_pct": 0.0005,
-      "bids_volume": 542.8343,
-      "asks_volume": 276.796,
-      "imbalance_ratio": 1.9611,
+      "bids_volume": 274.8239,
+      "asks_volume": 443.6463,
+      "imbalance_ratio": 0.6195,
       "thin_zone": false,
-      "near_book_thin": true,
+      "near_book_thin": false,
       "largest_bid_wall": {
-        "price": 2040.1,
-        "qty": 34.7696,
-        "pct_of_total": 6.41,
+        "price": 2048.34,
+        "qty": 24.9534,
+        "pct_of_total": 9.08,
         "label": "Support"
       },
       "largest_ask_wall": {
-        "price": 2041.23,
-        "qty": 32.8957,
-        "pct_of_total": 11.88,
+        "price": 2048.82,
+        "qty": 45.252,
+        "pct_of_total": 10.2,
         "label": "Resistance"
       },
-      "score": 6,
-      "interpretation": "Strong bid pressure (1.96x)"
+      "score": 4,
+      "interpretation": "Heavy ask pressure (0.62x)"
     },
     "SOLUSDT": {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "timestamp": "2026-03-31T09:00:38.462497+00:00",
-      "best_bid": 82.27,
-      "best_ask": 82.28,
-      "spread_pct": 0.0122,
-      "bids_volume": 67424.5,
-      "asks_volume": 49688.534,
-      "imbalance_ratio": 1.3569,
-      "thin_zone": false,
+      "timestamp": "2026-03-31T13:00:40.085864+00:00",
+      "best_bid": 80.8,
+      "best_ask": 80.81,
+      "spread_pct": 0.0124,
+      "bids_volume": 68329.809,
+      "asks_volume": 33638.944,
+      "imbalance_ratio": 2.0313,
+      "thin_zone": true,
       "near_book_thin": false,
       "largest_bid_wall": {
-        "price": 81.9,
-        "qty": 5569.592,
-        "pct_of_total": 8.26,
+        "price": 80.0,
+        "qty": 18892.677,
+        "pct_of_total": 27.65,
         "label": "Support"
       },
       "largest_ask_wall": {
-        "price": 82.33,
-        "qty": 5074.309,
-        "pct_of_total": 10.21,
+        "price": 81.22,
+        "qty": 2542.453,
+        "pct_of_total": 7.56,
         "label": "Resistance"
       },
-      "score": 6,
-      "interpretation": "Balanced order book (1.36x)"
+      "score": 10,
+      "interpretation": "Strong bid pressure (2.03x); Ask side thin \u2014 potential breakout zone"
     },
     "LINKUSDT": {
       "symbol": "LINKUSDT",
       "coin": "LINK",
-      "timestamp": "2026-03-31T09:00:39.023282+00:00",
+      "timestamp": "2026-03-31T13:00:40.614535+00:00",
       "best_bid": 8.63,
       "best_ask": 8.64,
       "spread_pct": 0.1159,
-      "bids_volume": 331605.28,
-      "asks_volume": 288159.56,
-      "imbalance_ratio": 1.1508,
+      "bids_volume": 338523.85,
+      "asks_volume": 270758.43,
+      "imbalance_ratio": 1.2503,
       "thin_zone": false,
       "near_book_thin": false,
       "largest_bid_wall": {
-        "price": 8.51,
-        "qty": 28922.62,
-        "pct_of_total": 8.72,
+        "price": 8.6,
+        "qty": 32982.56,
+        "pct_of_total": 9.74,
         "label": "Support"
       },
       "largest_ask_wall": {
         "price": 8.66,
-        "qty": 33662.44,
-        "pct_of_total": 11.68,
+        "qty": 18154.68,
+        "pct_of_total": 6.71,
         "label": "Resistance"
       },
-      "score": 4,
-      "interpretation": "Balanced order book (1.15x)"
+      "score": 5,
+      "interpretation": "Balanced order book (1.25x)"
     },
     "AVAXUSDT": {
       "symbol": "AVAXUSDT",
       "coin": "AVAX",
-      "timestamp": "2026-03-31T09:00:39.545249+00:00",
-      "best_bid": 8.81,
-      "best_ask": 8.82,
-      "spread_pct": 0.1135,
-      "bids_volume": 169583.88,
-      "asks_volume": 120512.87,
-      "imbalance_ratio": 1.4072,
+      "timestamp": "2026-03-31T13:00:41.161424+00:00",
+      "best_bid": 8.77,
+      "best_ask": 8.78,
+      "spread_pct": 0.114,
+      "bids_volume": 189634.32,
+      "asks_volume": 118751.0,
+      "imbalance_ratio": 1.5969,
       "thin_zone": false,
       "near_book_thin": false,
       "largest_bid_wall": {
-        "price": 8.78,
-        "qty": 17189.27,
-        "pct_of_total": 10.14,
+        "price": 8.74,
+        "qty": 15822.72,
+        "pct_of_total": 8.34,
         "label": "Support"
       },
       "largest_ask_wall": {
-        "price": 8.86,
-        "qty": 12508.65,
-        "pct_of_total": 10.38,
+        "price": 8.81,
+        "qty": 15210.09,
+        "pct_of_total": 12.81,
         "label": "Resistance"
       },
-      "score": 5,
-      "interpretation": "Balanced order book (1.41x)"
+      "score": 4,
+      "interpretation": "Strong bid pressure (1.60x)"
     }
   },
   "ranked": [
     {
-      "symbol": "ETHUSDT",
-      "coin": "ETH",
-      "timestamp": "2026-03-31T09:00:37.926152+00:00",
-      "best_bid": 2040.1,
-      "best_ask": 2040.11,
-      "spread_pct": 0.0005,
-      "bids_volume": 542.8343,
-      "asks_volume": 276.796,
-      "imbalance_ratio": 1.9611,
-      "thin_zone": false,
+      "symbol": "BTCUSDT",
+      "coin": "BTC",
+      "timestamp": "2026-03-31T13:00:39.052833+00:00",
+      "best_bid": 66691.99,
+      "best_ask": 66692.0,
+      "spread_pct": 0.0,
+      "bids_volume": 28.8692,
+      "asks_volume": 3.5722,
+      "imbalance_ratio": 8.0816,
+      "thin_zone": true,
       "near_book_thin": true,
       "largest_bid_wall": {
-        "price": 2040.1,
-        "qty": 34.7696,
-        "pct_of_total": 6.41,
+        "price": 66685.08,
+        "qty": 10.6608,
+        "pct_of_total": 36.93,
         "label": "Support"
       },
       "largest_ask_wall": {
-        "price": 2041.23,
-        "qty": 32.8957,
-        "pct_of_total": 11.88,
+        "price": 66702.73,
+        "qty": 0.6288,
+        "pct_of_total": 17.6,
         "label": "Resistance"
       },
-      "score": 6,
-      "interpretation": "Strong bid pressure (1.96x)"
+      "score": 10,
+      "interpretation": "Strong bid pressure (8.08x); Ask side thin \u2014 potential breakout zone"
     },
     {
       "symbol": "SOLUSDT",
       "coin": "SOL",
-      "timestamp": "2026-03-31T09:00:38.462497+00:00",
-      "best_bid": 82.27,
-      "best_ask": 82.28,
-      "spread_pct": 0.0122,
-      "bids_volume": 67424.5,
-      "asks_volume": 49688.534,
-      "imbalance_ratio": 1.3569,
-      "thin_zone": false,
+      "timestamp": "2026-03-31T13:00:40.085864+00:00",
+      "best_bid": 80.8,
+      "best_ask": 80.81,
+      "spread_pct": 0.0124,
+      "bids_volume": 68329.809,
+      "asks_volume": 33638.944,
+      "imbalance_ratio": 2.0313,
+      "thin_zone": true,
       "near_book_thin": false,
       "largest_bid_wall": {
-        "price": 81.9,
-        "qty": 5569.592,
-        "pct_of_total": 8.26,
+        "price": 80.0,
+        "qty": 18892.677,
+        "pct_of_total": 27.65,
         "label": "Support"
       },
       "largest_ask_wall": {
-        "price": 82.33,
-        "qty": 5074.309,
-        "pct_of_total": 10.21,
+        "price": 81.22,
+        "qty": 2542.453,
+        "pct_of_total": 7.56,
         "label": "Resistance"
       },
-      "score": 6,
-      "interpretation": "Balanced order book (1.36x)"
-    },
-    {
-      "symbol": "AVAXUSDT",
-      "coin": "AVAX",
-      "timestamp": "2026-03-31T09:00:39.545249+00:00",
-      "best_bid": 8.81,
-      "best_ask": 8.82,
-      "spread_pct": 0.1135,
-      "bids_volume": 169583.88,
-      "asks_volume": 120512.87,
-      "imbalance_ratio": 1.4072,
-      "thin_zone": false,
-      "near_book_thin": false,
-      "largest_bid_wall": {
-        "price": 8.78,
-        "qty": 17189.27,
-        "pct_of_total": 10.14,
-        "label": "Support"
-      },
-      "largest_ask_wall": {
-        "price": 8.86,
-        "qty": 12508.65,
-        "pct_of_total": 10.38,
-        "label": "Resistance"
-      },
-      "score": 5,
-      "interpretation": "Balanced order book (1.41x)"
-    },
-    {
-      "symbol": "BTCUSDT",
-      "coin": "BTC",
-      "timestamp": "2026-03-31T09:00:37.418886+00:00",
-      "best_bid": 66797.5,
-      "best_ask": 66797.51,
-      "spread_pct": 0.0,
-      "bids_volume": 4.9658,
-      "asks_volume": 10.0957,
-      "imbalance_ratio": 0.4919,
-      "thin_zone": false,
-      "near_book_thin": false,
-      "largest_bid_wall": {
-        "price": 66797.5,
-        "qty": 2.6644,
-        "pct_of_total": 53.66,
-        "label": "Support"
-      },
-      "largest_ask_wall": {
-        "price": 66797.51,
-        "qty": 2.9167,
-        "pct_of_total": 28.89,
-        "label": "Resistance"
-      },
-      "score": 4,
-      "interpretation": "Heavy ask pressure (0.49x)"
+      "score": 10,
+      "interpretation": "Strong bid pressure (2.03x); Ask side thin \u2014 potential breakout zone"
     },
     {
       "symbol": "LINKUSDT",
       "coin": "LINK",
-      "timestamp": "2026-03-31T09:00:39.023282+00:00",
+      "timestamp": "2026-03-31T13:00:40.614535+00:00",
       "best_bid": 8.63,
       "best_ask": 8.64,
       "spread_pct": 0.1159,
-      "bids_volume": 331605.28,
-      "asks_volume": 288159.56,
-      "imbalance_ratio": 1.1508,
+      "bids_volume": 338523.85,
+      "asks_volume": 270758.43,
+      "imbalance_ratio": 1.2503,
       "thin_zone": false,
       "near_book_thin": false,
       "largest_bid_wall": {
-        "price": 8.51,
-        "qty": 28922.62,
-        "pct_of_total": 8.72,
+        "price": 8.6,
+        "qty": 32982.56,
+        "pct_of_total": 9.74,
         "label": "Support"
       },
       "largest_ask_wall": {
         "price": 8.66,
-        "qty": 33662.44,
-        "pct_of_total": 11.68,
+        "qty": 18154.68,
+        "pct_of_total": 6.71,
+        "label": "Resistance"
+      },
+      "score": 5,
+      "interpretation": "Balanced order book (1.25x)"
+    },
+    {
+      "symbol": "ETHUSDT",
+      "coin": "ETH",
+      "timestamp": "2026-03-31T13:00:39.546488+00:00",
+      "best_bid": 2048.81,
+      "best_ask": 2048.82,
+      "spread_pct": 0.0005,
+      "bids_volume": 274.8239,
+      "asks_volume": 443.6463,
+      "imbalance_ratio": 0.6195,
+      "thin_zone": false,
+      "near_book_thin": false,
+      "largest_bid_wall": {
+        "price": 2048.34,
+        "qty": 24.9534,
+        "pct_of_total": 9.08,
+        "label": "Support"
+      },
+      "largest_ask_wall": {
+        "price": 2048.82,
+        "qty": 45.252,
+        "pct_of_total": 10.2,
         "label": "Resistance"
       },
       "score": 4,
-      "interpretation": "Balanced order book (1.15x)"
+      "interpretation": "Heavy ask pressure (0.62x)"
+    },
+    {
+      "symbol": "AVAXUSDT",
+      "coin": "AVAX",
+      "timestamp": "2026-03-31T13:00:41.161424+00:00",
+      "best_bid": 8.77,
+      "best_ask": 8.78,
+      "spread_pct": 0.114,
+      "bids_volume": 189634.32,
+      "asks_volume": 118751.0,
+      "imbalance_ratio": 1.5969,
+      "thin_zone": false,
+      "near_book_thin": false,
+      "largest_bid_wall": {
+        "price": 8.74,
+        "qty": 15822.72,
+        "pct_of_total": 8.34,
+        "label": "Support"
+      },
+      "largest_ask_wall": {
+        "price": 8.81,
+        "qty": 15210.09,
+        "pct_of_total": 12.81,
+        "label": "Resistance"
+      },
+      "score": 4,
+      "interpretation": "Strong bid pressure (1.60x)"
     }
   ],
-  "breakout_candidates": [],
-  "top_setup": "ETHUSDT"
+  "breakout_candidates": [
+    "BTCUSDT",
+    "SOLUSDT"
+  ],
+  "top_setup": "BTCUSDT"
 }
