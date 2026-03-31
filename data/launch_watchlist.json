@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T17:04:55.672269+00:00",
+  "generated_at": "2026-03-31T21:05:06.304989+00:00",
   "scanner_version": "2.0",
   "chains_scanned": [
     "BASE",
@@ -12,32 +12,32 @@
   "passed_security": 1,
   "launch_watchlist": [
     {
-      "name": "GAN / WBNB",
-      "symbol": "GAN",
-      "address": "0xd55fc9e343ea38575fb385205e72086f8f8c26d8",
+      "name": "BUL / WBNB",
+      "symbol": "BUL",
+      "address": "0x457acc796d8e4f751327be11a4f998f8728adb32",
       "chain": "BSC",
       "age_days": 0,
-      "market_cap": 128416.379,
-      "liquidity_usd": 36212.0372,
-      "volume_24h": 14870.0832427815,
-      "price_change_24h": 99.706,
-      "price_change_6h": 99.706,
-      "buys_24h": 47,
-      "sells_24h": 42,
-      "txns_24h": 89,
+      "market_cap": 131381.4113,
+      "liquidity_usd": 40748.7357,
+      "volume_24h": 41538.5385050871,
+      "price_change_24h": 111.119,
+      "price_change_6h": 111.119,
+      "buys_24h": 132,
+      "sells_24h": 115,
+      "txns_24h": 247,
       "narrative_tags": [],
-      "dex_url": "https://dexscreener.com/bsc/0xd55fc9e343ea38575fb385205e72086f8f8c26d8",
+      "dex_url": "https://dexscreener.com/bsc/0x457acc796d8e4f751327be11a4f998f8728adb32",
       "goplus": {
         "is_honeypot": "0",
         "is_mintable": "0",
-        "buy_tax": "0",
-        "sell_tax": "0",
-        "holder_count": 0,
+        "buy_tax": "",
+        "sell_tax": "",
+        "holder_count": "1",
         "lp_holders": []
       },
-      "holders": 0,
+      "holders": 1,
       "volume_growing": true,
-      "launch_score": 20
+      "launch_score": 25
     }
   ]
 }
