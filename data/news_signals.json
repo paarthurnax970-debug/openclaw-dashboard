@@ -1,7 +1,13 @@
 {
-  "timestamp": "2026-03-31T09:03:13.133160+00:00",
+  "timestamp": "2026-03-31T13:03:12.854259+00:00",
   "cryptopanic_hot": [],
   "defi_tvl_movers": [
+    {
+      "protocol": "1Swap",
+      "coin": "1SWAP",
+      "tvl_change_pct": 932.76,
+      "tvl_usd": 10161.214688569908
+    },
     {
       "protocol": "BIM Yield",
       "coin": "BIM",
@@ -11,38 +17,32 @@
     {
       "protocol": "Liquis",
       "coin": "LIQ",
-      "tvl_change_pct": 394.39,
-      "tvl_usd": 444000.6769615516
+      "tvl_change_pct": 391.32,
+      "tvl_usd": 443282.00323015347
+    },
+    {
+      "protocol": "Compound V1",
+      "coin": "COMP",
+      "tvl_change_pct": 198.89,
+      "tvl_usd": 2672637.9281586544
     },
     {
       "protocol": "XY Finance",
       "coin": "XY",
-      "tvl_change_pct": 197.54,
-      "tvl_usd": 1470.9547779163302
-    },
-    {
-      "protocol": "SakeFinance",
-      "coin": "SONE",
-      "tvl_change_pct": 154.35,
-      "tvl_usd": 2329395.1028300514
+      "tvl_change_pct": 197.01,
+      "tvl_usd": 1468.6191488349764
     },
     {
       "protocol": "Spartan",
       "coin": "SPARTA",
-      "tvl_change_pct": 107.7,
-      "tvl_usd": 5950.2227303574045
+      "tvl_change_pct": 104.78,
+      "tvl_usd": 5895.490903557444
     },
     {
       "protocol": "Chronos V2",
       "coin": "CHR",
-      "tvl_change_pct": 102.26,
-      "tvl_usd": 169.09117046352947
-    },
-    {
-      "protocol": "Billion Happiness",
-      "coin": "BHC",
-      "tvl_change_pct": -100.0,
-      "tvl_usd": 0
+      "tvl_change_pct": 100.85,
+      "tvl_usd": 168.73894602745773
     },
     {
       "protocol": "HebeSwap",
@@ -67,97 +67,96 @@
   "twitter_spikes": [],
   "reddit_mentions": {
     "CTO": 2,
+    "GROYPER": 2,
     "TON": 2,
     "GROYP": 2,
-    "GROYPER": 2,
-    "MICHI": 2,
-    "MOODENG": 2,
     "MOTHER": 2,
     "BILLY": 2,
+    "MOODENG": 2,
+    "MICHI": 2,
     "BRETT": 1,
     "LXVII": 1,
-    "ANONCOIN": 1,
     "SUS": 1,
-    "GASHY": 1,
+    "ANONCOIN": 1,
     "AURA": 1,
     "MUSK": 1,
     "MEMA": 1,
     "GIGA": 1,
     "LFGO": 1,
     "NCT": 1,
-    "KNS": 1,
     "KSW": 1,
+    "KNS": 1,
     "DOGE": 1,
     "TRIPLET": 1,
     "FAPCOIN": 1,
     "ROSE": 1,
-    "DAG": 1,
-    "SPARK": 1,
-    "ESP": 1,
-    "WAVES": 1,
-    "BCE": 1
+    "RED": 1,
+    "ESPORTS": 1,
+    "ETH": 1,
+    "BCE": 1,
+    "PYTHIA": 1,
+    "ORBS": 1
   },
   "reddit_gem_leads": [
-    {
-      "address": "0xef73611F98DA6E57e0776317957af61B59E09Ed7",
-      "source_post": "An Example Of An All Timer Community",
-      "subreddit": "CryptoMoonShots",
-      "upvotes": 35,
-      "age_hours": 34.3,
-      "url": "https://reddit.com/r/CryptoMoonShots/comments/1s79ikj/an_example_of_an_all_timer_community/"
-    },
     {
       "address": "0xaa95f26e30001251fb905d264Aa7b00eE9dF6C18",
       "source_post": "An Example Of An All Timer Community",
       "subreddit": "CryptoMoonShots",
-      "upvotes": 35,
-      "age_hours": 34.3,
+      "upvotes": 34,
+      "age_hours": 38.3,
+      "url": "https://reddit.com/r/CryptoMoonShots/comments/1s79ikj/an_example_of_an_all_timer_community/"
+    },
+    {
+      "address": "0xef73611F98DA6E57e0776317957af61B59E09Ed7",
+      "source_post": "An Example Of An All Timer Community",
+      "subreddit": "CryptoMoonShots",
+      "upvotes": 34,
+      "age_hours": 38.3,
       "url": "https://reddit.com/r/CryptoMoonShots/comments/1s79ikj/an_example_of_an_all_timer_community/"
     }
   ],
   "news_score": {
+    "1SWAP": 4,
     "BIM": 4,
     "LIQ": 4,
+    "COMP": 4,
     "XY": 4,
-    "SONE": 4,
     "SPARTA": 4,
     "CHR": 4,
     "BRETT": 1,
     "CTO": 1,
+    "GROYPER": 1,
     "TON": 1,
     "GROYP": 1,
-    "GROYPER": 1,
     "LXVII": 1,
-    "ANONCOIN": 1,
     "SUS": 1,
-    "GASHY": 1,
-    "MICHI": 1,
-    "MOODENG": 1,
+    "ANONCOIN": 1,
     "MOTHER": 1,
     "BILLY": 1,
+    "MOODENG": 1,
+    "MICHI": 1,
     "AURA": 1,
     "MUSK": 1,
     "MEMA": 1,
     "GIGA": 1,
     "LFGO": 1,
     "NCT": 1,
-    "KNS": 1,
     "KSW": 1,
+    "KNS": 1,
     "DOGE": 1,
     "TRIPLET": 1,
     "FAPCOIN": 1,
     "ROSE": 1,
-    "DAG": 1,
-    "SPARK": 1,
-    "ESP": 1,
-    "WAVES": 1,
-    "BCE": 1,
-    "ORBS": 1,
-    "BTC": 1,
     "RED": 1,
-    "ZAMA": 1,
+    "ESPORTS": 1,
     "ETH": 1,
-    "BHC": -2,
+    "BCE": 1,
+    "PYTHIA": 1,
+    "ORBS": 1,
+    "OMNI": 1,
+    "BIRB": 1,
+    "ESP": 1,
+    "DAG": 1,
     "HEBE": -2,
     "RADT": -2,
     "DAL": -2
