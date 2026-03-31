@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-03-30T21:00:36.299566+00:00",
-  "overall_score": -3.23,
-  "classification": "FEAR",
+  "timestamp": "2026-03-31T06:38:28.211358+00:00",
+  "overall_score": -2.14,
+  "classification": "MILD_BEARISH",
   "components": {
     "fear_greed": {
-      "value": 8,
+      "value": 11,
       "classification": "Extreme Fear",
-      "normalized_score": -8.4,
-      "trend": "declining",
-      "yesterday": 9
+      "normalized_score": -7.8,
+      "trend": "improving",
+      "yesterday": 8
     },
     "news": {
       "score": 0,
@@ -17,20 +17,20 @@
       "bearish_count": 0
     },
     "reddit": {
-      "score": 0.21,
+      "score": 1.63,
       "post_count": 25,
-      "avg_upvote_ratio": 0.828,
-      "weighted_text_avg": -0.366,
-      "upvote_signal": 1.312
+      "avg_upvote_ratio": 0.842,
+      "weighted_text_avg": 0.086,
+      "upvote_signal": 1.368
     }
   },
   "top_headlines": [],
   "top_reddit_posts": [
-    "Daily Crypto Discussion - March 29, 2026 (GMT+0)",
+    "Daily Crypto Discussion - March 30, 2026 (GMT+0)",
     "Strategy Buys at least 75,000 BTC in Q1, Aims to Own 1 Million BTC within 2026",
-    "Chase pays 0.01% on savings. Coinbase pays 3.5% on USDC. Bank of America's CEO says $6 trillion in deposits could move to stablecoins as a result.",
-    "Coinbase is currently fighting to protect $1.35B in annual revenue tied to USDC",
-    "Saylor Brings Back Laser Eyes as Bitcoin Whales Double Down"
+    "Senators File Bill to Manufacture More Bitcoin Miners in US",
+    "Saylor Brings Back Laser Eyes as Bitcoin Whales Double Down",
+    "CLARITY Act Could Pass in April, But Crypto Makes Big Sacrifices"
   ],
   "trading_signal": "CAUTION"
 }
