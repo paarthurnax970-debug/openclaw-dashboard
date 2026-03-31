@@ -1,48 +1,42 @@
 {
-  "timestamp": "2026-03-30T21:03:26.472256+00:00",
+  "timestamp": "2026-03-31T06:41:05.833122+00:00",
   "cryptopanic_hot": [],
   "defi_tvl_movers": [
     {
-      "protocol": "Ball Exchange",
-      "coin": "BALL",
-      "tvl_change_pct": 306468.94,
-      "tvl_usd": 128.72508007278034
-    },
-    {
-      "protocol": "ChewySwap",
-      "coin": "CHEWY",
-      "tvl_change_pct": 492.15,
-      "tvl_usd": 180974.557753162
-    },
-    {
       "protocol": "BIM Yield",
       "coin": "BIM",
-      "tvl_change_pct": 431.75,
-      "tvl_usd": 150062.9703534933
+      "tvl_change_pct": 431.71,
+      "tvl_usd": 150073.5288815415
     },
     {
-      "protocol": "MARSWAP",
-      "coin": "MSWAP",
-      "tvl_change_pct": 222.87,
-      "tvl_usd": 18593.359736107028
+      "protocol": "Liquis",
+      "coin": "LIQ",
+      "tvl_change_pct": 397.0,
+      "tvl_usd": 444055.8613546157
     },
     {
-      "protocol": "Nile CL",
-      "coin": "NILE",
-      "tvl_change_pct": 119.68,
-      "tvl_usd": 397464.57331993175
+      "protocol": "Chronos V2",
+      "coin": "CHR",
+      "tvl_change_pct": 136.62,
+      "tvl_usd": 195.84986672955284
     },
     {
-      "protocol": "Rhino.fi",
-      "coin": "RHINO",
-      "tvl_change_pct": 110.89,
-      "tvl_usd": 1175282.4868654932
+      "protocol": "CrossChain Bridge",
+      "coin": "BRIDGE",
+      "tvl_change_pct": 130.84,
+      "tvl_usd": 53501.798117575585
     },
     {
-      "protocol": "Revest Finance",
-      "coin": "RVST",
-      "tvl_change_pct": 101.7,
-      "tvl_usd": 91423.48855178521
+      "protocol": "Spartan",
+      "coin": "SPARTA",
+      "tvl_change_pct": 111.32,
+      "tvl_usd": 5963.650811870631
+    },
+    {
+      "protocol": "Billion Happiness",
+      "coin": "BHC",
+      "tvl_change_pct": -100.0,
+      "tvl_usd": 0
     },
     {
       "protocol": "KlimaDAO",
@@ -51,14 +45,20 @@
       "tvl_usd": 0
     },
     {
-      "protocol": "SmartDEXBCH",
-      "coin": "DSMART",
+      "protocol": "HebeSwap",
+      "coin": "HEBE",
       "tvl_change_pct": -100.0,
       "tvl_usd": 0
     },
     {
-      "protocol": "HebeSwap",
-      "coin": "HEBE",
+      "protocol": "Dalmatian",
+      "coin": "DAL",
+      "tvl_change_pct": -100.0,
+      "tvl_usd": 0
+    },
+    {
+      "protocol": "ETCMC DEX",
+      "coin": "ETCPOW",
       "tvl_change_pct": -100.0,
       "tvl_usd": 0
     }
@@ -67,97 +67,100 @@
   "twitter_spikes": [],
   "reddit_mentions": {
     "CTO": 2,
-    "GROYPER": 2,
-    "TON": 2,
     "GROYP": 2,
+    "TON": 2,
+    "GROYPER": 2,
+    "MOODENG": 2,
+    "MICHI": 2,
+    "BILLY": 2,
+    "MOTHER": 2,
     "BRETT": 1,
-    "EX": 1,
     "LXVII": 1,
-    "SUS": 1,
     "ANONCOIN": 1,
+    "SUS": 1,
     "GASHY": 1,
     "AURA": 1,
     "MUSK": 1,
     "MEMA": 1,
     "GIGA": 1,
     "LFGO": 1,
+    "NCT": 1,
     "KNS": 1,
     "KSW": 1,
     "DOGE": 1,
     "TRIPLET": 1,
     "FAPCOIN": 1,
     "ROSE": 1,
-    "MERL": 1,
-    "DAG": 1,
     "ETH": 1,
-    "WAVES": 1,
-    "PYTHIA": 1,
+    "BCE": 1,
+    "SPARK": 1,
     "ORBS": 1,
-    "SAHARA": 1,
-    "ESP": 1,
-    "OMNI": 1
+    "RED": 1
   },
   "reddit_gem_leads": [
     {
       "address": "0xaa95f26e30001251fb905d264Aa7b00eE9dF6C18",
       "source_post": "An Example Of An All Timer Community",
       "subreddit": "CryptoMoonShots",
-      "upvotes": 30,
-      "age_hours": 22.3,
+      "upvotes": 33,
+      "age_hours": 31.9,
       "url": "https://reddit.com/r/CryptoMoonShots/comments/1s79ikj/an_example_of_an_all_timer_community/"
     },
     {
       "address": "0xef73611F98DA6E57e0776317957af61B59E09Ed7",
       "source_post": "An Example Of An All Timer Community",
       "subreddit": "CryptoMoonShots",
-      "upvotes": 30,
-      "age_hours": 22.3,
+      "upvotes": 33,
+      "age_hours": 31.9,
       "url": "https://reddit.com/r/CryptoMoonShots/comments/1s79ikj/an_example_of_an_all_timer_community/"
     }
   ],
   "news_score": {
-    "BALL": 4,
-    "CHEWY": 4,
     "BIM": 4,
-    "MSWAP": 4,
-    "NILE": 4,
-    "RHINO": 4,
-    "RVST": 4,
+    "LIQ": 4,
+    "CHR": 4,
+    "BRIDGE": 4,
+    "SPARTA": 4,
     "BRETT": 1,
-    "EX": 1,
     "CTO": 1,
-    "GROYPER": 1,
-    "TON": 1,
     "GROYP": 1,
+    "TON": 1,
+    "GROYPER": 1,
     "LXVII": 1,
-    "SUS": 1,
     "ANONCOIN": 1,
+    "SUS": 1,
     "GASHY": 1,
+    "MOODENG": 1,
+    "MICHI": 1,
+    "BILLY": 1,
+    "MOTHER": 1,
     "AURA": 1,
     "MUSK": 1,
     "MEMA": 1,
     "GIGA": 1,
     "LFGO": 1,
+    "NCT": 1,
     "KNS": 1,
     "KSW": 1,
     "DOGE": 1,
     "TRIPLET": 1,
     "FAPCOIN": 1,
     "ROSE": 1,
-    "MERL": 1,
-    "DAG": 1,
     "ETH": 1,
-    "WAVES": 1,
-    "PYTHIA": 1,
+    "BCE": 1,
+    "SPARK": 1,
     "ORBS": 1,
+    "RED": 1,
+    "ESPORTS": 1,
+    "PYTHIA": 1,
+    "BIRB": 1,
     "SAHARA": 1,
-    "ESP": 1,
     "OMNI": 1,
-    "GPS": 1,
-    "IDOS": 1,
+    "BHC": -2,
     "KLIMA": -2,
-    "DSMART": -2,
-    "HEBE": -2
+    "HEBE": -2,
+    "DAL": -2,
+    "ETCPOW": -2
   },
   "overall_sentiment": "NEUTRAL",
   "nitter_available": false,
