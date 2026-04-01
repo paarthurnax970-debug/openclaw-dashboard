@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-01T05:00:37.043741+00:00",
-  "overall_score": -2.46,
+  "timestamp": "2026-04-01T09:00:39.233773+00:00",
+  "overall_score": -2.61,
   "classification": "MILD_BEARISH",
   "components": {
     "fear_greed": {
@@ -17,19 +17,19 @@
       "bearish_count": 0
     },
     "reddit": {
-      "score": 1.5,
+      "score": 1.25,
       "post_count": 25,
-      "avg_upvote_ratio": 0.802,
-      "weighted_text_avg": 0.096,
-      "upvote_signal": 1.21
+      "avg_upvote_ratio": 0.769,
+      "weighted_text_avg": 0.057,
+      "upvote_signal": 1.075
     }
   },
   "top_headlines": [],
   "top_reddit_posts": [
     "Daily Crypto Discussion - March 31, 2026 (GMT+0)",
+    "Recession coincided with every major oil crisis in the past 50 years.",
     "Ethereum Had Zero Downtime in Its Entire Lifetime (10 Years), Here are its Competitors",
     "\u2018It\u2019s Happening\u2019\u2014Elon Musk Sparks Wild Bitcoin Price Speculation After Trump Declares \u2018Crypto Revolution\u2019",
-    "Google Warns That Quantum Armageddon Is Drawing Closer",
     "92% Bitcoin Holders in Loss: CryptoQuant"
   ],
   "trading_signal": "CAUTION"
