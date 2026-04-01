@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-01T01:00:40.787232+00:00",
-  "overall_score": -2.12,
+  "timestamp": "2026-04-01T05:00:37.043741+00:00",
+  "overall_score": -2.46,
   "classification": "MILD_BEARISH",
   "components": {
     "fear_greed": {
@@ -17,20 +17,20 @@
       "bearish_count": 0
     },
     "reddit": {
-      "score": 2.07,
+      "score": 1.5,
       "post_count": 25,
-      "avg_upvote_ratio": 0.816,
-      "weighted_text_avg": 0.269,
-      "upvote_signal": 1.264
+      "avg_upvote_ratio": 0.802,
+      "weighted_text_avg": 0.096,
+      "upvote_signal": 1.21
     }
   },
   "top_headlines": [],
   "top_reddit_posts": [
     "Daily Crypto Discussion - March 31, 2026 (GMT+0)",
-    "\u2018It\u2019s Happening\u2019\u2014Elon Musk Sparks Wild Bitcoin Price Speculation After Trump Declares \u2018Crypto Revolution\u2019",
     "Ethereum Had Zero Downtime in Its Entire Lifetime (10 Years), Here are its Competitors",
+    "\u2018It\u2019s Happening\u2019\u2014Elon Musk Sparks Wild Bitcoin Price Speculation After Trump Declares \u2018Crypto Revolution\u2019",
     "Google Warns That Quantum Armageddon Is Drawing Closer",
-    "Is there actually a way to send crypto to someone who has zero crypto knowledge, no wallet, no app installed, nothing, using just a phone number?"
+    "92% Bitcoin Holders in Loss: CryptoQuant"
   ],
   "trading_signal": "CAUTION"
 }
