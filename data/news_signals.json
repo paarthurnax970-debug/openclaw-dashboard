@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-31T21:03:28.698893+00:00",
+  "timestamp": "2026-04-01T01:03:15.529370+00:00",
   "cryptopanic_hot": [],
   "defi_tvl_movers": [
     {
@@ -11,8 +11,8 @@
     {
       "protocol": "Liquis",
       "coin": "LIQ",
-      "tvl_change_pct": 391.52,
-      "tvl_usd": 446072.1782285193
+      "tvl_change_pct": 402.24,
+      "tvl_usd": 445901.77392381866
     },
     {
       "protocol": "XY Finance",
@@ -21,22 +21,10 @@
       "tvl_usd": 1459.220581087896
     },
     {
-      "protocol": "CHOPCORP",
-      "coin": "LOG",
-      "tvl_change_pct": 128.42,
-      "tvl_usd": 271.10072670767073
-    },
-    {
       "protocol": "KoalaSwap",
       "coin": "KOALA",
-      "tvl_change_pct": 114.31,
-      "tvl_usd": 8382.142856591889
-    },
-    {
-      "protocol": "Chronos V2",
-      "coin": "CHR",
-      "tvl_change_pct": 101.58,
-      "tvl_usd": 169.2014039493472
+      "tvl_change_pct": 115.57,
+      "tvl_usd": 8417.044067569183
     },
     {
       "protocol": "Radiate Protocol",
@@ -60,22 +48,35 @@
       "protocol": "Ball Exchange",
       "coin": "BALL",
       "tvl_change_pct": -99.97,
-      "tvl_usd": 0.04395540763753981
+      "tvl_usd": 0.043934286948088756
+    },
+    {
+      "protocol": "Rhino.fi",
+      "coin": "RHINO",
+      "tvl_change_pct": 99.02,
+      "tvl_usd": 2223351.860385894
+    },
+    {
+      "protocol": "Based Farm",
+      "coin": "BASED",
+      "tvl_change_pct": -96.62,
+      "tvl_usd": 39.455301295623244
     }
   ],
   "whale_alerts": [],
   "twitter_spikes": [],
   "reddit_mentions": {
     "CTO": 2,
+    "TON": 2,
     "GROYPER": 2,
     "GROYP": 2,
-    "TON": 2,
-    "BILLY": 2,
     "MOTHER": 2,
-    "MICHI": 2,
     "MOODENG": 2,
+    "BILLY": 2,
+    "MICHI": 2,
     "BRETT": 1,
     "WWS": 1,
+    "LXVII": 1,
     "AURA": 1,
     "MUSK": 1,
     "MEMA": 1,
@@ -88,50 +89,32 @@
     "TRIPLET": 1,
     "FAPCOIN": 1,
     "ROSE": 1,
-    "ORBS": 1,
-    "WAVES": 1,
-    "DAG": 1,
-    "BTC": 1,
+    "PYTHIA": 1,
+    "SPARK": 1,
+    "OMNI": 1,
     "RED": 1,
     "ESPORTS": 1,
-    "PYTHIA": 1,
-    "SAHARA": 1
+    "BIRB": 1,
+    "BCE": 1
   },
-  "reddit_gem_leads": [
-    {
-      "address": "0xaa95f26e30001251fb905d264Aa7b00eE9dF6C18",
-      "source_post": "An Example Of An All Timer Community",
-      "subreddit": "CryptoMoonShots",
-      "upvotes": 33,
-      "age_hours": 46.3,
-      "url": "https://reddit.com/r/CryptoMoonShots/comments/1s79ikj/an_example_of_an_all_timer_community/"
-    },
-    {
-      "address": "0xef73611F98DA6E57e0776317957af61B59E09Ed7",
-      "source_post": "An Example Of An All Timer Community",
-      "subreddit": "CryptoMoonShots",
-      "upvotes": 33,
-      "age_hours": 46.3,
-      "url": "https://reddit.com/r/CryptoMoonShots/comments/1s79ikj/an_example_of_an_all_timer_community/"
-    }
-  ],
+  "reddit_gem_leads": [],
   "news_score": {
     "ORION": 4,
     "LIQ": 4,
     "XY": 4,
-    "LOG": 4,
     "KOALA": 4,
-    "CHR": 4,
+    "RHINO": 4,
     "BRETT": 1,
     "WWS": 1,
     "CTO": 1,
+    "TON": 1,
     "GROYPER": 1,
     "GROYP": 1,
-    "TON": 1,
-    "BILLY": 1,
+    "LXVII": 1,
     "MOTHER": 1,
-    "MICHI": 1,
     "MOODENG": 1,
+    "BILLY": 1,
+    "MICHI": 1,
     "AURA": 1,
     "MUSK": 1,
     "MEMA": 1,
@@ -144,20 +127,21 @@
     "TRIPLET": 1,
     "FAPCOIN": 1,
     "ROSE": 1,
-    "ORBS": 1,
-    "WAVES": 1,
-    "DAG": 1,
-    "BTC": 1,
+    "PYTHIA": 1,
+    "SPARK": 1,
+    "OMNI": 1,
     "RED": 1,
     "ESPORTS": 1,
-    "PYTHIA": 1,
+    "BIRB": 1,
+    "BCE": 1,
+    "ZAMA": 1,
     "SAHARA": 1,
-    "ETH": 1,
-    "ESP": 1,
+    "BTC": 1,
     "RADT": -2,
     "DAL": -2,
     "ETCPOWV2": -2,
-    "BALL": -2
+    "BALL": -2,
+    "BASED": -2
   },
   "overall_sentiment": "NEUTRAL",
   "nitter_available": false,
