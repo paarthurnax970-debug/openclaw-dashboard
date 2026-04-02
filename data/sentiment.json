@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-02T08:30:11.067925+00:00",
-  "overall_score": -1.76,
+  "timestamp": "2026-04-02T09:00:38.862852+00:00",
+  "overall_score": -1.75,
   "classification": "MILD_BEARISH",
   "components": {
     "fear_greed": {
@@ -17,11 +17,11 @@
       "bearish_count": 0
     },
     "reddit": {
-      "score": 2.14,
+      "score": 2.15,
       "post_count": 25,
-      "avg_upvote_ratio": 0.796,
-      "weighted_text_avg": 0.319,
-      "upvote_signal": 1.182
+      "avg_upvote_ratio": 0.816,
+      "weighted_text_avg": 0.294,
+      "upvote_signal": 1.266
     }
   },
   "top_headlines": [],
