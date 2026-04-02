@@ -1,14 +1,75 @@
 {
-  "timestamp": "2026-04-02T08:33:08.558429+00:00",
+  "timestamp": "2026-04-02T09:03:18.626865+00:00",
   "cryptopanic_hot": [],
-  "defi_tvl_movers": [],
+  "defi_tvl_movers": [
+    {
+      "protocol": "zkFox",
+      "coin": "ZKFOX",
+      "tvl_change_pct": 9034647.56,
+      "tvl_usd": 0.27067101363964297
+    },
+    {
+      "protocol": "SaharaDAO",
+      "coin": "MNG",
+      "tvl_change_pct": 2021.13,
+      "tvl_usd": 34.09211285802192
+    },
+    {
+      "protocol": "Mixoor",
+      "coin": "MIXOOR",
+      "tvl_change_pct": 1015.01,
+      "tvl_usd": 100.51291903746316
+    },
+    {
+      "protocol": "WhaleHub",
+      "coin": "BLUB",
+      "tvl_change_pct": 678.72,
+      "tvl_usd": 14.387151620923738
+    },
+    {
+      "protocol": "BIM Yield",
+      "coin": "BIM",
+      "tvl_change_pct": 240.82,
+      "tvl_usd": 513807.0435487332
+    },
+    {
+      "protocol": "BabySwap",
+      "coin": "BABY",
+      "tvl_change_pct": 173.96,
+      "tvl_usd": 3586798.5995179256
+    },
+    {
+      "protocol": "WoofSwap Shibarium",
+      "coin": "WOOF",
+      "tvl_change_pct": 158.72,
+      "tvl_usd": 447377.7245967234
+    },
+    {
+      "protocol": "SmartDEXBCH",
+      "coin": "DSMART",
+      "tvl_change_pct": -100.0,
+      "tvl_usd": 0
+    },
+    {
+      "protocol": "HonkSwap",
+      "coin": "HONK",
+      "tvl_change_pct": -100.0,
+      "tvl_usd": 0
+    },
+    {
+      "protocol": "NetWeave Lending",
+      "coin": "NEW",
+      "tvl_change_pct": -100.0,
+      "tvl_usd": 0
+    }
+  ],
   "whale_alerts": [],
   "twitter_spikes": [],
   "reddit_mentions": {
     "CTO": 2,
-    "MOTHER": 2,
     "MOODENG": 2,
     "BILLY": 2,
+    "MOTHER": 2,
     "MICHI": 2,
     "BRETT": 1,
     "WWS": 1,
@@ -24,25 +85,32 @@
     "TRIPLET": 1,
     "FAPCOIN": 1,
     "ROSE": 1,
-    "OMNI": 1,
-    "GPS": 1,
     "MERL": 1,
-    "SAHARA": 1,
-    "BIRB": 1,
-    "WAVES": 1,
-    "ZAMA": 1,
-    "ORBS": 1,
+    "ESPORTS": 1,
     "ESP": 1,
-    "RED": 1
+    "SPARK": 1,
+    "ETH": 1,
+    "DAG": 1,
+    "BIRB": 1,
+    "ORBS": 1,
+    "RED": 1,
+    "BCE": 1
   },
   "reddit_gem_leads": [],
   "news_score": {
+    "ZKFOX": 4,
+    "MNG": 4,
+    "MIXOOR": 4,
+    "BLUB": 4,
+    "BIM": 4,
+    "BABY": 4,
+    "WOOF": 4,
     "BRETT": 1,
     "WWS": 1,
     "CTO": 1,
-    "MOTHER": 1,
     "MOODENG": 1,
     "BILLY": 1,
+    "MOTHER": 1,
     "MICHI": 1,
     "AURA": 1,
     "MUSK": 1,
@@ -56,22 +124,25 @@
     "TRIPLET": 1,
     "FAPCOIN": 1,
     "ROSE": 1,
-    "OMNI": 1,
-    "GPS": 1,
     "MERL": 1,
-    "SAHARA": 1,
-    "BIRB": 1,
-    "WAVES": 1,
-    "ZAMA": 1,
-    "ORBS": 1,
+    "ESPORTS": 1,
     "ESP": 1,
-    "RED": 1
+    "SPARK": 1,
+    "ETH": 1,
+    "DAG": 1,
+    "BIRB": 1,
+    "ORBS": 1,
+    "RED": 1,
+    "BCE": 1,
+    "DSMART": -2,
+    "HONK": -2,
+    "NEW": -2
   },
   "overall_sentiment": "NEUTRAL",
   "nitter_available": false,
   "sources": {
     "cryptopanic": false,
-    "defi_llama": false,
+    "defi_llama": true,
     "whale_alert": false,
     "nitter": false,
     "reddit": true
