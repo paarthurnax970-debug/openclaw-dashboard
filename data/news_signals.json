@@ -1,76 +1,15 @@
 {
-  "timestamp": "2026-04-01T09:03:17.779805+00:00",
+  "timestamp": "2026-04-02T08:33:08.558429+00:00",
   "cryptopanic_hot": [],
-  "defi_tvl_movers": [
-    {
-      "protocol": "MistSwap",
-      "coin": "MIST",
-      "tvl_change_pct": 46176.08,
-      "tvl_usd": 172450.56662714112
-    },
-    {
-      "protocol": "Tropical Finance",
-      "coin": "DAIQUIRI",
-      "tvl_change_pct": 10640.68,
-      "tvl_usd": 47781.29237641962
-    },
-    {
-      "protocol": "1BCH",
-      "coin": "1BCH",
-      "tvl_change_pct": 2280.91,
-      "tvl_usd": 14242.187821537344
-    },
-    {
-      "protocol": "TangoSwap",
-      "coin": "TANGO",
-      "tvl_change_pct": 1617.83,
-      "tvl_usd": 23816.693486429675
-    },
-    {
-      "protocol": "EmberSwap",
-      "coin": "EMBER",
-      "tvl_change_pct": 1461.22,
-      "tvl_usd": 1350.8676666021543
-    },
-    {
-      "protocol": "BenSwap",
-      "coin": "EBEN",
-      "tvl_change_pct": 798.47,
-      "tvl_usd": 311391.9517587724
-    },
-    {
-      "protocol": "1Swap",
-      "coin": "1SWAP",
-      "tvl_change_pct": 745.13,
-      "tvl_usd": 10178.26101679846
-    },
-    {
-      "protocol": "BlockNG",
-      "coin": "LAW",
-      "tvl_change_pct": 382.87,
-      "tvl_usd": 29609.774309676293
-    },
-    {
-      "protocol": "WoofSwap Shibarium",
-      "coin": "WOOF",
-      "tvl_change_pct": 171.98,
-      "tvl_usd": 468537.36927948357
-    },
-    {
-      "protocol": "XY Finance",
-      "coin": "XY",
-      "tvl_change_pct": 147.99,
-      "tvl_usd": 1460.0353482598268
-    }
-  ],
+  "defi_tvl_movers": [],
   "whale_alerts": [],
   "twitter_spikes": [],
   "reddit_mentions": {
     "CTO": 2,
     "MOTHER": 2,
     "MOODENG": 2,
-    "MICHI": 2,
     "BILLY": 2,
+    "MICHI": 2,
     "BRETT": 1,
     "WWS": 1,
     "AURA": 1,
@@ -85,36 +24,26 @@
     "TRIPLET": 1,
     "FAPCOIN": 1,
     "ROSE": 1,
-    "ZAMA": 1,
-    "BCE": 1,
     "OMNI": 1,
-    "WAVES": 1,
-    "DAG": 1,
     "GPS": 1,
-    "RED": 1,
+    "MERL": 1,
+    "SAHARA": 1,
+    "BIRB": 1,
+    "WAVES": 1,
+    "ZAMA": 1,
     "ORBS": 1,
-    "BTC": 1,
-    "ESP": 1
+    "ESP": 1,
+    "RED": 1
   },
   "reddit_gem_leads": [],
   "news_score": {
-    "MIST": 4,
-    "DAIQUIRI": 4,
-    "1BCH": 4,
-    "TANGO": 4,
-    "EMBER": 4,
-    "EBEN": 4,
-    "1SWAP": 4,
-    "LAW": 4,
-    "WOOF": 4,
-    "XY": 4,
     "BRETT": 1,
     "WWS": 1,
     "CTO": 1,
     "MOTHER": 1,
     "MOODENG": 1,
-    "MICHI": 1,
     "BILLY": 1,
+    "MICHI": 1,
     "AURA": 1,
     "MUSK": 1,
     "MEMA": 1,
@@ -127,22 +56,22 @@
     "TRIPLET": 1,
     "FAPCOIN": 1,
     "ROSE": 1,
-    "ZAMA": 1,
-    "BCE": 1,
     "OMNI": 1,
-    "WAVES": 1,
-    "DAG": 1,
     "GPS": 1,
-    "RED": 1,
+    "MERL": 1,
+    "SAHARA": 1,
+    "BIRB": 1,
+    "WAVES": 1,
+    "ZAMA": 1,
     "ORBS": 1,
-    "BTC": 1,
-    "ESP": 1
+    "ESP": 1,
+    "RED": 1
   },
   "overall_sentiment": "NEUTRAL",
   "nitter_available": false,
   "sources": {
     "cryptopanic": false,
-    "defi_llama": true,
+    "defi_llama": false,
     "whale_alert": false,
     "nitter": false,
     "reddit": true
