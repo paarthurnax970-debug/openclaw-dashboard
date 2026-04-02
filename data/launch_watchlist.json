@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T09:05:02.264552+00:00",
+  "generated_at": "2026-04-02T08:34:49.740379+00:00",
   "scanner_version": "2.0",
   "chains_scanned": [
     "BASE",
@@ -12,23 +12,79 @@
   "passed_security": 4,
   "launch_watchlist": [
     {
-      "name": "SAI / WETH 1%",
-      "symbol": "SAI",
-      "address": "0x7e91fa8935eeaac5eec2e674c3af252f29c65023",
+      "name": "valkeyrae / ETH 0.05%",
+      "symbol": "VALKEYRAE",
+      "address": "0xbc57ba814fb69e34c3f3b784498886dfb45a31af",
       "chain": "BASE",
       "age_days": 0,
-      "market_cap": 40153.54346,
-      "liquidity_usd": 45790.1313,
-      "volume_24h": 59813.9111331261,
-      "price_change_24h": 209.588,
-      "price_change_6h": 209.588,
-      "buys_24h": 152,
+      "market_cap": 128590.9941,
+      "liquidity_usd": 85974.1095,
+      "volume_24h": 279475.890143518,
+      "price_change_24h": 791.475,
+      "price_change_6h": 791.475,
+      "buys_24h": 374,
+      "sells_24h": 188,
+      "txns_24h": 562,
+      "narrative_tags": [],
+      "dex_url": "https://dexscreener.com/base/0xbc57ba814fb69e34c3f3b784498886dfb45a31af",
+      "goplus": {
+        "is_honeypot": "0",
+        "is_mintable": "0",
+        "buy_tax": "0",
+        "sell_tax": "0",
+        "holder_count": 0,
+        "lp_holders": []
+      },
+      "holders": 0,
+      "volume_growing": true,
+      "launch_score": 58
+    },
+    {
+      "name": "FuFeng / WETH 0.01%",
+      "symbol": "FUFENG",
+      "address": "0xb97870bdf138c80fb8770bc6e780edd8240c185d",
+      "chain": "BASE",
+      "age_days": 0,
+      "market_cap": 112210.9173,
+      "liquidity_usd": 67147.1046,
+      "volume_24h": 255043.518715822,
+      "price_change_24h": 496.268,
+      "price_change_6h": 496.268,
+      "buys_24h": 590,
+      "sells_24h": 354,
+      "txns_24h": 944,
+      "narrative_tags": [],
+      "dex_url": "https://dexscreener.com/base/0xb97870bdf138c80fb8770bc6e780edd8240c185d",
+      "goplus": {
+        "is_honeypot": "0",
+        "is_mintable": "0",
+        "buy_tax": "0",
+        "sell_tax": "0",
+        "holder_count": 0,
+        "lp_holders": []
+      },
+      "holders": 0,
+      "volume_growing": true,
+      "launch_score": 58
+    },
+    {
+      "name": "Genbase / WETH 1%",
+      "symbol": "GENBASE",
+      "address": "0x816d561011208dbb8da5757d01c04dd7ef9f8498",
+      "chain": "BASE",
+      "age_days": 0,
+      "market_cap": 37092.87425,
+      "liquidity_usd": 43819.5005,
+      "volume_24h": 55229.0405829406,
+      "price_change_24h": 198.111,
+      "price_change_6h": 198.111,
+      "buys_24h": 148,
       "sells_24h": 75,
-      "txns_24h": 227,
+      "txns_24h": 223,
       "narrative_tags": [
-        "AI"
+        "Base"
       ],
-      "dex_url": "https://dexscreener.com/base/0x7e91fa8935eeaac5eec2e674c3af252f29c65023",
+      "dex_url": "https://dexscreener.com/base/0x816d561011208dbb8da5757d01c04dd7ef9f8498",
       "goplus": {
         "is_honeypot": "0",
         "is_mintable": "0",
@@ -42,21 +98,21 @@
       "launch_score": 56
     },
     {
-      "name": "Gumclaw / WETH 0.01%",
-      "symbol": "GUMCLAW",
-      "address": "0xc144af8a3ab374be296698d99a87274244218e5c",
+      "name": "Community / WETH 0.01%",
+      "symbol": "COMMUNITY",
+      "address": "0x1f8fd62846dd149a31c5dec66598f0ce96cfcb57",
       "chain": "BASE",
       "age_days": 0,
-      "market_cap": 139264.3822,
-      "liquidity_usd": 88827.3587,
-      "volume_24h": 274667.248852513,
-      "price_change_24h": 552.341,
-      "price_change_6h": 552.341,
-      "buys_24h": 452,
-      "sells_24h": 322,
-      "txns_24h": 774,
+      "market_cap": 89025.5041,
+      "liquidity_usd": 55527.9333,
+      "volume_24h": 87518.3767742012,
+      "price_change_24h": 761.101,
+      "price_change_6h": 761.101,
+      "buys_24h": 176,
+      "sells_24h": 84,
+      "txns_24h": 260,
       "narrative_tags": [],
-      "dex_url": "https://dexscreener.com/base/0xc144af8a3ab374be296698d99a87274244218e5c",
+      "dex_url": "https://dexscreener.com/base/0x1f8fd62846dd149a31c5dec66598f0ce96cfcb57",
       "goplus": {
         "is_honeypot": "0",
         "is_mintable": "0",
@@ -67,86 +123,7 @@
       },
       "holders": 0,
       "volume_growing": true,
-      "launch_score": 50
-    },
-    {
-      "name": "OCLAIXBT / WBNB",
-      "symbol": "OCLAIXBT",
-      "address": "0xb60ca16a3a8a83c017f6e5d0fd48d64fbaa58a83",
-      "chain": "BSC",
-      "age_days": 0,
-      "market_cap": 42943.895,
-      "liquidity_usd": 40508.7719,
-      "volume_24h": 13952.7116309572,
-      "price_change_24h": 347.776,
-      "price_change_6h": 347.776,
-      "buys_24h": 19,
-      "sells_24h": 6,
-      "txns_24h": 25,
-      "narrative_tags": [
-        "AI"
-      ],
-      "dex_url": "https://dexscreener.com/bsc/0xb60ca16a3a8a83c017f6e5d0fd48d64fbaa58a83",
-      "goplus": {
-        "is_honeypot": "0",
-        "is_mintable": "0",
-        "buy_tax": "0",
-        "sell_tax": "0",
-        "holder_count": "1",
-        "lp_holders": [
-          {
-            "address": "0xb1a24698a3352097b724c049997d66ca0993d421",
-            "tag": "",
-            "value": null,
-            "is_contract": 0,
-            "balance": "122474.487139158904908864",
-            "percent": "0.999999999999999999",
-            "NFT_list": null,
-            "is_locked": 0
-          },
-          {
-            "address": "0x0000000000000000000000000000000000000000",
-            "tag": "Null Address",
-            "value": null,
-            "is_contract": 0,
-            "balance": "0.000000000000001",
-            "percent": "0.000000000000000000",
-            "NFT_list": null,
-            "is_locked": 1
-          }
-        ]
-      },
-      "holders": 1,
-      "volume_growing": true,
-      "launch_score": 36
-    },
-    {
-      "name": "\u6bd4\u7279 / WBNB",
-      "symbol": "\u6bd4\u7279",
-      "address": "0x8f2344170ace7d90aebec8dc1d33d8cb3ef4f406",
-      "chain": "BSC",
-      "age_days": 0,
-      "market_cap": 250917.3339,
-      "liquidity_usd": 51598.5899,
-      "volume_24h": 36420.3683066199,
-      "price_change_24h": 259.893,
-      "price_change_6h": 259.893,
-      "buys_24h": 90,
-      "sells_24h": 82,
-      "txns_24h": 172,
-      "narrative_tags": [],
-      "dex_url": "https://dexscreener.com/bsc/0x8f2344170ace7d90aebec8dc1d33d8cb3ef4f406",
-      "goplus": {
-        "is_honeypot": "0",
-        "is_mintable": "0",
-        "buy_tax": "",
-        "sell_tax": "",
-        "holder_count": "1",
-        "lp_holders": []
-      },
-      "holders": 1,
-      "volume_growing": true,
-      "launch_score": 25
+      "launch_score": 53
     }
   ]
 }
