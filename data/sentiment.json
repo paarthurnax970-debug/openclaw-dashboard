@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-04-01T09:00:39.233773+00:00",
-  "overall_score": -2.61,
+  "timestamp": "2026-04-02T08:30:11.067925+00:00",
+  "overall_score": -1.76,
   "classification": "MILD_BEARISH",
   "components": {
     "fear_greed": {
-      "value": 8,
+      "value": 12,
       "classification": "Extreme Fear",
-      "normalized_score": -8.4,
-      "trend": "declining",
-      "yesterday": 11
+      "normalized_score": -7.6,
+      "trend": "improving",
+      "yesterday": 8
     },
     "news": {
       "score": 0,
@@ -17,20 +17,20 @@
       "bearish_count": 0
     },
     "reddit": {
-      "score": 1.25,
+      "score": 2.14,
       "post_count": 25,
-      "avg_upvote_ratio": 0.769,
-      "weighted_text_avg": 0.057,
-      "upvote_signal": 1.075
+      "avg_upvote_ratio": 0.796,
+      "weighted_text_avg": 0.319,
+      "upvote_signal": 1.182
     }
   },
   "top_headlines": [],
   "top_reddit_posts": [
-    "Daily Crypto Discussion - March 31, 2026 (GMT+0)",
-    "Recession coincided with every major oil crisis in the past 50 years.",
-    "Ethereum Had Zero Downtime in Its Entire Lifetime (10 Years), Here are its Competitors",
-    "\u2018It\u2019s Happening\u2019\u2014Elon Musk Sparks Wild Bitcoin Price Speculation After Trump Declares \u2018Crypto Revolution\u2019",
-    "92% Bitcoin Holders in Loss: CryptoQuant"
+    "Verified Humans. Verified Agents. One Protocol. \ud83c\udf10",
+    "Daily Crypto Discussion - April 1, 2026 (GMT+0)",
+    "Mysterious trader buys $53 million ahead of Trump's 9 PM Iran address",
+    "US Treasury approves President Trump\u2019s plan to phase out all paper money in favor of crypto, gold coins",
+    "Drift Protocol Hacked for $270M - Even $4M Worth Of Fartcoin Stolen"
   ],
   "trading_signal": "CAUTION"
 }
