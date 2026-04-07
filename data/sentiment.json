@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-04-07T17:00:36.639785+00:00",
-  "overall_score": -2.97,
-  "classification": "MILD_BEARISH",
+  "timestamp": "2026-04-07T21:00:37.854510+00:00",
+  "overall_score": -3.12,
+  "classification": "FEAR",
   "components": {
     "fear_greed": {
       "value": 11,
@@ -17,20 +17,20 @@
       "bearish_count": 0
     },
     "reddit": {
-      "score": 0.25,
+      "score": -0.0,
       "post_count": 25,
-      "avg_upvote_ratio": 0.815,
-      "weighted_text_avg": -0.336,
-      "upvote_signal": 1.259
+      "avg_upvote_ratio": 0.767,
+      "weighted_text_avg": -0.357,
+      "upvote_signal": 1.067
     }
   },
   "top_headlines": [],
   "top_reddit_posts": [
     "Daily Crypto Discussion - April 6, 2026 (GMT+0)",
-    "Strategy Buys $330M In Bitcoin After Rare Pause; Shares Surge As Saylor Declares 'Bitcoin Has Won'",
+    "84% of Polymarket traders are losing money. That says a lot about who prediction markets are really built for.",
     "'A whole civilization will die': Crypto markets under pressure as Trump ups rhetoric towards Iran",
-    "Argentina President Javier Milei Under Fire in LIBRA Crypto Scandal: New Evidence Reveals Deeper Ties",
-    "China Orders Removal of Jack Dorsey\u2019s Bitchat App From App Store"
+    "BLOOMBERG: Morgan Stanley Bitcoin ETF will launch this week",
+    "Argentina President Javier Milei Under Fire in LIBRA Crypto Scandal: New Evidence Reveals Deeper Ties"
   ],
   "trading_signal": "CAUTION"
 }
