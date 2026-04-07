@@ -1,66 +1,66 @@
 {
-  "timestamp": "2026-04-07T13:03:14.265246+00:00",
+  "timestamp": "2026-04-07T17:03:18.788714+00:00",
   "cryptopanic_hot": [],
   "defi_tvl_movers": [
     {
       "protocol": "DexFinance BSC",
       "coin": "DEXSHARE",
-      "tvl_change_pct": 23542226.63,
-      "tvl_usd": 0.014202666194262371
+      "tvl_change_pct": 23196716.76,
+      "tvl_usd": 0.014085906235467124
     },
     {
-      "protocol": "Aria Protocol",
-      "coin": "ARIAIP",
-      "tvl_change_pct": 475.71,
-      "tvl_usd": 2425855.581941399
+      "protocol": "LogX V2",
+      "coin": "LOGX",
+      "tvl_change_pct": 17037.07,
+      "tvl_usd": 8497.344861576188
     },
     {
       "protocol": "Kintsugi",
       "coin": "KINT",
-      "tvl_change_pct": 154.19,
-      "tvl_usd": 37412.19396951169
+      "tvl_change_pct": 152.51,
+      "tvl_usd": 37109.97862272467
     },
     {
       "protocol": "STAB Protocol",
       "coin": "ILIS",
-      "tvl_change_pct": 114.14,
-      "tvl_usd": 4865.151647850278
+      "tvl_change_pct": 113.82,
+      "tvl_usd": 4849.5934011412455
     },
     {
-      "protocol": "Revest Finance",
-      "coin": "RVST",
-      "tvl_change_pct": 98.84,
-      "tvl_usd": 95146.94024978737
+      "protocol": "Republic Note",
+      "coin": "NOTE",
+      "tvl_change_pct": -100.0,
+      "tvl_usd": 0
+    },
+    {
+      "protocol": "Yaka V3",
+      "coin": "YAKA",
+      "tvl_change_pct": -96.96,
+      "tvl_usd": 7307.584427980065
+    },
+    {
+      "protocol": "Popsicle Finance",
+      "coin": "ICE",
+      "tvl_change_pct": -96.7,
+      "tvl_usd": 261.50751645105925
     },
     {
       "protocol": "Mirakle Defi",
       "coin": "QIJI",
-      "tvl_change_pct": -94.18,
-      "tvl_usd": 0.07306161004385076
+      "tvl_change_pct": -94.3,
+      "tvl_usd": 0.07152428217731971
     },
     {
-      "protocol": "Fusefi Lending",
-      "coin": "VOLT",
-      "tvl_change_pct": -77.55,
-      "tvl_usd": 0.48517447480504716
+      "protocol": "MetalSwap",
+      "coin": "XMT",
+      "tvl_change_pct": -93.25,
+      "tvl_usd": 7324.638655652052
     },
     {
-      "protocol": "Bunicorn",
-      "coin": "BUNI",
-      "tvl_change_pct": 70.58,
-      "tvl_usd": 114956.97091751783
-    },
-    {
-      "protocol": "HurricaneSwap",
-      "coin": "HCT",
-      "tvl_change_pct": -65.5,
-      "tvl_usd": 13864.041932343816
-    },
-    {
-      "protocol": "PigeonHouse",
-      "coin": "PIGEON",
-      "tvl_change_pct": -65.37,
-      "tvl_usd": 1799.1519499230326
+      "protocol": "GullNetwork AMM",
+      "coin": "GULL",
+      "tvl_change_pct": -85.2,
+      "tvl_usd": 146856.9276602529
     }
   ],
   "whale_alerts": [],
@@ -68,52 +68,41 @@
   "reddit_mentions": {
     "BILLY": 2,
     "MOTHER": 2,
-    "MOODENG": 2,
     "MICHI": 2,
+    "MOODENG": 2,
     "ROSE": 2,
     "BRETT": 1,
+    "ZYPTO": 1,
     "WHALLY": 1,
     "BKN": 1,
     "SATOSUN": 1,
-    "WWS": 1,
     "BELIEVE": 1,
     "AURA": 1,
     "MUSK": 1,
     "MEMA": 1,
     "GIGA": 1,
     "NCT": 1,
-    "KNS": 1,
     "KSW": 1,
+    "KNS": 1,
     "DOGE": 1,
     "TRIPLET": 1,
-    "FAPCOIN": 1,
-    "ESP": 1,
-    "RED": 1,
-    "GPS": 1,
-    "ORBS": 1,
-    "OMNI": 1,
-    "ESPORTS": 1,
-    "DAG": 1,
-    "MERL": 1,
-    "PYTHIA": 1
+    "FAPCOIN": 1
   },
   "reddit_gem_leads": [],
   "news_score": {
     "DEXSHARE": 4,
-    "ARIAIP": 4,
+    "LOGX": 4,
     "KINT": 4,
     "ILIS": 4,
-    "RVST": 4,
-    "BUNI": 4,
     "BRETT": 1,
+    "ZYPTO": 1,
     "WHALLY": 1,
     "BKN": 1,
     "SATOSUN": 1,
-    "WWS": 1,
     "BILLY": 1,
     "MOTHER": 1,
-    "MOODENG": 1,
     "MICHI": 1,
+    "MOODENG": 1,
     "BELIEVE": 1,
     "AURA": 1,
     "MUSK": 1,
@@ -121,25 +110,17 @@
     "GIGA": 1,
     "ROSE": 1,
     "NCT": 1,
-    "KNS": 1,
     "KSW": 1,
+    "KNS": 1,
     "DOGE": 1,
     "TRIPLET": 1,
     "FAPCOIN": 1,
-    "ESP": 1,
-    "RED": 1,
-    "GPS": 1,
-    "ORBS": 1,
-    "OMNI": 1,
-    "ESPORTS": 1,
-    "DAG": 1,
-    "MERL": 1,
-    "PYTHIA": 1,
-    "BCE": 1,
+    "NOTE": -2,
+    "YAKA": -2,
+    "ICE": -2,
     "QIJI": -2,
-    "VOLT": -2,
-    "HCT": -2,
-    "PIGEON": -2
+    "XMT": -2,
+    "GULL": -2
   },
   "overall_sentiment": "NEUTRAL",
   "nitter_available": false,
