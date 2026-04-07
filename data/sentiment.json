@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-07T09:00:40.007312+00:00",
-  "overall_score": -3.07,
+  "timestamp": "2026-04-07T13:00:39.763148+00:00",
+  "overall_score": -3.02,
   "classification": "FEAR",
   "components": {
     "fear_greed": {
@@ -17,20 +17,20 @@
       "bearish_count": 0
     },
     "reddit": {
-      "score": 0.08,
+      "score": 0.17,
       "post_count": 25,
-      "avg_upvote_ratio": 0.739,
-      "weighted_text_avg": -0.293,
-      "upvote_signal": 0.957
+      "avg_upvote_ratio": 0.768,
+      "weighted_text_avg": -0.301,
+      "upvote_signal": 1.07
     }
   },
   "top_headlines": [],
   "top_reddit_posts": [
     "Daily Crypto Discussion - April 6, 2026 (GMT+0)",
     "China Orders Removal of Jack Dorsey\u2019s Bitchat App From App Store",
-    "Polymarket Becomes War Betting Hub, Lawmakers Demand Crackdown",
+    "Argentina President Javier Milei Under Fire in LIBRA Crypto Scandal: New Evidence Reveals Deeper Ties",
     "CLARITY Act Yield Deal Finalized by Banks, Crypto Firms: Act Could Be Signed This Month",
-    "US Money Supply Hits Record $22.7, Inflation Fears Rise as Bitcoin Case Strengthens"
+    "Polymarket Becomes War Betting Hub, Lawmakers Demand Crackdown"
   ],
   "trading_signal": "CAUTION"
 }
