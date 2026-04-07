@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T17:04:57.732074+00:00",
+  "generated_at": "2026-04-07T21:04:56.615681+00:00",
   "scanner_version": "2.0",
   "chains_scanned": [
     "BASE",
@@ -8,27 +8,27 @@
     "ETH"
   ],
   "chain_priority": "Base \u2192 BSC \u2192 SOL \u2192 ETH",
-  "total_raw": 2,
-  "passed_security": 2,
+  "total_raw": 4,
+  "passed_security": 4,
   "launch_watchlist": [
     {
-      "name": "DEGENIUS / ETH 0.05%",
-      "symbol": "DEGENIUS",
-      "address": "0x6e9c8b567ff2f57289545306a1a8b4c8122e7be2",
+      "name": "AGENT / ETH 0.05%",
+      "symbol": "AGENT",
+      "address": "0x8c3081e9bbd5ebc7650ea14be17465b8eea59b18",
       "chain": "BASE",
       "age_days": 0,
-      "market_cap": 36672.36416,
-      "liquidity_usd": 34877.0024,
-      "volume_24h": 63638.6086199504,
-      "price_change_24h": 339.391,
-      "price_change_6h": 339.391,
-      "buys_24h": 219,
-      "sells_24h": 144,
-      "txns_24h": 363,
+      "market_cap": 40551.39614,
+      "liquidity_usd": 36970.2113,
+      "volume_24h": 29980.909644298,
+      "price_change_24h": 283.369,
+      "price_change_6h": 283.369,
+      "buys_24h": 199,
+      "sells_24h": 95,
+      "txns_24h": 294,
       "narrative_tags": [
-        "Meme"
+        "AI"
       ],
-      "dex_url": "https://dexscreener.com/base/0x6e9c8b567ff2f57289545306a1a8b4c8122e7be2",
+      "dex_url": "https://dexscreener.com/base/0x8c3081e9bbd5ebc7650ea14be17465b8eea59b18",
       "goplus": {
         "is_honeypot": "0",
         "is_mintable": "0",
@@ -39,24 +39,24 @@
       },
       "holders": 0,
       "volume_growing": true,
-      "launch_score": 56
+      "launch_score": 51
     },
     {
-      "name": "OIL / ETH 0.05%",
-      "symbol": "OIL",
-      "address": "0x33926dc22bf2ba9a9be65b01ae1cb0452ebfa675",
-      "chain": "BASE",
+      "name": "DRAG\ud83c\udf54 / WBNB",
+      "symbol": "DRAG\ud83c\udf54",
+      "address": "0x0854de2591afa272b7e2d29d7cbe4fcee86d4f18",
+      "chain": "BSC",
       "age_days": 0,
-      "market_cap": 31322.2417,
-      "liquidity_usd": 35600.4835,
-      "volume_24h": 44589.2510726273,
-      "price_change_24h": 200.16,
-      "price_change_6h": 200.16,
-      "buys_24h": 220,
-      "sells_24h": 139,
-      "txns_24h": 359,
+      "market_cap": 38919.43038,
+      "liquidity_usd": 47629.0086,
+      "volume_24h": 51508.8708231828,
+      "price_change_24h": 203.431,
+      "price_change_6h": 203.431,
+      "buys_24h": 171,
+      "sells_24h": 86,
+      "txns_24h": 257,
       "narrative_tags": [],
-      "dex_url": "https://dexscreener.com/base/0x33926dc22bf2ba9a9be65b01ae1cb0452ebfa675",
+      "dex_url": "https://dexscreener.com/bsc/0x0854de2591afa272b7e2d29d7cbe4fcee86d4f18",
       "goplus": {
         "is_honeypot": "0",
         "is_mintable": "0",
@@ -67,7 +67,63 @@
       },
       "holders": 0,
       "volume_growing": true,
-      "launch_score": 53
+      "launch_score": 43
+    },
+    {
+      "name": "BSCELON / WBNB",
+      "symbol": "BSCELON",
+      "address": "0xa352850a4fe8b6a31579ab3a80158a1fb9b1475a",
+      "chain": "BSC",
+      "age_days": 0,
+      "market_cap": 39850.26028,
+      "liquidity_usd": 38603.525,
+      "volume_24h": 10905.6439036021,
+      "price_change_24h": 321.267,
+      "price_change_6h": 321.267,
+      "buys_24h": 18,
+      "sells_24h": 3,
+      "txns_24h": 21,
+      "narrative_tags": [],
+      "dex_url": "https://dexscreener.com/bsc/0xa352850a4fe8b6a31579ab3a80158a1fb9b1475a",
+      "goplus": {
+        "is_honeypot": "0",
+        "is_mintable": "0",
+        "buy_tax": "0",
+        "sell_tax": "0",
+        "holder_count": 0,
+        "lp_holders": []
+      },
+      "holders": 0,
+      "volume_growing": true,
+      "launch_score": 33
+    },
+    {
+      "name": "\ud83d\udc51BIN / WBNB",
+      "symbol": "\ud83d\udc51BIN",
+      "address": "0xf210585d323dc2d46836522e1329570e0f233910",
+      "chain": "BSC",
+      "age_days": 0,
+      "market_cap": 93811.93018,
+      "liquidity_usd": 21943.3445,
+      "volume_24h": 28221.6103804192,
+      "price_change_24h": 201.134,
+      "price_change_6h": 201.134,
+      "buys_24h": 170,
+      "sells_24h": 85,
+      "txns_24h": 255,
+      "narrative_tags": [],
+      "dex_url": "https://dexscreener.com/bsc/0xf210585d323dc2d46836522e1329570e0f233910",
+      "goplus": {
+        "is_honeypot": "0",
+        "is_mintable": "0",
+        "buy_tax": "0",
+        "sell_tax": "0",
+        "holder_count": 0,
+        "lp_holders": []
+      },
+      "holders": 0,
+      "volume_growing": true,
+      "launch_score": 33
     }
   ]
 }
