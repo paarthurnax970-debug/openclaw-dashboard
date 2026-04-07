@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T09:04:53.254590+00:00",
+  "generated_at": "2026-04-07T13:04:54.791401+00:00",
   "scanner_version": "2.0",
   "chains_scanned": [
     "BASE",
@@ -8,25 +8,25 @@
     "ETH"
   ],
   "chain_priority": "Base \u2192 BSC \u2192 SOL \u2192 ETH",
-  "total_raw": 1,
-  "passed_security": 1,
+  "total_raw": 3,
+  "passed_security": 3,
   "launch_watchlist": [
     {
-      "name": "durr / WETH",
-      "symbol": "DURR",
-      "address": "0xe0abee131e06d42fb988d2c28e097b4d51fbc4fb",
-      "chain": "ETH",
+      "name": "BT / WETH 0.01%",
+      "symbol": "BT",
+      "address": "0x2c58992bf59beade0d92ad931ec57a2bd070afd9",
+      "chain": "BASE",
       "age_days": 0,
-      "market_cap": 113186.8455,
-      "liquidity_usd": 21582.6441,
-      "volume_24h": 11338.3048665038,
-      "price_change_24h": 10680.857,
-      "price_change_6h": 10680.857,
-      "buys_24h": 70,
-      "sells_24h": 12,
-      "txns_24h": 82,
+      "market_cap": 164140.277,
+      "liquidity_usd": 83947.0771,
+      "volume_24h": 126933.670246777,
+      "price_change_24h": 950.269,
+      "price_change_6h": 950.269,
+      "buys_24h": 387,
+      "sells_24h": 333,
+      "txns_24h": 720,
       "narrative_tags": [],
-      "dex_url": "https://dexscreener.com/eth/0xe0abee131e06d42fb988d2c28e097b4d51fbc4fb",
+      "dex_url": "https://dexscreener.com/base/0x2c58992bf59beade0d92ad931ec57a2bd070afd9",
       "goplus": {
         "is_honeypot": "0",
         "is_mintable": "0",
@@ -37,7 +37,63 @@
       },
       "holders": 0,
       "volume_growing": true,
-      "launch_score": 28
+      "launch_score": 45
+    },
+    {
+      "name": "AXAL / WETH",
+      "symbol": "AXAL",
+      "address": "0x833d25f098ae636f32e05651b3908586b34094c3",
+      "chain": "ETH",
+      "age_days": 0,
+      "market_cap": 62128.99599,
+      "liquidity_usd": 69507.5813,
+      "volume_24h": 26535.5654559529,
+      "price_change_24h": 142.903,
+      "price_change_6h": 142.903,
+      "buys_24h": 35,
+      "sells_24h": 6,
+      "txns_24h": 41,
+      "narrative_tags": [],
+      "dex_url": "https://dexscreener.com/eth/0x833d25f098ae636f32e05651b3908586b34094c3",
+      "goplus": {
+        "is_honeypot": "0",
+        "is_mintable": "0",
+        "buy_tax": "0",
+        "sell_tax": "0",
+        "holder_count": 0,
+        "lp_holders": []
+      },
+      "holders": 0,
+      "volume_growing": false,
+      "launch_score": 38
+    },
+    {
+      "name": "\ud83d\udd25WEB / WBNB",
+      "symbol": "\ud83d\udd25WEB",
+      "address": "0x08db3bf90aa164cabaa6981793112efa0c0cfe41",
+      "chain": "BSC",
+      "age_days": 0,
+      "market_cap": 144129.3369,
+      "liquidity_usd": 42817.7588,
+      "volume_24h": 38529.6104492355,
+      "price_change_24h": 104.36,
+      "price_change_6h": 104.36,
+      "buys_24h": 102,
+      "sells_24h": 65,
+      "txns_24h": 167,
+      "narrative_tags": [],
+      "dex_url": "https://dexscreener.com/bsc/0x08db3bf90aa164cabaa6981793112efa0c0cfe41",
+      "goplus": {
+        "is_honeypot": "0",
+        "is_mintable": "0",
+        "buy_tax": "0",
+        "sell_tax": "0",
+        "holder_count": 0,
+        "lp_holders": []
+      },
+      "holders": 0,
+      "volume_growing": true,
+      "launch_score": 33
     }
   ]
 }
