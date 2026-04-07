@@ -1,78 +1,80 @@
 {
-  "timestamp": "2026-04-07T17:03:18.788714+00:00",
+  "timestamp": "2026-04-07T21:03:10.614685+00:00",
   "cryptopanic_hot": [],
   "defi_tvl_movers": [
     {
       "protocol": "DexFinance BSC",
       "coin": "DEXSHARE",
-      "tvl_change_pct": 23196716.76,
-      "tvl_usd": 0.014085906235467124
+      "tvl_change_pct": 23241233.43,
+      "tvl_usd": 0.014079647462445253
     },
     {
       "protocol": "LogX V2",
       "coin": "LOGX",
-      "tvl_change_pct": 17037.07,
-      "tvl_usd": 8497.344861576188
+      "tvl_change_pct": 17033.4,
+      "tvl_usd": 8496.251587404911
     },
     {
       "protocol": "Kintsugi",
       "coin": "KINT",
-      "tvl_change_pct": 152.51,
-      "tvl_usd": 37109.97862272467
+      "tvl_change_pct": 152.58,
+      "tvl_usd": 37195.614555808126
     },
     {
-      "protocol": "STAB Protocol",
-      "coin": "ILIS",
-      "tvl_change_pct": 113.82,
-      "tvl_usd": 4849.5934011412455
+      "protocol": "WhaleHub",
+      "coin": "BLUB",
+      "tvl_change_pct": 120.81,
+      "tvl_usd": 44.82323464696935
     },
     {
-      "protocol": "Republic Note",
-      "coin": "NOTE",
+      "protocol": "Stables Labs USDX",
+      "coin": "USDX",
       "tvl_change_pct": -100.0,
       "tvl_usd": 0
     },
     {
-      "protocol": "Yaka V3",
-      "coin": "YAKA",
-      "tvl_change_pct": -96.96,
-      "tvl_usd": 7307.584427980065
+      "protocol": "Axelar Cross Chain",
+      "coin": "AXL",
+      "tvl_change_pct": -100.0,
+      "tvl_usd": 0
     },
     {
       "protocol": "Popsicle Finance",
       "coin": "ICE",
-      "tvl_change_pct": -96.7,
-      "tvl_usd": 261.50751645105925
+      "tvl_change_pct": -97.12,
+      "tvl_usd": 261.09131185349156
+    },
+    {
+      "protocol": "Yaka V3",
+      "coin": "YAKA",
+      "tvl_change_pct": -96.92,
+      "tvl_usd": 7368.006338325051
     },
     {
       "protocol": "Mirakle Defi",
       "coin": "QIJI",
-      "tvl_change_pct": -94.3,
-      "tvl_usd": 0.07152428217731971
+      "tvl_change_pct": -94.26,
+      "tvl_usd": 0.07206887471143164
     },
     {
       "protocol": "MetalSwap",
       "coin": "XMT",
       "tvl_change_pct": -93.25,
       "tvl_usd": 7324.638655652052
-    },
-    {
-      "protocol": "GullNetwork AMM",
-      "coin": "GULL",
-      "tvl_change_pct": -85.2,
-      "tvl_usd": 146856.9276602529
     }
   ],
   "whale_alerts": [],
   "twitter_spikes": [],
   "reddit_mentions": {
-    "BILLY": 2,
     "MOTHER": 2,
-    "MICHI": 2,
+    "BILLY": 2,
     "MOODENG": 2,
+    "MICHI": 2,
     "ROSE": 2,
     "BRETT": 1,
+    "SUS": 1,
     "ZYPTO": 1,
+    "TARIFF": 1,
     "WHALLY": 1,
     "BKN": 1,
     "SATOSUN": 1,
@@ -82,8 +84,8 @@
     "MEMA": 1,
     "GIGA": 1,
     "NCT": 1,
-    "KSW": 1,
     "KNS": 1,
+    "KSW": 1,
     "DOGE": 1,
     "TRIPLET": 1,
     "FAPCOIN": 1
@@ -93,16 +95,18 @@
     "DEXSHARE": 4,
     "LOGX": 4,
     "KINT": 4,
-    "ILIS": 4,
+    "BLUB": 4,
     "BRETT": 1,
+    "SUS": 1,
     "ZYPTO": 1,
+    "TARIFF": 1,
     "WHALLY": 1,
     "BKN": 1,
     "SATOSUN": 1,
-    "BILLY": 1,
     "MOTHER": 1,
-    "MICHI": 1,
+    "BILLY": 1,
     "MOODENG": 1,
+    "MICHI": 1,
     "BELIEVE": 1,
     "AURA": 1,
     "MUSK": 1,
@@ -110,17 +114,17 @@
     "GIGA": 1,
     "ROSE": 1,
     "NCT": 1,
-    "KSW": 1,
     "KNS": 1,
+    "KSW": 1,
     "DOGE": 1,
     "TRIPLET": 1,
     "FAPCOIN": 1,
-    "NOTE": -2,
-    "YAKA": -2,
+    "USDX": -2,
+    "AXL": -2,
     "ICE": -2,
+    "YAKA": -2,
     "QIJI": -2,
-    "XMT": -2,
-    "GULL": -2
+    "XMT": -2
   },
   "overall_sentiment": "NEUTRAL",
   "nitter_available": false,
