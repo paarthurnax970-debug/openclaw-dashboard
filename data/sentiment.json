@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-08T05:00:38.864833+00:00",
-  "overall_score": -1.77,
+  "timestamp": "2026-04-08T09:00:39.504353+00:00",
+  "overall_score": -1.84,
   "classification": "MILD_BEARISH",
   "components": {
     "fear_greed": {
@@ -17,11 +17,11 @@
       "bearish_count": 0
     },
     "reddit": {
-      "score": 1.45,
+      "score": 1.34,
       "post_count": 25,
-      "avg_upvote_ratio": 0.841,
-      "weighted_text_avg": 0.028,
-      "upvote_signal": 1.363
+      "avg_upvote_ratio": 0.837,
+      "weighted_text_avg": -0.001,
+      "upvote_signal": 1.347
     }
   },
   "top_headlines": [],
@@ -29,8 +29,8 @@
     "Daily Crypto Discussion - April 7, 2026 (GMT+0)",
     "84% of Polymarket traders are losing money. That says a lot about who prediction markets are really built for.",
     "Suspected North Korean IT Operative Exposed in Remote Job Interview After Failing Loyalty Test",
-    "Bitcoin Tops $72K as US-Iran Ceasefire Sparks Rally : But For How Long?",
-    "Morgan Stanley's Bitcoin ETF Goes Live Tomorrow"
+    "Morgan Stanley's Bitcoin ETF Goes Live Tomorrow",
+    "Strategy Is Buying Bitcoin 2x Faster Than New BTC Supply In 2026"
   ],
   "trading_signal": "CAUTION"
 }
