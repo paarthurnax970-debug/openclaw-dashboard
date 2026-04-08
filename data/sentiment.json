@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-04-07T21:00:37.854510+00:00",
-  "overall_score": -3.12,
-  "classification": "FEAR",
+  "timestamp": "2026-04-08T01:00:38.215790+00:00",
+  "overall_score": -2.35,
+  "classification": "MILD_BEARISH",
   "components": {
     "fear_greed": {
-      "value": 11,
+      "value": 17,
       "classification": "Extreme Fear",
-      "normalized_score": -7.8,
-      "trend": "declining",
-      "yesterday": 13
+      "normalized_score": -6.6,
+      "trend": "improving",
+      "yesterday": 11
     },
     "news": {
       "score": 0,
@@ -17,20 +17,20 @@
       "bearish_count": 0
     },
     "reddit": {
-      "score": -0.0,
+      "score": 0.49,
       "post_count": 25,
-      "avg_upvote_ratio": 0.767,
-      "weighted_text_avg": -0.357,
-      "upvote_signal": 1.067
+      "avg_upvote_ratio": 0.842,
+      "weighted_text_avg": -0.295,
+      "upvote_signal": 1.37
     }
   },
   "top_headlines": [],
   "top_reddit_posts": [
-    "Daily Crypto Discussion - April 6, 2026 (GMT+0)",
+    "Daily Crypto Discussion - April 7, 2026 (GMT+0)",
     "84% of Polymarket traders are losing money. That says a lot about who prediction markets are really built for.",
+    "Suspected North Korean IT Operative Exposed in Remote Job Interview After Failing Loyalty Test",
     "'A whole civilization will die': Crypto markets under pressure as Trump ups rhetoric towards Iran",
-    "BLOOMBERG: Morgan Stanley Bitcoin ETF will launch this week",
-    "Argentina President Javier Milei Under Fire in LIBRA Crypto Scandal: New Evidence Reveals Deeper Ties"
+    "BLOOMBERG: Morgan Stanley Bitcoin ETF will launch this week"
   ],
   "trading_signal": "CAUTION"
 }
