@@ -1,30 +1,30 @@
 {
-  "timestamp": "2026-04-07T21:03:10.614685+00:00",
+  "timestamp": "2026-04-08T01:03:19.873300+00:00",
   "cryptopanic_hot": [],
   "defi_tvl_movers": [
     {
       "protocol": "DexFinance BSC",
       "coin": "DEXSHARE",
-      "tvl_change_pct": 23241233.43,
-      "tvl_usd": 0.014079647462445253
+      "tvl_change_pct": 26220143.96,
+      "tvl_usd": 0.015906806635490864
     },
     {
       "protocol": "LogX V2",
       "coin": "LOGX",
-      "tvl_change_pct": 17033.4,
-      "tvl_usd": 8496.251587404911
-    },
-    {
-      "protocol": "Kintsugi",
-      "coin": "KINT",
-      "tvl_change_pct": 152.58,
-      "tvl_usd": 37195.614555808126
+      "tvl_change_pct": 17033.51,
+      "tvl_usd": 8496.485115049261
     },
     {
       "protocol": "WhaleHub",
       "coin": "BLUB",
-      "tvl_change_pct": 120.81,
-      "tvl_usd": 44.82323464696935
+      "tvl_change_pct": 223.14,
+      "tvl_usd": 45.95144725102195
+    },
+    {
+      "protocol": "Kintsugi",
+      "coin": "KINT",
+      "tvl_change_pct": 156.66,
+      "tvl_usd": 37690.72525584681
     },
     {
       "protocol": "Stables Labs USDX",
@@ -39,40 +39,40 @@
       "tvl_usd": 0
     },
     {
-      "protocol": "Popsicle Finance",
-      "coin": "ICE",
-      "tvl_change_pct": -97.12,
-      "tvl_usd": 261.09131185349156
-    },
-    {
       "protocol": "Yaka V3",
       "coin": "YAKA",
-      "tvl_change_pct": -96.92,
-      "tvl_usd": 7368.006338325051
+      "tvl_change_pct": -96.78,
+      "tvl_usd": 7593.219464846211
+    },
+    {
+      "protocol": "Sigma Money",
+      "coin": "SIGMA",
+      "tvl_change_pct": 94.5,
+      "tvl_usd": 1898194.8395126625
     },
     {
       "protocol": "Mirakle Defi",
       "coin": "QIJI",
-      "tvl_change_pct": -94.26,
-      "tvl_usd": 0.07206887471143164
+      "tvl_change_pct": -94.1,
+      "tvl_usd": 0.07406290580792486
     },
     {
       "protocol": "MetalSwap",
       "coin": "XMT",
-      "tvl_change_pct": -93.25,
-      "tvl_usd": 7324.638655652052
+      "tvl_change_pct": -93.2,
+      "tvl_usd": 7371.807013690038
     }
   ],
   "whale_alerts": [],
   "twitter_spikes": [],
   "reddit_mentions": {
-    "MOTHER": 2,
-    "BILLY": 2,
+    "SUS": 2,
     "MOODENG": 2,
     "MICHI": 2,
+    "BILLY": 2,
+    "MOTHER": 2,
     "ROSE": 2,
     "BRETT": 1,
-    "SUS": 1,
     "ZYPTO": 1,
     "TARIFF": 1,
     "WHALLY": 1,
@@ -94,8 +94,9 @@
   "news_score": {
     "DEXSHARE": 4,
     "LOGX": 4,
-    "KINT": 4,
     "BLUB": 4,
+    "KINT": 4,
+    "SIGMA": 4,
     "BRETT": 1,
     "SUS": 1,
     "ZYPTO": 1,
@@ -103,10 +104,10 @@
     "WHALLY": 1,
     "BKN": 1,
     "SATOSUN": 1,
-    "MOTHER": 1,
-    "BILLY": 1,
     "MOODENG": 1,
     "MICHI": 1,
+    "BILLY": 1,
+    "MOTHER": 1,
     "BELIEVE": 1,
     "AURA": 1,
     "MUSK": 1,
@@ -121,7 +122,6 @@
     "FAPCOIN": 1,
     "USDX": -2,
     "AXL": -2,
-    "ICE": -2,
     "YAKA": -2,
     "QIJI": -2,
     "XMT": -2
