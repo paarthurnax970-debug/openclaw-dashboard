@@ -1,42 +1,30 @@
 {
-  "timestamp": "2026-04-08T17:03:13.227650+00:00",
+  "timestamp": "2026-04-08T21:03:07.698380+00:00",
   "cryptopanic_hot": [],
   "defi_tvl_movers": [
     {
       "protocol": "Popsicle Finance",
       "coin": "ICE",
-      "tvl_change_pct": 3666.96,
-      "tvl_usd": 9850.884314477553
-    },
-    {
-      "protocol": "WhaleHub",
-      "coin": "BLUB",
-      "tvl_change_pct": 228.2,
-      "tvl_usd": 46.047626696501574
+      "tvl_change_pct": 4072.83,
+      "tvl_usd": 10894.893371879843
     },
     {
       "protocol": "LogX V1",
       "coin": "LOGX",
       "tvl_change_pct": 194.64,
-      "tvl_usd": 3657.843081157307
+      "tvl_usd": 3657.94903786723
     },
     {
       "protocol": "GullNetwork AMM",
       "coin": "GULL",
-      "tvl_change_pct": 173.65,
-      "tvl_usd": 401870.9549202694
+      "tvl_change_pct": 168.67,
+      "tvl_usd": 401109.2448845329
     },
     {
-      "protocol": "Tetu Pawnshop",
-      "coin": "TETU",
-      "tvl_change_pct": -100.0,
-      "tvl_usd": 0
-    },
-    {
-      "protocol": "EtherFi Borrowing Market",
-      "coin": "ETHFI",
-      "tvl_change_pct": -99.88,
-      "tvl_usd": 194868.06285037356
+      "protocol": "xDollar",
+      "coin": "SPACE",
+      "tvl_change_pct": 151.14,
+      "tvl_usd": 90221.4992407922
     },
     {
       "protocol": "GTON Capital",
@@ -48,33 +36,45 @@
       "protocol": "Zenland",
       "coin": "ZEN",
       "tvl_change_pct": -98.46,
-      "tvl_usd": 2.4998706104911768
+      "tvl_usd": 2.499945455139418
+    },
+    {
+      "protocol": "The Story of Draco",
+      "coin": "DRACO",
+      "tvl_change_pct": -97.5,
+      "tvl_usd": 7.778709347768743
     },
     {
       "protocol": "Summit Defi",
       "coin": "SUMMIT",
-      "tvl_change_pct": -95.49,
-      "tvl_usd": 107.14241482072968
+      "tvl_change_pct": -95.51,
+      "tvl_usd": 106.63960229932748
     },
     {
-      "protocol": "Sigma Money",
-      "coin": "SIGMA",
-      "tvl_change_pct": 93.72,
-      "tvl_usd": 1890294.9555732047
+      "protocol": "Kaspa Finance V3",
+      "coin": "KFC",
+      "tvl_change_pct": -80.0,
+      "tvl_usd": 547.128738879226
+    },
+    {
+      "protocol": "Unbanked",
+      "coin": "UNBNK",
+      "tvl_change_pct": -75.6,
+      "tvl_usd": 256.0868542009855
     }
   ],
   "whale_alerts": [],
   "twitter_spikes": [],
   "reddit_mentions": {
-    "MOODENG": 2,
-    "BILLY": 2,
     "MICHI": 2,
+    "BILLY": 2,
     "MOTHER": 2,
+    "MOODENG": 2,
     "ROSE": 2,
     "BRETT": 1,
     "SUS": 1,
-    "TARIFF": 1,
     "ZYPTO": 1,
+    "TARIFF": 1,
     "WHALLY": 1,
     "BKN": 1,
     "SATOSUN": 1,
@@ -84,8 +84,8 @@
     "MEMA": 1,
     "GIGA": 1,
     "NCT": 1,
-    "KSW": 1,
     "KNS": 1,
+    "KSW": 1,
     "DOGE": 1,
     "TRIPLET": 1,
     "FAPCOIN": 1
@@ -93,21 +93,20 @@
   "reddit_gem_leads": [],
   "news_score": {
     "ICE": 4,
-    "BLUB": 4,
     "LOGX": 4,
     "GULL": 4,
-    "SIGMA": 4,
+    "SPACE": 4,
     "BRETT": 1,
     "SUS": 1,
-    "TARIFF": 1,
     "ZYPTO": 1,
+    "TARIFF": 1,
     "WHALLY": 1,
     "BKN": 1,
     "SATOSUN": 1,
-    "MOODENG": 1,
-    "BILLY": 1,
     "MICHI": 1,
+    "BILLY": 1,
     "MOTHER": 1,
+    "MOODENG": 1,
     "BELIEVE": 1,
     "AURA": 1,
     "MUSK": 1,
@@ -115,16 +114,17 @@
     "GIGA": 1,
     "ROSE": 1,
     "NCT": 1,
-    "KSW": 1,
     "KNS": 1,
+    "KSW": 1,
     "DOGE": 1,
     "TRIPLET": 1,
     "FAPCOIN": 1,
-    "TETU": -2,
-    "ETHFI": -2,
     "GTON": -2,
     "ZEN": -2,
-    "SUMMIT": -2
+    "DRACO": -2,
+    "SUMMIT": -2,
+    "KFC": -2,
+    "UNBNK": -2
   },
   "overall_sentiment": "NEUTRAL",
   "nitter_available": false,
