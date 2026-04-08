@@ -1,66 +1,66 @@
 {
-  "timestamp": "2026-04-08T05:03:14.580377+00:00",
+  "timestamp": "2026-04-08T09:03:13.188700+00:00",
   "cryptopanic_hot": [],
   "defi_tvl_movers": [
     {
       "protocol": "DexFinance BSC",
       "coin": "DEXSHARE",
-      "tvl_change_pct": 26871052.89,
-      "tvl_usd": 0.016146979991852564
+      "tvl_change_pct": 26769163.39,
+      "tvl_usd": 0.016074208940254936
     },
     {
       "protocol": "LogX V2",
       "coin": "LOGX",
-      "tvl_change_pct": 17031.75,
-      "tvl_usd": 8495.999198967438
+      "tvl_change_pct": 17033.17,
+      "tvl_usd": 8496.360515614768
     },
     {
       "protocol": "WhaleHub",
       "coin": "BLUB",
-      "tvl_change_pct": 227.77,
-      "tvl_usd": 46.14805312421304
+      "tvl_change_pct": 228.77,
+      "tvl_usd": 46.48236084313661
     },
     {
       "protocol": "LogX V1",
       "coin": "LOGX",
-      "tvl_change_pct": 194.64,
-      "tvl_usd": 3657.548315351664
+      "tvl_change_pct": 194.63,
+      "tvl_usd": 3657.6212184470305
     },
     {
       "protocol": "Kintsugi",
       "coin": "KINT",
-      "tvl_change_pct": 164.72,
-      "tvl_usd": 37901.564476730724
+      "tvl_change_pct": 167.95,
+      "tvl_usd": 38006.51699232735
+    },
+    {
+      "protocol": "EtherFi Borrowing Market",
+      "coin": "ETHFI",
+      "tvl_change_pct": -99.03,
+      "tvl_usd": 1907150.17986988
+    },
+    {
+      "protocol": "Zenland",
+      "coin": "ZEN",
+      "tvl_change_pct": -98.46,
+      "tvl_usd": 2.4997797791057015
     },
     {
       "protocol": "Yaka V3",
       "coin": "YAKA",
-      "tvl_change_pct": -96.77,
-      "tvl_usd": 7597.610601706426
-    },
-    {
-      "protocol": "Popsicle Finance",
-      "coin": "ICE",
-      "tvl_change_pct": -96.62,
-      "tvl_usd": 266.42543939206536
+      "tvl_change_pct": -96.76,
+      "tvl_usd": 7612.667617923842
     },
     {
       "protocol": "Sigma Money",
       "coin": "SIGMA",
-      "tvl_change_pct": 94.45,
-      "tvl_usd": 1897188.2090053149
+      "tvl_change_pct": 94.39,
+      "tvl_usd": 1896711.5036841435
     },
     {
       "protocol": "MetalSwap",
       "coin": "XMT",
-      "tvl_change_pct": -93.06,
-      "tvl_usd": 7521.661540795996
-    },
-    {
-      "protocol": "GullNetwork AMM",
-      "coin": "GULL",
-      "tvl_change_pct": -84.21,
-      "tvl_usd": 155934.80590937656
+      "tvl_change_pct": -93.0,
+      "tvl_usd": 7535.262803617066
     }
   ],
   "whale_alerts": [],
@@ -68,10 +68,10 @@
   "reddit_mentions": {
     "SUS": 2,
     "TARIFF": 2,
-    "BILLY": 2,
-    "MOODENG": 2,
     "MICHI": 2,
+    "BILLY": 2,
     "MOTHER": 2,
+    "MOODENG": 2,
     "ROSE": 2,
     "BRETT": 1,
     "ZYPTO": 1,
@@ -104,10 +104,10 @@
     "WHALLY": 1,
     "BKN": 1,
     "SATOSUN": 1,
-    "BILLY": 1,
-    "MOODENG": 1,
     "MICHI": 1,
+    "BILLY": 1,
     "MOTHER": 1,
+    "MOODENG": 1,
     "BELIEVE": 1,
     "AURA": 1,
     "MUSK": 1,
@@ -120,10 +120,10 @@
     "DOGE": 1,
     "TRIPLET": 1,
     "FAPCOIN": 1,
+    "ETHFI": -2,
+    "ZEN": -2,
     "YAKA": -2,
-    "ICE": -2,
-    "XMT": -2,
-    "GULL": -2
+    "XMT": -2
   },
   "overall_sentiment": "NEUTRAL",
   "nitter_available": false,
