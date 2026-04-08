@@ -1,9 +1,9 @@
 {
   "regime": "SIDEWAYS",
-  "reason": "BTC ($71,617) between EMA50 ($70,490) and EMA200 ($83,918)",
-  "btc_price": 71616.88,
-  "ema50": 70489.78,
-  "ema200": 83918.02,
-  "timestamp": "2026-04-08T17:00:32.681090+00:00",
+  "reason": "BTC ($71,364) between EMA50 ($70,480) and EMA200 ($83,915)",
+  "btc_price": 71363.88,
+  "ema50": 70479.86,
+  "ema200": 83915.5,
+  "timestamp": "2026-04-08T21:00:33.419383+00:00",
   "trading_bias": "SIDEWAYS: Mean-reversion and range plays. Avoid breakout chasing."
 }
