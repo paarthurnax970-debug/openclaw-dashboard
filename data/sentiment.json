@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-08T13:00:37.631858+00:00",
-  "overall_score": -1.49,
+  "timestamp": "2026-04-08T17:00:37.344976+00:00",
+  "overall_score": -1.62,
   "classification": "MILD_BEARISH",
   "components": {
     "fear_greed": {
@@ -17,20 +17,20 @@
       "bearish_count": 0
     },
     "reddit": {
-      "score": 1.91,
+      "score": 1.7,
       "post_count": 25,
-      "avg_upvote_ratio": 0.874,
-      "weighted_text_avg": 0.138,
-      "upvote_signal": 1.494
+      "avg_upvote_ratio": 0.804,
+      "weighted_text_avg": 0.16,
+      "upvote_signal": 1.216
     }
   },
   "top_headlines": [],
   "top_reddit_posts": [
     "Daily Crypto Discussion - April 7, 2026 (GMT+0)",
     "HOLY! $70M BTC Long Just Opened! Is This the Pump Signal or a Bull Trap?",
-    "Strategy Is Buying Bitcoin 2x Faster Than New BTC Supply In 2026",
-    "84% of Polymarket traders are losing money. That says a lot about who prediction markets are really built for.",
-    "Suspected North Korean IT Operative Exposed in Remote Job Interview After Failing Loyalty Test"
+    "Iran eyes crypto toll for oil tanker transits through Strait of Hormuz",
+    "Polymarket Traders Net $663K on US-Iran Ceasefire in Suspected Insider Trade",
+    "Exclusive: Iran demands crypto fees for ships passing Hormuz during ceasefire"
   ],
   "trading_signal": "CAUTION"
 }
