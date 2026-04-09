@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T17:05:03.132159+00:00",
+  "generated_at": "2026-04-09T21:05:03.529210+00:00",
   "scanner_version": "2.0",
   "chains_scanned": [
     "BASE",
@@ -8,7 +8,57 @@
     "ETH"
   ],
   "chain_priority": "Base \u2192 BSC \u2192 SOL \u2192 ETH",
-  "total_raw": 0,
-  "passed_security": 0,
-  "launch_watchlist": []
+  "total_raw": 1,
+  "passed_security": 1,
+  "launch_watchlist": [
+    {
+      "name": "SBTI / WBNB",
+      "symbol": "SBTI",
+      "address": "0xedcaa0dababdecd400391edd841528ea6e8f4444",
+      "chain": "BSC",
+      "age_days": 0,
+      "market_cap": 326141.7767,
+      "liquidity_usd": 31975.5853,
+      "volume_24h": 15835.1917128647,
+      "price_change_24h": 530.034,
+      "price_change_6h": 530.034,
+      "buys_24h": 56,
+      "sells_24h": 12,
+      "txns_24h": 68,
+      "narrative_tags": [],
+      "dex_url": "https://dexscreener.com/bsc/0xedcaa0dababdecd400391edd841528ea6e8f4444",
+      "goplus": {
+        "is_honeypot": "0",
+        "is_mintable": "0",
+        "buy_tax": "0",
+        "sell_tax": "0",
+        "holder_count": "486",
+        "lp_holders": [
+          {
+            "address": "0x407993575c91ce7643a4d4ccacc9a98c36ee1bbe",
+            "tag": "PinkLock02",
+            "value": null,
+            "is_contract": 1,
+            "balance": "3.463750604593702862",
+            "percent": "0.999999999999999711",
+            "NFT_list": null,
+            "is_locked": 1
+          },
+          {
+            "address": "0x0000000000000000000000000000000000000000",
+            "tag": "Null Address",
+            "value": null,
+            "is_contract": 0,
+            "balance": "0.000000000000001",
+            "percent": "0.000000000000000288",
+            "NFT_list": null,
+            "is_locked": 1
+          }
+        ]
+      },
+      "holders": 486,
+      "volume_growing": true,
+      "launch_score": 28
+    }
+  ]
 }
