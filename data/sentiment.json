@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-04-08T21:00:37.823610+00:00",
-  "overall_score": -1.49,
+  "timestamp": "2026-04-09T01:00:38.469827+00:00",
+  "overall_score": -1.73,
   "classification": "MILD_BEARISH",
   "components": {
     "fear_greed": {
-      "value": 17,
+      "value": 14,
       "classification": "Extreme Fear",
-      "normalized_score": -6.6,
-      "trend": "improving",
-      "yesterday": 11
+      "normalized_score": -7.2,
+      "trend": "declining",
+      "yesterday": 17
     },
     "news": {
       "score": 0,
@@ -17,20 +17,20 @@
       "bearish_count": 0
     },
     "reddit": {
-      "score": 1.92,
+      "score": 1.91,
       "post_count": 25,
-      "avg_upvote_ratio": 0.89,
-      "weighted_text_avg": 0.121,
-      "upvote_signal": 1.56
+      "avg_upvote_ratio": 0.883,
+      "weighted_text_avg": 0.127,
+      "upvote_signal": 1.533
     }
   },
   "top_headlines": [],
   "top_reddit_posts": [
     "Daily Crypto Discussion - April 7, 2026 (GMT+0)",
     "Exclusive: Iran demands crypto fees for ships passing Hormuz during ceasefire",
-    "Polymarket Traders Net $663K on US-Iran Ceasefire in Suspected Insider Trade",
     "Iran demands crypto fees for ships passing Hormuz during ceasefire",
-    "Iran eyes crypto toll for oil tanker transits through Strait of Hormuz"
+    "Bitcoin\u2019s rebound may be fragile as Wall Street warns Hormuz disruption is not really over",
+    "Polymarket Traders Net $663K on US-Iran Ceasefire in Suspected Insider Trade"
   ],
   "trading_signal": "CAUTION"
 }
