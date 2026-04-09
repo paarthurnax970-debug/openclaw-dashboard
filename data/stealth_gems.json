@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T13:04:53.444576+00:00",
+  "generated_at": "2026-04-09T17:04:51.943098+00:00",
   "scanner_version": "2.0",
   "chains_scanned": [
     "BASE",
@@ -8,10 +8,10 @@
     "ETH"
   ],
   "chain_priority": "Base (primary) \u2192 BSC \u2192 SOL \u2192 ETH",
-  "total_screened": 150,
+  "total_screened": 149,
   "unique_tokens": 120,
-  "passed_basic_filter": 41,
-  "passed_rug_check": 40,
+  "passed_basic_filter": 39,
+  "passed_rug_check": 39,
   "top_candidates": [
     {
       "name": "SMCF / WETH",
@@ -20,23 +20,23 @@
       "chain": "BASE",
       "dex": "",
       "pair_address": "0xa73b6b6868c1ebb8a75406e8e0730fc3fb2733e8d24227bdf1bcd74c303de4a1",
-      "market_cap": 1909719.549,
-      "liquidity_usd": 552001.5624,
-      "volume_24h": 1007615.46383164,
-      "volume_6h": 95752.410086386,
-      "price_change_24h": 143.27,
-      "price_change_6h": 20.435,
-      "price_change_1h": 0.976,
-      "txns_24h": 2971,
-      "buys_24h": 1928,
-      "sells_24h": 1043,
+      "market_cap": 2021134.98,
+      "liquidity_usd": 581766.4869,
+      "volume_24h": 1038707.07557381,
+      "volume_6h": 333040.926863318,
+      "price_change_24h": 71.864,
+      "price_change_6h": 21.269,
+      "price_change_1h": 6.583,
+      "txns_24h": 2784,
+      "buys_24h": 1771,
+      "sells_24h": 1013,
       "age_days": 14,
-      "price_usd": 1.9097195488526e-05,
+      "price_usd": 2.02113497957681e-05,
       "dex_url": "https://dexscreener.com/base/0x9326314259102cfb0448e3a5022188d56e61cba3",
       "social_links": {},
       "honeypot": false,
       "liquidity_locked": false,
-      "top_holder_pct": 11.08,
+      "top_holder_pct": 11.38,
       "mintable": false,
       "proxy_contract": false,
       "contract_verified": null,
@@ -53,48 +53,48 @@
           {
             "liquidity_type": "UniV3",
             "name": "UniswapV3",
-            "liquidity": "1970.69198283212348469150",
+            "liquidity": "1863.35945156266325268920",
             "pair": "0x566f8113c867fe7a3dad33d1cc36ba28a8683606"
           },
           {
             "liquidity_type": "UniV4",
             "name": "UniswapV4",
-            "liquidity": "521.563491865746",
+            "liquidity": "873.562897743350",
             "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
             "pair": "0xbb5df3b5ec6aef5f0784269b3364f32aa59430f14cd9d62e1a22657a97633672"
           },
           {
             "liquidity_type": "UniV4",
             "name": "UniswapV4",
-            "liquidity": "7.788135764088",
+            "liquidity": "7.788751143120",
             "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
             "pair": "0x757150611568ba5a3d9a1ead26c564a9f79329e1d71072a350c4e9898c7128cf"
           },
           {
             "liquidity_type": "UniV4",
             "name": "UniswapV4",
-            "liquidity": "5.194563041995",
+            "liquidity": "5.194973490050",
             "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
             "pair": "0x742f3b716c4b1fed7657ea8188b2a36b8c739c81308a03f9c23095b3ab9503ca"
           },
           {
             "liquidity_type": "UniV4",
             "name": "UniswapV4",
-            "liquidity": "2.530192703181",
+            "liquidity": "2.530392626190",
             "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
             "pair": "0xe0be64009cb118ece0c7ea10726170578de4c275dd30820c6f7bc86aa39fc3b1"
           },
           {
             "liquidity_type": "UniV4",
             "name": "UniswapV4",
-            "liquidity": "2.343553984567",
+            "liquidity": "2.343739160330",
             "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
             "pair": "0x1ff4a20286c14151ed6e2ea67d256333f177a93efa1cdc174908845fee459e59"
           },
           {
             "liquidity_type": "UniV4",
             "name": "UniswapV4",
-            "liquidity": "1.75646367406919334006",
+            "liquidity": "1.74599507810917779420",
             "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
             "pair": "0x2a69be67e9c9c50e02982f413905e62aa31b88d1f1eeb3914367323556f67f73"
           },
@@ -129,14 +129,14 @@
         ],
         "external_call": "0",
         "hidden_owner": "0",
-        "holder_count": "1707",
+        "holder_count": "1774",
         "holders": [
           {
             "address": "0x498581ff718922c3f8e6a244956af099b2652b2b",
             "tag": "",
             "is_contract": 1,
-            "balance": "11080703330.697520387591607505",
-            "percent": "0.110807033306975203",
+            "balance": "11376869797.787636688171425761",
+            "percent": "0.113768697977876366",
             "is_locked": 0
           },
           {
@@ -164,14 +164,6 @@
             "is_locked": 0
           },
           {
-            "address": "0x916b7fe6f1b96efb793c7ce028ed4f887e882ba9",
-            "tag": "",
-            "is_contract": 1,
-            "balance": "2510090307.078462114836057738",
-            "percent": "0.025100903070784621",
-            "is_locked": 0
-          },
-          {
             "address": "0xafddf6c8684e334cea25dffe52192ddd3854e7e6",
             "tag": "",
             "is_contract": 1,
@@ -183,8 +175,8 @@
             "address": "0x4a5bacb9f40ea90b6432cd868122929c64d9e8b4",
             "tag": "",
             "is_contract": 0,
-            "balance": "2350000000",
-            "percent": "0.023500000000000000",
+            "balance": "2300000000",
+            "percent": "0.023000000000000000",
             "is_locked": 0
           },
           {
@@ -196,19 +188,27 @@
             "is_locked": 0
           },
           {
-            "address": "0x923aa15bc94ea568a485306edd47221abae2ba3b",
-            "tag": "",
-            "is_contract": 0,
-            "balance": "1600000000",
-            "percent": "0.016000000000000000",
-            "is_locked": 0
-          },
-          {
             "address": "0x04743a4e5cdc796df472e715a84e6bc71913b61a",
             "tag": "",
             "is_contract": 1,
             "balance": "1471871190.148803594739569993",
             "percent": "0.014718711901488035",
+            "is_locked": 0
+          },
+          {
+            "address": "0xca46a6d5e4fd47507f3cff62dc614dd52f0c3e7d",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "1329778942.301884825790522764",
+            "percent": "0.013297789423018848",
+            "is_locked": 0
+          },
+          {
+            "address": "0x3b4f246fa3213efc862a97214e3a804c46a96724",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "1311118382.34154549630380778",
+            "percent": "0.013111183823415454",
             "is_locked": 0
           }
         ],
@@ -221,53 +221,53 @@
         "is_open_source": "1",
         "is_proxy": "0",
         "is_whitelisted": "0",
-        "lp_holder_count": "6",
+        "lp_holder_count": "5",
         "lp_holders": [
           {
             "address": "0xe2f8fc4d48208230ca93ef1298edcf0999bdfe57",
             "tag": "",
-            "value": "1221.35439999999999563802",
+            "value": "1210.7199999999999956760",
             "is_contract": 0,
             "balance": "18372.819896620940056771",
-            "percent": "0.544586436302605755",
+            "percent": "0.623906561941540964",
             "NFT_list": [
               {
-                "value": "697.91679999999999781901",
+                "value": "691.8399999999999978380",
                 "NFT_id": "4937220",
                 "amount": "8838.918918369416439695",
                 "in_effect": "0",
-                "NFT_percentage": "0.311192249315774717"
+                "NFT_percentage": "0.356518035395166265"
               },
               {
-                "value": "523.43759999999999781901",
+                "value": "518.8799999999999978380",
                 "NFT_id": "4937814",
                 "amount": "9533.900978251523617076",
                 "in_effect": "0",
-                "NFT_percentage": "0.233394186986831038"
+                "NFT_percentage": "0.267388526546374699"
               },
               {
-                "value": "0.00",
+                "value": "0.0",
                 "NFT_id": "4936965",
                 "amount": "0",
                 "in_effect": "0",
                 "NFT_percentage": "0.000000000000000000"
               },
               {
-                "value": "0.00",
+                "value": "0.0",
                 "NFT_id": "4937385",
                 "amount": "0",
-                "in_effect": "0",
+                "in_effect": "1",
                 "NFT_percentage": "0.000000000000000000"
               },
               {
-                "value": "0.00",
+                "value": "0.0",
                 "NFT_id": "4937135",
                 "amount": "0",
                 "in_effect": "1",
                 "NFT_percentage": "0.000000000000000000"
               },
               {
-                "value": "0.00",
+                "value": "0.0",
                 "NFT_id": "4936970",
                 "amount": "0",
                 "in_effect": "0",
@@ -279,20 +279,20 @@
           {
             "address": "0x5026925900191ad0f45316f0e4ecbfe871a6094f",
             "tag": "",
-            "value": "741.19995690276497673978",
+            "value": "563.403259779556509640",
             "is_contract": 0,
             "balance": "21546.796500051844537823",
-            "percent": "0.330491660010658455",
+            "percent": "0.290332191419750206",
             "NFT_list": [
               {
-                "value": "741.19995690276497673978",
+                "value": "563.403259779556509640",
                 "NFT_id": "4937674",
                 "amount": "21546.796500051844537823",
                 "in_effect": "1",
-                "NFT_percentage": "0.330491660010658455"
+                "NFT_percentage": "0.290332191419750206"
               },
               {
-                "value": "0.00",
+                "value": "0.0",
                 "NFT_id": "4935826",
                 "amount": "0",
                 "in_effect": "1",
@@ -304,42 +304,24 @@
           {
             "address": "0x8d7bbfa0506ea95c73d864310818acc3e5fa05d9",
             "tag": "",
-            "value": "180.64165072102023896679",
+            "value": "135.3347629178241204400",
             "is_contract": 0,
             "balance": "5499.659225061518362695",
-            "percent": "0.080545820945976406",
+            "percent": "0.069740523525863285",
             "NFT_list": [
               {
-                "value": "164.85771110115385454677",
+                "value": "125.3121657242233134500",
                 "NFT_id": "4936371",
                 "amount": "4792.438962630556299377",
                 "in_effect": "1",
-                "NFT_percentage": "0.073507962460021355"
+                "NFT_percentage": "0.064575692551910251"
               },
               {
-                "value": "15.78393961986638442002",
+                "value": "10.0225971936008069900",
                 "NFT_id": "4936399",
                 "amount": "707.220262430962063318",
                 "in_effect": "1",
-                "NFT_percentage": "0.007037858485955051"
-              }
-            ],
-            "is_locked": 0
-          },
-          {
-            "address": "0x32621c3071ba7a4db3f02f8b5f6aa7f7d9e648c7",
-            "tag": "",
-            "value": "66.8575354213853675246",
-            "is_contract": 1,
-            "balance": "823.036951767221121798",
-            "percent": "0.029810927078256312",
-            "NFT_list": [
-              {
-                "value": "66.8575354213853675246",
-                "NFT_id": "4937342",
-                "amount": "823.036951767221121798",
-                "in_effect": "1",
-                "NFT_percentage": "0.029810927078256312"
+                "NFT_percentage": "0.005164830973953033"
               }
             ],
             "is_locked": 0
@@ -347,34 +329,34 @@
           {
             "address": "0xb41885a4be3785646004c8926869c1364476757d",
             "tag": "",
-            "value": "25.67165717071428235252",
+            "value": "24.4326273364765715260",
             "is_contract": 1,
             "balance": "127.702225785470799819",
-            "percent": "0.011446666334179110",
+            "percent": "0.012590587849131101",
             "NFT_list": [
               {
-                "value": "25.67165717071428235252",
+                "value": "24.4326273364765715260",
                 "NFT_id": "4921321",
                 "amount": "127.702225785470799819",
                 "in_effect": "1",
-                "NFT_percentage": "0.011446666334179110"
+                "NFT_percentage": "0.012590587849131101"
               },
               {
-                "value": "0.00",
+                "value": "0.0",
                 "NFT_id": "4921540",
                 "amount": "0",
                 "in_effect": "0",
                 "NFT_percentage": "0.000000000000000000"
               },
               {
-                "value": "0.00",
+                "value": "0.0",
                 "NFT_id": "4921344",
                 "amount": "0",
                 "in_effect": "0",
                 "NFT_percentage": "0.000000000000000000"
               },
               {
-                "value": "0.00",
+                "value": "0.0",
                 "NFT_id": "4921332",
                 "amount": "0",
                 "in_effect": "0",
@@ -386,23 +368,23 @@
           {
             "address": "0xbffca3a4312e66e17ebb6e72b0abc71669d55f92",
             "tag": "",
-            "value": "6.99389556662612875374",
+            "value": "6.6563386568027054180",
             "is_contract": 0,
             "balance": "34.790743146420832876",
-            "percent": "0.003118489328323963",
+            "percent": "0.003430135263714443",
             "NFT_list": [
               {
-                "value": "6.99389556662612875374",
+                "value": "6.6563386568027054180",
                 "NFT_id": "4936430",
                 "amount": "34.790743146420832876",
                 "in_effect": "1",
-                "NFT_percentage": "0.003118489328323963"
+                "NFT_percentage": "0.003430135263714443"
               }
             ],
             "is_locked": 0
           }
         ],
-        "lp_total_supply": "46404.805542433416",
+        "lp_total_supply": "45581.768590666186",
         "owner_address": "0x660eaaedebc968f8f3694354fa8ec0b4c5ba8d12",
         "owner_balance": "0",
         "owner_change_balance": "0",
@@ -418,20 +400,20 @@
         "transfer_pausable": "0",
         "transfer_tax": "0"
       },
-      "holders": 1707,
+      "holders": 1774,
       "source": "geckoterminal",
       "narrative_tags": [],
-      "moon_score": 73,
+      "moon_score": 69,
       "reasons": [
-        "Sub $2M mcap \u2014 early stage",
-        "Solid liquidity $552,002",
+        "Sub $10M mcap \u2014 early",
+        "Solid liquidity $581,766",
         "Massive vol/mcap ratio 0.5x",
-        "+143% in 24h \u2014 strong momentum",
-        "+20% 6h \u2014 accelerating",
-        "1,707 holders \u2014 community forming",
+        "+72% in 24h \u2014 strong momentum",
+        "+21% 6h \u2014 accelerating",
+        "1,774 holders \u2014 community forming",
         "14d old \u2014 sweet spot",
-        "2971 txns/24h \u2014 very active",
-        "Buy pressure: 1928 buys vs 1043 sells",
+        "2784 txns/24h \u2014 very active",
+        "Buy pressure: 1771 buys vs 1013 sells",
         "\ud83d\udd35 Base chain \u2014 Coinbase legitimacy signal"
       ],
       "red_flags": [
@@ -441,31 +423,1101 @@
       "recommended_action": "AVOID \u2014 rug indicators present"
     },
     {
+      "name": "GITLAWB / WETH",
+      "symbol": "GITLAWB",
+      "address": "0x5f980dcfc4c0fa3911554cf5ab288ed0eb13dba3",
+      "chain": "BASE",
+      "dex": "",
+      "pair_address": "0xec33256bf1ded407a57fd3c1965e7556e42ac14db09bc4e6fef57d5e2eb0b0b9",
+      "market_cap": 1439029.605,
+      "liquidity_usd": 557599.0954,
+      "volume_24h": 599567.473212127,
+      "volume_6h": 247118.616770984,
+      "price_change_24h": 82.207,
+      "price_change_6h": 25.479,
+      "price_change_1h": 15.394,
+      "txns_24h": 1286,
+      "buys_24h": 813,
+      "sells_24h": 473,
+      "age_days": 29,
+      "price_usd": 1.43902960465988e-05,
+      "dex_url": "https://dexscreener.com/base/0x5f980dcfc4c0fa3911554cf5ab288ed0eb13dba3",
+      "social_links": {},
+      "honeypot": false,
+      "liquidity_locked": false,
+      "top_holder_pct": 13.8,
+      "mintable": false,
+      "proxy_contract": false,
+      "contract_verified": null,
+      "goplus": {
+        "anti_whale_modifiable": "0",
+        "buy_tax": "0",
+        "can_take_back_ownership": "0",
+        "cannot_buy": "0",
+        "creator_address": "0x6c9d96942e4dc17d558e13ce679d197ea9b579f1",
+        "creator_balance": "0",
+        "creator_percent": "0.000000",
+        "dex": [
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "25.944329059005",
+            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
+            "pair": "0xf77bdb95e98c96f8c8767a985de9884e5672f4bb66f45ae82cd4c82f30670b39"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "17.79491320704799627800",
+            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
+            "pair": "0x97990026653e0bdab0a2953f763051e2bccea9b07991a9d5de26531d1743c225"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "6.262660711185",
+            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
+            "pair": "0x943a19771b3eab892f66094c4fd20e7a1edaf24683bda0c902fc9c9fb6dd51fa"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "3.662221796055",
+            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
+            "pair": "0x84c816358663b9b600a1299ab07828b13da1404204d117992a9f1d16ab43184d"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "3.23513196788195634000",
+            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
+            "pair": "0xb9140d05287647564731c679060017e2a0051771a8749dce81071edb6c58150a"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "1.14727959067621835200",
+            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
+            "pair": "0x8127cf836d1b088b260d004b002457a2ecb4a8f1c5aa425c639d6408435bbf40"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "0.437258258136",
+            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
+            "pair": "0x4fcea0790c406d91ca996fef49380eca4a804b92698b9e3a3e2595a031e024e6"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "0.38434223649859482800",
+            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
+            "pair": "0x0151640d882431fcff481cbf10f48b9a22f94cb6810ad47fdd6c9e9f3dcc345a"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "0.20254978611263084600",
+            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
+            "pair": "0x1ca81c83840b34a9024e651a3cfa399c35e61af65bb27d08959e03e6f9ede416"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "0.009915077812",
+            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
+            "pair": "0xc8b6ed7b725e82ff3b7bbffb77de7bec4d0642c3a4ac2f71512169f86ec2e44c"
+          }
+        ],
+        "external_call": "0",
+        "hidden_owner": "0",
+        "holder_count": "1133",
+        "holders": [
+          {
+            "address": "0x498581ff718922c3f8e6a244956af099b2652b2b",
+            "tag": "",
+            "is_contract": 1,
+            "balance": "13799302071.250234449955789742",
+            "percent": "0.137993020712502344",
+            "is_locked": 0
+          },
+          {
+            "address": "0x4dbb3835744b2976560e0259cb218cab89abef96",
+            "tag": "",
+            "is_contract": 1,
+            "balance": "5177446669.487186174434262677",
+            "percent": "0.051774466694871861",
+            "is_locked": 0
+          },
+          {
+            "address": "0xf60633d02690e2a15a54ab919925f3d038df163e",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "3903214783.482879717820314386",
+            "percent": "0.039032147834828797",
+            "is_locked": 0
+          },
+          {
+            "address": "0x85718c19c52107fa97dbc4f4dd76e96c3f7215f8",
+            "tag": "",
+            "is_contract": 1,
+            "balance": "2782475706.378143390866710634",
+            "percent": "0.027824757063781433",
+            "is_locked": 0
+          },
+          {
+            "address": "0x465eedef54b46cb9226b57f0353e1b50c3e22a20",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "2747829273.561952536575211841",
+            "percent": "0.027478292735619525",
+            "is_locked": 0
+          },
+          {
+            "address": "0x8fabe392df90b06ad610c33f41bb1abd78a5fc20",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "2745019865.322159784722253856",
+            "percent": "0.027450198653221597",
+            "is_locked": 0
+          },
+          {
+            "address": "0x5a6751623861a8b6dbbbcc445638caba55add302",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "2484024088.880313602380747429",
+            "percent": "0.024840240888803136",
+            "is_locked": 0
+          },
+          {
+            "address": "0x1077d0d7e6925cbf9239109977fffd737b0ddffc",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "2202858380.289686320245916269",
+            "percent": "0.022028583802896863",
+            "is_locked": 0
+          },
+          {
+            "address": "0xcd83f4c3a4b96d56367e482a3774802877b82e13",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "1995833768.133249720623534002",
+            "percent": "0.019958337681332497",
+            "is_locked": 0
+          },
+          {
+            "address": "0xf97bf93718402bd5bee52af1e8c4a7de7f4d4bdd",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "1883290127.517342757018073531",
+            "percent": "0.018832901275173427",
+            "is_locked": 0
+          }
+        ],
+        "honeypot_with_same_creator": "0",
+        "is_anti_whale": "0",
+        "is_blacklisted": "0",
+        "is_honeypot": "0",
+        "is_in_dex": "1",
+        "is_mintable": "0",
+        "is_open_source": "1",
+        "is_proxy": "0",
+        "is_whitelisted": "0",
+        "lp_holder_count": "10",
+        "lp_holders": [
+          {
+            "address": "0xe247327570b6033f33ff5eea71c69629465cfcdf",
+            "tag": "",
+            "value": "6.954977085645",
+            "is_contract": 0,
+            "balance": "0.001484287078698549",
+            "percent": "0.268073114160221523",
+            "NFT_list": [
+              {
+                "value": "6.954977085645",
+                "NFT_id": "2127336",
+                "amount": "0.001484287078698549",
+                "in_effect": "1",
+                "NFT_percentage": "0.268073114160221523"
+              },
+              {
+                "value": "0.000000",
+                "NFT_id": "2028735",
+                "amount": "0",
+                "in_effect": "1",
+                "NFT_percentage": "0.000000000000000000"
+              }
+            ],
+            "is_locked": 0
+          },
+          {
+            "address": "0x2da78c5490bcc810e877f865f9b86a6672b9642c",
+            "tag": "",
+            "value": "5.247753438945",
+            "is_contract": 0,
+            "balance": "0.001119942352238739",
+            "percent": "0.202269768742528369",
+            "NFT_list": [
+              {
+                "value": "5.247753438945",
+                "NFT_id": "2026638",
+                "amount": "0.001119942352238739",
+                "in_effect": "1",
+                "NFT_percentage": "0.202269768742528369"
+              }
+            ],
+            "is_locked": 0
+          },
+          {
+            "address": "0x186ff660dbd2098fcb8bcb29cdeb6c2587fa1490",
+            "tag": "",
+            "value": "5.116627520160",
+            "is_contract": 1,
+            "balance": "0.001091958243750105",
+            "percent": "0.197215642328745177",
+            "NFT_list": [
+              {
+                "value": "5.116627520160",
+                "NFT_id": "2107167",
+                "amount": "0.001091958243750105",
+                "in_effect": "1",
+                "NFT_percentage": "0.197215642328745177"
+              }
+            ],
+            "is_locked": 0
+          },
+          {
+            "address": "0xfd44b08c0fb4f557094f59e78ba5d98e0ca0674c",
+            "tag": "",
+            "value": "2.407367120940",
+            "is_contract": 0,
+            "balance": "0.000513765158723253",
+            "percent": "0.092789723544784772",
+            "NFT_list": [
+              {
+                "value": "2.407367120940",
+                "NFT_id": "2035718",
+                "amount": "0.000513765158723253",
+                "in_effect": "1",
+                "NFT_percentage": "0.092789723544784772"
+              }
+            ],
+            "is_locked": 0
+          },
+          {
+            "address": "0x57d5971d1ce076e26ed6e8334b547606669eeb05",
+            "tag": "",
+            "value": "1.453160867280",
+            "is_contract": 0,
+            "balance": "0.000317365951471534",
+            "percent": "0.056010732209535531",
+            "NFT_list": [
+              {
+                "value": "1.453160867280",
+                "NFT_id": "2026641",
+                "amount": "0.000317365951471534",
+                "in_effect": "1",
+                "NFT_percentage": "0.056010732209535531"
+              }
+            ],
+            "is_locked": 0
+          },
+          {
+            "address": "0xf7d38cd26f65ea4aad8b197b68273d4e953709f2",
+            "tag": "",
+            "value": "1.28484222615",
+            "is_contract": 1,
+            "balance": "0.000274203000637734",
+            "percent": "0.049523046952877163",
+            "NFT_list": [
+              {
+                "value": "1.28484222615",
+                "NFT_id": "2035788",
+                "amount": "0.000274203000637734",
+                "in_effect": "1",
+                "NFT_percentage": "0.049523046952877163"
+              }
+            ],
+            "is_locked": 0
+          },
+          {
+            "address": "0xece081cec7ab3c08f3705ce970d87fb18cf5b533",
+            "tag": "",
+            "value": "1.232136288030",
+            "is_contract": 0,
+            "balance": "0.000667898173246987",
+            "percent": "0.047491545656384536",
+            "NFT_list": [
+              {
+                "value": "1.232136288030",
+                "NFT_id": "2107562",
+                "amount": "0.000667898173246987",
+                "in_effect": "1",
+                "NFT_percentage": "0.047491545656384536"
+              }
+            ],
+            "is_locked": 0
+          },
+          {
+            "address": "0x2e098bcf0dd8dd3642b1425a70284a75b0a7a3a4",
+            "tag": "",
+            "value": "0.9150947520",
+            "is_contract": 0,
+            "balance": "0.00019529374148304",
+            "percent": "0.035271474930756799",
+            "NFT_list": [
+              {
+                "value": "0.9150947520",
+                "NFT_id": "2107273",
+                "amount": "0.00019529374148304",
+                "in_effect": "1",
+                "NFT_percentage": "0.035271474930756799"
+              }
+            ],
+            "is_locked": 0
+          },
+          {
+            "address": "0x5c3bf6089c3692cd56304ef6b9dff1ee8d7725af",
+            "tag": "",
+            "value": "0.734300545725",
+            "is_contract": 0,
+            "balance": "0.000156709962973568",
+            "percent": "0.028302930634859956",
+            "NFT_list": [
+              {
+                "value": "0.734300545725",
+                "NFT_id": "2108900",
+                "amount": "0.000156709962973568",
+                "in_effect": "1",
+                "NFT_percentage": "0.028302930634859956"
+              }
+            ],
+            "is_locked": 0
+          },
+          {
+            "address": "0x8eedc84e1e69cd9ddfa3da2aa176b9d0bfa0e869",
+            "tag": "",
+            "value": "0.598069214130",
+            "is_contract": 1,
+            "balance": "0.000127636292495809",
+            "percent": "0.023052020839306174",
+            "NFT_list": [
+              {
+                "value": "0.598069214130",
+                "NFT_id": "2071279",
+                "amount": "0.000127636292495809",
+                "in_effect": "1",
+                "NFT_percentage": "0.023052020839306174"
+              }
+            ],
+            "is_locked": 0
+          }
+        ],
+        "lp_total_supply": "0.005949059955719318",
+        "owner_address": "0x660eaaedebc968f8f3694354fa8ec0b4c5ba8d12",
+        "owner_balance": "0",
+        "owner_change_balance": "0",
+        "owner_percent": "0.0",
+        "personal_slippage_modifiable": "0",
+        "selfdestruct": "0",
+        "sell_tax": "0",
+        "slippage_modifiable": "0",
+        "token_name": "gitlawb",
+        "token_symbol": "GITLAWB",
+        "total_supply": "100000000000",
+        "trading_cooldown": "0",
+        "transfer_pausable": "0",
+        "transfer_tax": "0"
+      },
+      "holders": 1133,
+      "source": "geckoterminal",
+      "narrative_tags": [],
+      "moon_score": 68,
+      "reasons": [
+        "Sub $2M mcap \u2014 early stage",
+        "Solid liquidity $557,599",
+        "Strong vol/mcap 0.4x",
+        "+82% in 24h \u2014 strong momentum",
+        "+25% 6h \u2014 accelerating",
+        "1,133 holders \u2014 community forming",
+        "29d old \u2014 sweet spot",
+        "1286 txns/24h \u2014 very active",
+        "Buy pressure: 813 buys vs 473 sells",
+        "\ud83d\udd35 Base chain \u2014 Coinbase legitimacy signal"
+      ],
+      "red_flags": [
+        "\ud83d\udea8 Liquidity NOT locked"
+      ],
+      "risk_level": "EXTREME",
+      "recommended_action": "AVOID \u2014 rug indicators present"
+    },
+    {
+      "name": "AGNT / WETH",
+      "symbol": "AGNT",
+      "address": "0x32f66ec2ffb26d262058965cf294f951e47f8ba3",
+      "chain": "BASE",
+      "dex": "",
+      "pair_address": "0xebe171fcaa290227f3e466d637bab9e8f3c472b3a013fb2315c5c9a222feb65a",
+      "market_cap": 0.0,
+      "liquidity_usd": 261316.9146,
+      "volume_24h": 204346.323834696,
+      "volume_6h": 118767.846860012,
+      "price_change_24h": 22.435,
+      "price_change_6h": 39.879,
+      "price_change_1h": -2.708,
+      "txns_24h": 829,
+      "buys_24h": 439,
+      "sells_24h": 390,
+      "age_days": 29,
+      "price_usd": 4.90644391494238e-06,
+      "dex_url": "https://dexscreener.com/base/0x32f66ec2ffb26d262058965cf294f951e47f8ba3",
+      "social_links": {},
+      "honeypot": false,
+      "liquidity_locked": false,
+      "top_holder_pct": 19.98,
+      "mintable": false,
+      "proxy_contract": false,
+      "contract_verified": null,
+      "goplus": {
+        "anti_whale_modifiable": "0",
+        "buy_tax": "0",
+        "can_take_back_ownership": "0",
+        "cannot_buy": "0",
+        "cannot_sell_all": "0",
+        "creator_address": "0x9d4c1c9e1f850f22e5940b8385aa5a580798e5de",
+        "creator_balance": "0",
+        "creator_percent": "0.000000",
+        "dex": [
+          {
+            "liquidity_type": "UniV3",
+            "name": "UniswapV3",
+            "liquidity": "2654.84441668973214593000",
+            "pair": "0x6ca992f910548fd2204f932022f8be7e40749567"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "1248.88567624190873157800",
+            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
+            "pair": "0x4e8e10917e6354884d1787dc798b586929a6f71cb2ff2f590385099e08b2778e"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "3.163575147015",
+            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
+            "pair": "0x41fe4e997cefd993db6502dc73161e9a52d122f62b6b51b8d057ffde550b08e4"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "1.593023781195",
+            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
+            "pair": "0x8a572a0b1fa8fcd4556d0c8f40257b7a91e0cc8461f7c948254a1e80b152503b"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "1.570908324765",
+            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
+            "pair": "0xcbe79844f038fa8612e4b9a9c4264f71e0d47a97fd2f5257a504556728bfacaf"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "0.48665254010624887400",
+            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
+            "pair": "0xd23b5aec7407612f1cbc56d39124236e1cafba74f21156b5ce6945a19194f9c0"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "0.387144225710",
+            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
+            "pair": "0xbe936e2e1913efc11bc3af16d86fef3a10eff61addb7a2aa2169b0cd4d13d347"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "0.350958635115",
+            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
+            "pair": "0xf94d45e5f5103141431aff0e0d93ed82638ff44cd2611f77849d8d181d02f80d"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "0.338831029950",
+            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
+            "pair": "0x83860b0772682b6250f3d6586aefa510a6bbb44bf783eaadc57513a687c76bc7"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "0.24681821999999796018",
+            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
+            "pair": "0x3625d9983e5ecfe338a3be790d25a50909781765ad328f02e9c2c3d71ad1769b"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "0.020382002368",
+            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
+            "pair": "0x710dae97d6adbf0039d9f18cdbe00a6cdc4779ab72a134bf32829e501ad6ce55"
+          }
+        ],
+        "external_call": "0",
+        "hidden_owner": "0",
+        "holder_count": "993",
+        "holders": [
+          {
+            "address": "0x498581ff718922c3f8e6a244956af099b2652b2b",
+            "tag": "",
+            "is_contract": 1,
+            "balance": "19983524727.544329123477564706",
+            "percent": "0.199835247275443291",
+            "is_locked": 0
+          },
+          {
+            "address": "0xe8737fee88e9912ffd67ad770a43a26cb93a69d1",
+            "tag": "",
+            "is_contract": 1,
+            "balance": "5316686162.563332866767058385",
+            "percent": "0.053166861625633328",
+            "is_locked": 0
+          },
+          {
+            "address": "0xf60633d02690e2a15a54ab919925f3d038df163e",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "4251833441.292027466133314438",
+            "percent": "0.042518334412920274",
+            "is_locked": 0
+          },
+          {
+            "address": "0x272b17a52bf45f3fa7f6e918a66d25dabf68071c",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "3103610891.413368998842414548",
+            "percent": "0.031036108914133689",
+            "is_locked": 0
+          },
+          {
+            "address": "0xf2a01e6887004ccf36980ae3e70c7b78658093ff",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "3093386973.737929664886324743",
+            "percent": "0.030933869737379296",
+            "is_locked": 0
+          },
+          {
+            "address": "0x9f6f740b9ff10adab798775638eec84b17040ab3",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "2614814057.975502455173488973",
+            "percent": "0.026148140579755024",
+            "is_locked": 0
+          },
+          {
+            "address": "0xa190dd0bf07afb32c6273555077497525526dabb",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "2092278910.090968870561192158",
+            "percent": "0.020922789100909688",
+            "is_locked": 0
+          },
+          {
+            "address": "0x542b83c1dbe076672c35b63e55a8947977cb3fc0",
+            "tag": "",
+            "is_contract": 1,
+            "balance": "1954398727.955686941448166281",
+            "percent": "0.019543987279556869",
+            "is_locked": 0
+          },
+          {
+            "address": "0x982a2d16bafab84819a7ad33fc299cd37c500eff",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "1626732387.258949341159056192",
+            "percent": "0.016267323872589493",
+            "is_locked": 0
+          },
+          {
+            "address": "0xc09d10f4bf0d8502ad685df5f7f54b12f110525a",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "1523066594.732064830964202543",
+            "percent": "0.015230665947320648",
+            "is_locked": 0
+          }
+        ],
+        "honeypot_with_same_creator": "0",
+        "is_anti_whale": "0",
+        "is_blacklisted": "0",
+        "is_honeypot": "0",
+        "is_in_dex": "1",
+        "is_mintable": "0",
+        "is_open_source": "1",
+        "is_proxy": "0",
+        "is_whitelisted": "0",
+        "lp_holder_count": "1",
+        "lp_holders": [
+          {
+            "address": "0xb41885a4be3785646004c8926869c1364476757d",
+            "tag": "",
+            "value": "2893.73323573067536379769",
+            "is_contract": 1,
+            "balance": "145362.211654162821685949",
+            "percent": "1.000000000000000000",
+            "NFT_list": [
+              {
+                "value": "1476.40766947954852756698",
+                "NFT_id": "4937977",
+                "amount": "78020.100900630309582902",
+                "in_effect": "1",
+                "NFT_percentage": "0.510208629893540153"
+              },
+              {
+                "value": "1242.34170348581202569202",
+                "NFT_id": "4936939",
+                "amount": "65650.989941817458997406",
+                "in_effect": "1",
+                "NFT_percentage": "0.429321434383054812"
+              },
+              {
+                "value": "174.98386276531481053869",
+                "NFT_id": "4936930",
+                "amount": "1691.120811715053105641",
+                "in_effect": "1",
+                "NFT_percentage": "0.060469935723405035"
+              },
+              {
+                "value": "0.00",
+                "NFT_id": "4936786",
+                "amount": "0",
+                "in_effect": "0",
+                "NFT_percentage": "0.000000000000000000"
+              }
+            ],
+            "is_locked": 0
+          }
+        ],
+        "lp_total_supply": "145362.21165416282",
+        "owner_address": "0x660eaaedebc968f8f3694354fa8ec0b4c5ba8d12",
+        "owner_balance": "0",
+        "owner_change_balance": "0",
+        "owner_percent": "0.0",
+        "personal_slippage_modifiable": "0",
+        "selfdestruct": "0",
+        "sell_tax": "0",
+        "slippage_modifiable": "0",
+        "token_name": "AGNT SOCIAL",
+        "token_symbol": "AGNT",
+        "total_supply": "100000000000",
+        "trading_cooldown": "0",
+        "transfer_pausable": "0",
+        "transfer_tax": "0"
+      },
+      "holders": 993,
+      "source": "geckoterminal",
+      "narrative_tags": [],
+      "moon_score": 61,
+      "reasons": [
+        "Sub $2M mcap \u2014 early stage",
+        "Solid liquidity $261,317",
+        "Massive vol/mcap ratio 204346.3x",
+        "+22% 24h momentum",
+        "+40% 6h \u2014 accelerating",
+        "993 holders growing",
+        "29d old \u2014 sweet spot",
+        "829 txns/24h \u2014 very active",
+        "\ud83d\udd35 Base chain \u2014 Coinbase legitimacy signal"
+      ],
+      "red_flags": [
+        "\ud83d\udea8 Liquidity NOT locked"
+      ],
+      "risk_level": "EXTREME",
+      "recommended_action": "AVOID \u2014 rug indicators present"
+    },
+    {
+      "name": "Upscreener",
+      "symbol": "UPS",
+      "address": "0xae5A409773b9A7Dd0Ae94ff437Ac213d8faFBa01",
+      "chain": "BSC",
+      "dex": "pancakeswap",
+      "pair_address": "0xC17236BA8107de131a6A7e380Cf857faE9696919",
+      "market_cap": 525471.0,
+      "liquidity_usd": 72694.32,
+      "volume_24h": 131699.36,
+      "volume_6h": 24471.61,
+      "price_change_24h": 89.32,
+      "price_change_6h": -15.22,
+      "price_change_1h": 6.05,
+      "txns_24h": 1681,
+      "buys_24h": 1142,
+      "sells_24h": 539,
+      "age_days": 5,
+      "price_usd": 0.08757,
+      "dex_url": "https://dexscreener.com/bsc/0xc17236ba8107de131a6a7e380cf857fae9696919",
+      "social_links": {
+        "twitter": "https://x.com/upscreener",
+        "telegram": "https://t.me/upscreenerchat",
+        "instagram": "https://www.instagram.com/upscreener?igsh=MWV5c24zb2twMWpncw=="
+      },
+      "honeypot": false,
+      "liquidity_locked": true,
+      "top_holder_pct": 40.0,
+      "mintable": false,
+      "proxy_contract": false,
+      "contract_verified": null,
+      "goplus": {
+        "anti_whale_modifiable": "0",
+        "buy_tax": "0.03",
+        "can_take_back_ownership": "0",
+        "cannot_buy": "0",
+        "cannot_sell_all": "0",
+        "creator_address": "0x49bf87b82dd2aa758e49681ec6e138248c4348e2",
+        "creator_balance": "0",
+        "creator_percent": "0.000000",
+        "dex": [
+          {
+            "liquidity_type": "UniV2",
+            "name": "PancakeV2",
+            "liquidity": "34969.10447146",
+            "pair": "0xc17236ba8107de131a6a7e380cf857fae9696919"
+          }
+        ],
+        "external_call": "0",
+        "hidden_owner": "0",
+        "holder_count": "3766",
+        "holders": [
+          {
+            "address": "0x000000000000000000000000000000000000dead",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "4000000.04",
+            "percent": "0.400000004000000000",
+            "is_locked": 1
+          },
+          {
+            "address": "0x407993575c91ce7643a4d4ccacc9a98c36ee1bbe",
+            "tag": "PinkLock02",
+            "is_contract": 1,
+            "balance": "2900000",
+            "percent": "0.290000000000000000",
+            "is_locked": 1
+          },
+          {
+            "address": "0xc17236ba8107de131a6a7e380cf857fae9696919",
+            "tag": "PancakeV2",
+            "is_contract": 1,
+            "balance": "426862.54516359224355248",
+            "percent": "0.042686254516359224",
+            "is_locked": 0
+          },
+          {
+            "address": "0xadd1ecdd8bb4fb75462231beeba10d3f4fbe032d",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "195295",
+            "percent": "0.019529500000000000",
+            "is_locked": 0
+          },
+          {
+            "address": "0x82e5b5f35723a62cabffb7bb7ebac076dbf6236a",
+            "tag": "",
+            "is_contract": 1,
+            "balance": "186887.842298454341583428",
+            "percent": "0.018688784229845434",
+            "is_locked": 0
+          },
+          {
+            "address": "0xccdd7893270456f4be37ca8e317013f3f0af32c6",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "166000",
+            "percent": "0.016600000000000000",
+            "is_locked": 0
+          },
+          {
+            "address": "0xb7b859b5454332d3be1aee9ae020df9a8ba91e60",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "161238",
+            "percent": "0.016123800000000000",
+            "is_locked": 0
+          },
+          {
+            "address": "0xa23e818c4f6174fd2bcf831ce680a8338579d034",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "100000",
+            "percent": "0.010000000000000000",
+            "is_locked": 0
+          },
+          {
+            "address": "0xb9e27961d0ff4ededf8107c24c4378e523e5b616",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "82660.646402286816755333",
+            "percent": "0.008266064640228681",
+            "is_locked": 0
+          },
+          {
+            "address": "0xba8efa5f743d2fbfb2ec685192b22fcadabb89a7",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "80608.157010362742620117",
+            "percent": "0.008060815701036274",
+            "is_locked": 0
+          }
+        ],
+        "honeypot_with_same_creator": "0",
+        "is_anti_whale": "0",
+        "is_blacklisted": "0",
+        "is_honeypot": "0",
+        "is_in_dex": "1",
+        "is_mintable": "0",
+        "is_open_source": "1",
+        "is_proxy": "0",
+        "is_whitelisted": "1",
+        "lp_holder_count": "4",
+        "lp_holders": [
+          {
+            "address": "0x407993575c91ce7643a4d4ccacc9a98c36ee1bbe",
+            "tag": "PinkLock02",
+            "value": null,
+            "is_contract": 1,
+            "balance": "4696.226191559882457809",
+            "percent": "0.950761733484756516",
+            "NFT_list": null,
+            "is_locked": 1
+          },
+          {
+            "address": "0x0000000000000000000000000000000000000000",
+            "tag": "Null Address",
+            "value": null,
+            "is_contract": 0,
+            "balance": "156.171324802331837963",
+            "percent": "0.031617241894466072",
+            "NFT_list": null,
+            "is_locked": 1
+          },
+          {
+            "address": "0x49bf87b82dd2aa758e49681ec6e138248c4348e2",
+            "tag": "",
+            "value": null,
+            "is_contract": 0,
+            "balance": "67.783075025530943069",
+            "percent": "0.013722838569407810",
+            "NFT_list": null,
+            "is_locked": 0
+          },
+          {
+            "address": "0x0ed943ce24baebf257488771759f9bf482c39706",
+            "tag": "",
+            "value": null,
+            "is_contract": 1,
+            "balance": "19.254838293624723783",
+            "percent": "0.003898186051369600",
+            "NFT_list": null,
+            "is_locked": 0
+          }
+        ],
+        "lp_total_supply": "4939.435429681369962624",
+        "owner_address": "0x0000000000000000000000000000000000000000",
+        "owner_balance": "0",
+        "owner_change_balance": "0",
+        "owner_percent": "0.0",
+        "personal_slippage_modifiable": "0",
+        "selfdestruct": "0",
+        "sell_tax": "0.03",
+        "slippage_modifiable": "0",
+        "token_name": "Upscreener",
+        "token_symbol": "UPS",
+        "total_supply": "10000000",
+        "trading_cooldown": "0",
+        "transfer_pausable": "0",
+        "transfer_tax": "0"
+      },
+      "holders": 3766,
+      "narrative_tags": [],
+      "moon_score": 58,
+      "reasons": [
+        "Sub $2M mcap \u2014 early stage",
+        "Solid liquidity $72,694",
+        "Strong vol/mcap 0.3x",
+        "+89% in 24h \u2014 strong momentum",
+        "3,766 holders \u2014 community forming",
+        "5d old \u2014 very fresh",
+        "1681 txns/24h \u2014 very active",
+        "Buy pressure: 1142 buys vs 539 sells"
+      ],
+      "red_flags": [
+        "\ud83d\udea8 Top holder owns 40%"
+      ],
+      "risk_level": "EXTREME",
+      "recommended_action": "AVOID \u2014 rug indicators present"
+    },
+    {
+      "name": "\ud83d\udc7bBLUST / WETH",
+      "symbol": "\ud83d\udc7bBLUST",
+      "address": "0xbb4208f1f2dff17a299a5bea6d884df5b4bd4fed",
+      "chain": "BASE",
+      "dex": "",
+      "pair_address": "0x87663a57603cbe3f03fb43d33ede55f6792557c1",
+      "market_cap": 7973.039403768,
+      "liquidity_usd": 10361.7322,
+      "volume_24h": 3342.252449229,
+      "volume_6h": 3342.252449229,
+      "price_change_24h": 148.607,
+      "price_change_6h": 148.607,
+      "price_change_1h": 148.607,
+      "txns_24h": 18,
+      "buys_24h": 15,
+      "sells_24h": 3,
+      "age_days": 0,
+      "price_usd": 9.80693653637338e-12,
+      "dex_url": "https://dexscreener.com/base/0xbb4208f1f2dff17a299a5bea6d884df5b4bd4fed",
+      "social_links": {},
+      "honeypot": false,
+      "liquidity_locked": null,
+      "top_holder_pct": null,
+      "mintable": false,
+      "proxy_contract": false,
+      "contract_verified": null,
+      "goplus": {
+        "buy_tax": "",
+        "cannot_buy": "0",
+        "holder_count": "0",
+        "is_in_dex": "0",
+        "is_open_source": "0",
+        "owner_address": "",
+        "sell_tax": "",
+        "token_name": "Blazing Lust",
+        "token_symbol": "\ud83d\udc7bBLUST",
+        "total_supply": "813000000000000"
+      },
+      "holders": 0,
+      "source": "geckoterminal",
+      "narrative_tags": [],
+      "moon_score": 57,
+      "reasons": [
+        "Micro cap $7,973 \u2014 very early entry",
+        "Decent liquidity $10,362",
+        "Strong vol/mcap 0.4x",
+        "+149% in 24h \u2014 strong momentum",
+        "+149% 6h \u2014 accelerating",
+        "Buy pressure: 15 buys vs 3 sells",
+        "\ud83d\udd35 Base chain \u2014 Coinbase legitimacy signal"
+      ],
+      "red_flags": [
+        "\u26a0\ufe0f Only 0d old \u2014 extreme risk"
+      ],
+      "risk_level": "HIGH",
+      "recommended_action": "WATCHLIST \u2014 strong signals, wait for confirmation"
+    },
+    {
+      "name": "VEESA / WETH",
+      "symbol": "VEESA",
+      "address": "0xf6bb662999289623ffb83da0180f89fe5231d5b9",
+      "chain": "BASE",
+      "dex": "",
+      "pair_address": "0x2a5b4e8b11e23e34907966520282f73d13603099",
+      "market_cap": 8367.1499968,
+      "liquidity_usd": 11866.1511,
+      "volume_24h": 2596.9283172518,
+      "volume_6h": 2596.9283172518,
+      "price_change_24h": 96.781,
+      "price_change_6h": 96.781,
+      "price_change_1h": 96.781,
+      "txns_24h": 52,
+      "buys_24h": 43,
+      "sells_24h": 9,
+      "age_days": 0,
+      "price_usd": 1.54612776567215e-06,
+      "dex_url": "https://dexscreener.com/base/0xf6bb662999289623ffb83da0180f89fe5231d5b9",
+      "social_links": {},
+      "honeypot": false,
+      "liquidity_locked": null,
+      "top_holder_pct": null,
+      "mintable": false,
+      "proxy_contract": false,
+      "contract_verified": null,
+      "goplus": {
+        "anti_whale_modifiable": "0",
+        "buy_tax": "",
+        "cannot_buy": "0",
+        "can_take_back_ownership": "0",
+        "external_call": "0",
+        "hidden_owner": "0",
+        "holder_count": "0",
+        "is_anti_whale": "0",
+        "is_blacklisted": "0",
+        "is_honeypot": "0",
+        "is_in_dex": "0",
+        "is_mintable": "0",
+        "is_open_source": "1",
+        "is_proxy": "0",
+        "is_whitelisted": "0",
+        "owner_balance": "0",
+        "owner_change_balance": "0",
+        "owner_percent": "0",
+        "personal_slippage_modifiable": "0",
+        "selfdestruct": "0",
+        "sell_tax": "",
+        "slippage_modifiable": "0",
+        "token_name": "VEESAINC",
+        "token_symbol": "VEESA",
+        "total_supply": "5600000000",
+        "trading_cooldown": "0",
+        "transfer_pausable": "0",
+        "transfer_tax": ""
+      },
+      "holders": 0,
+      "source": "geckoterminal",
+      "narrative_tags": [],
+      "moon_score": 57,
+      "reasons": [
+        "Micro cap $8,367 \u2014 very early entry",
+        "Decent liquidity $11,866",
+        "Strong vol/mcap 0.3x",
+        "+97% in 24h \u2014 strong momentum",
+        "+97% 6h \u2014 accelerating",
+        "Buy pressure: 43 buys vs 9 sells",
+        "\ud83d\udd35 Base chain \u2014 Coinbase legitimacy signal"
+      ],
+      "red_flags": [
+        "\u26a0\ufe0f Only 0d old \u2014 extreme risk"
+      ],
+      "risk_level": "HIGH",
+      "recommended_action": "WATCHLIST \u2014 strong signals, wait for confirmation"
+    },
+    {
       "name": "memes will continue",
       "symbol": "MEMES",
       "address": "0xF74548802f4c700315F019FdE17178b392EE4444",
       "chain": "BSC",
       "dex": "pancakeswap",
       "pair_address": "0xD3C8668BFF07b02D78019AFe7F9A6E581499def2",
-      "market_cap": 1207697.0,
-      "liquidity_usd": 110741.89,
-      "volume_24h": 755367.81,
-      "volume_6h": 678415.98,
-      "price_change_24h": 51.82,
-      "price_change_6h": 44.98,
-      "price_change_1h": 49.59,
-      "txns_24h": 11152,
-      "buys_24h": 5426,
-      "sells_24h": 5726,
+      "market_cap": 912829.0,
+      "liquidity_usd": 96506.24,
+      "volume_24h": 1235255.27,
+      "volume_6h": 1143406.86,
+      "price_change_24h": 13.72,
+      "price_change_6h": 10.3,
+      "price_change_1h": -5.73,
+      "txns_24h": 19963,
+      "buys_24h": 10007,
+      "sells_24h": 9956,
       "age_days": 78,
-      "price_usd": 0.001214,
+      "price_usd": 0.0009177,
       "dex_url": "https://dexscreener.com/bsc/0xd3c8668bff07b02d78019afe7f9a6e581499def2",
       "social_links": {
         "twitter": "https://x.com/i/communities/2035435456457003089"
       },
       "honeypot": false,
       "liquidity_locked": true,
-      "top_holder_pct": 42.87,
+      "top_holder_pct": 43.42,
       "mintable": false,
       "proxy_contract": false,
       "contract_verified": null,
@@ -482,21 +1534,21 @@
           {
             "liquidity_type": "UniV3",
             "name": "PancakeV3",
-            "liquidity": "43821.101421962487318622749180000000",
+            "liquidity": "47475.128897929876671009432405000000",
             "pair": "0xd3c8668bff07b02d78019afe7f9a6e581499def2"
-          },
-          {
-            "liquidity_type": "UniV4",
-            "name": "UniswapV4",
-            "liquidity": "19870.153318554682372693634233",
-            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
-            "pair": "0xd0eb64173da3cf7264673a82b97cb0068125ec3fa1a41952bb0a549bd22addc2"
           },
           {
             "liquidity_type": "UniV3",
             "name": "UniswapV3",
-            "liquidity": "15262.818429471467680009149178000000",
+            "liquidity": "21881.506619827488996993139466000000",
             "pair": "0x7231d17fa843e5516bf1d7d6f6c87147d279c2ba"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "15664.182858721280773683278862",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0xd0eb64173da3cf7264673a82b97cb0068125ec3fa1a41952bb0a549bd22addc2"
           },
           {
             "liquidity_type": "UniV4",
@@ -508,19 +1560,19 @@
           {
             "liquidity_type": "UniV3",
             "name": "PancakeV3",
-            "liquidity": "980.438606278486478696400000000000",
+            "liquidity": "1583.236545360623096635700000000000",
             "pair": "0x79a47fb9e88dc1a8d80d7234d7fe39a8a5c2c23b"
           },
           {
             "liquidity_type": "UniV3",
             "name": "PancakeV3",
-            "liquidity": "563.429942949263819373766374000000",
+            "liquidity": "1016.236477499259608474240211000000",
             "pair": "0xc86c2ceaf6536280c6f8b29b1c5c6f9f8c1581e1"
           },
           {
             "liquidity_type": "UniV3",
             "name": "PancakeV3",
-            "liquidity": "446.219606083971080537451807000000",
+            "liquidity": "669.667953408661715728747394000000",
             "pair": "0x0932bc183c67f34dbbf52feefe20e4e7aa15260c"
           },
           {
@@ -540,7 +1592,7 @@
           {
             "liquidity_type": "UniV4",
             "name": "UniswapV4",
-            "liquidity": "99.965745290885258091766683",
+            "liquidity": "99.964345710269219208481417",
             "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
             "pair": "0xaf51500d14e274dc4e7334a12b680d02598f72032fdba313f5287c76e63cea59"
           },
@@ -554,7 +1606,7 @@
           {
             "liquidity_type": "UniV4",
             "name": "UniswapV4",
-            "liquidity": "50.119782320358848000302602000000",
+            "liquidity": "50.130409412272276412654749000000",
             "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
             "pair": "0xfe0b0aa88b9cb625c28e955bf5233dddddcc48dc0016522d215d077e1a21c2f5"
           },
@@ -575,7 +1627,7 @@
           {
             "liquidity_type": "UniV4",
             "name": "UniswapV4",
-            "liquidity": "36.340436916196348195748563000000",
+            "liquidity": "36.343308353414361911848370000000",
             "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
             "pair": "0x285331b7d3b689a261a829d87abd8cfee5f17ef9019dfb1d5777fc032d8094e6"
           },
@@ -587,17 +1639,17 @@
             "pair": "0x3b8fd0d9a739a75e01a8a737b60a193c075390091602d39a3efea11a649780ee"
           },
           {
+            "liquidity_type": "UniV3",
+            "name": "PancakeV3",
+            "liquidity": "26.386762942094290757500000000000",
+            "pair": "0x493136e93cd1d81863c96f18d9e8e641e8f89a9b"
+          },
+          {
             "liquidity_type": "UniV4",
             "name": "UniswapV4",
             "liquidity": "20.304936089395019579865200000000",
             "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
             "pair": "0xffb8dfcf88673df8f7ea6ba316119848b1ace4897cd9c73d75f4a49605dc4d03"
-          },
-          {
-            "liquidity_type": "UniV3",
-            "name": "PancakeV3",
-            "liquidity": "14.276274431396755484520000000000",
-            "pair": "0x493136e93cd1d81863c96f18d9e8e641e8f89a9b"
           },
           {
             "liquidity_type": "UniV4",
@@ -663,17 +1715,17 @@
             "pair": "0x24ab86403e96b81a0799f05177e9c54becd1fb72e1af4ff2254b27486ff3d4a5"
           },
           {
-            "liquidity_type": "UniV2",
-            "name": "PancakeV2",
-            "liquidity": "1.27227547",
-            "pair": "0xb189ec14f517de1b7d73bf75b5735b8dafcdfbe4"
-          },
-          {
             "liquidity_type": "UniV4",
             "name": "UniswapV4",
             "liquidity": "1.198576997462045954467671000000",
             "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
             "pair": "0x669d0da5c1f83ba9a8956ed1103b0a085499236ff01568ce61d6917a27877acc"
+          },
+          {
+            "liquidity_type": "UniV2",
+            "name": "PancakeV2",
+            "liquidity": "1.16578774",
+            "pair": "0xb189ec14f517de1b7d73bf75b5735b8dafcdfbe4"
           },
           {
             "liquidity_type": "UniV4",
@@ -1075,7 +2127,7 @@
           {
             "liquidity_type": "UniV2",
             "name": "PancakeV2",
-            "liquidity": "0.00071670",
+            "liquidity": "0.00064667",
             "pair": "0x9e93022baed2d4cc8c3d59b88dc94ae3ae1da0c2"
           },
           {
@@ -1088,54 +2140,46 @@
         ],
         "external_call": "0",
         "hidden_owner": "0",
-        "holder_count": "7971",
+        "holder_count": "8051",
         "holders": [
           {
             "address": "0x73d8bd54f7cf5fab43fe4ef40a62d390644946db",
             "tag": "",
             "is_contract": 1,
-            "balance": "428685351.863136650057480804",
-            "percent": "0.428685351863136650",
+            "balance": "434202946.550407884228923406",
+            "percent": "0.434202946550407884",
             "is_locked": 0
           },
           {
             "address": "0xd3c8668bff07b02d78019afe7f9a6e581499def2",
             "tag": "PancakeV3",
             "is_contract": 1,
-            "balance": "54174493.791064611604727583",
-            "percent": "0.054174493791064611",
+            "balance": "50224379.962206086462925463",
+            "percent": "0.050224379962206086",
             "is_locked": 0
           },
           {
             "address": "0x4982085c9e2f89f2ecb8131eca71afad896e89cb",
             "tag": "",
             "is_contract": 0,
-            "balance": "40981993.906764040415261781",
-            "percent": "0.040981993906764040",
+            "balance": "43360570.747254218539667815",
+            "percent": "0.043360570747254218",
             "is_locked": 0
           },
           {
             "address": "0x7231d17fa843e5516bf1d7d6f6c87147d279c2ba",
             "tag": "UniswapV3",
             "is_contract": 1,
-            "balance": "26249050.006784166144988998",
-            "percent": "0.026249050006784166",
+            "balance": "24701847.857401274402160223",
+            "percent": "0.024701847857401274",
             "is_locked": 0
           },
           {
             "address": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
             "tag": "",
             "is_contract": 1,
-            "balance": "20564689.545492228800361893",
-            "percent": "0.020564689545492228",
-            "is_locked": 0
-          },
-          {
-            "address": "0xea0653d5dcdef577c024b7c935ea40359a461e9c",
-            "tag": "",
-            "is_contract": 0,
-            "balance": "19313777.669439467734944164",
-            "percent": "0.019313777669439467",
+            "balance": "18987315.329319594553861942",
+            "percent": "0.018987315329319594",
             "is_locked": 0
           },
           {
@@ -1169,6 +2213,14 @@
             "balance": "9756256.806789613866249435",
             "percent": "0.009756256806789613",
             "is_locked": 0
+          },
+          {
+            "address": "0xb221d31246083308e92903aa9bfd28eb77fdcbe6",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "9008186.920054277859550322",
+            "percent": "0.009008186920054277",
+            "is_locked": 0
           }
         ],
         "honeypot_with_same_creator": "0",
@@ -1189,47 +2241,47 @@
           {
             "address": "0x25c9c4b56e820e0dea438b145284f02d9ca9bd52",
             "tag": "GoPlus SafeToken Locker",
-            "value": "53442.82223149391486036757384",
+            "value": "48197.04836061841969105507416",
             "is_contract": 1,
             "balance": "1527488.668366266481406253",
-            "percent": "0.999994824647640821",
+            "percent": "0.999994872164834545",
             "NFT_list": [
               {
-                "value": "53442.82223149391486036757384",
+                "value": "48197.04836061841969105507416",
                 "NFT_id": "6341495",
                 "amount": "1527488.668366266481406253",
                 "in_effect": "1",
-                "NFT_percentage": "0.999994824647640821"
+                "NFT_percentage": "0.999994872164834545"
               }
             ],
             "is_locked": 1,
             "locked_detail": [
               {
                 "url": "https://lock.gopluslabs.io/legacy/lock/detail/v3/56/3943",
-                "value": "53442.82223149391486036757384",
+                "value": "48197.04836061841969105507416",
                 "NFT_id": "6341495",
                 "amount": "1527488.668366266481406253",
                 "end_time": "2036-01-19T03:33:40+00:00",
                 "opt_time": "2026-01-21T03:33:40+00:00",
                 "in_effect": "1",
-                "NFT_percentage": "0.999994824647640821"
+                "NFT_percentage": "0.999994872164834545"
               }
             ]
           },
           {
             "address": "0xfe7364a43f1fbe03f7bef8980a55e2ad3bfb147a",
             "tag": "",
-            "value": "0.27164591249394891052908",
+            "value": "0.244982031912972809775256",
             "is_contract": 1,
             "balance": "7.764111920309460984",
-            "percent": "0.000005082899728872",
+            "percent": "0.000005082899970399",
             "NFT_list": [
               {
-                "value": "0.27164591249394891052908",
+                "value": "0.244982031912972809775256",
                 "NFT_id": "6548057",
                 "amount": "7.764111920309460984",
                 "in_effect": "1",
-                "NFT_percentage": "0.000005082899728872"
+                "NFT_percentage": "0.000005082899970399"
               }
             ],
             "is_locked": 0
@@ -1237,17 +2289,17 @@
           {
             "address": "0xdfb5ca3e8860d52c7b485670290175222e1098a9",
             "tag": "",
-            "value": "0.004940955057507001319493",
+            "value": "0.002165754874850643917264",
             "is_contract": 0,
             "balance": "0.810970136205504747",
-            "percent": "0.000000092452630307",
+            "percent": "0.000000044935195056",
             "NFT_list": [
               {
-                "value": "0.004940955057507001319493",
+                "value": "0.002165754874850643917264",
                 "NFT_id": "6549707",
                 "amount": "0.810970136205504747",
                 "in_effect": "1",
-                "NFT_percentage": "0.000000092452630307"
+                "NFT_percentage": "0.000000044935195056"
               }
             ],
             "is_locked": 0
@@ -1289,7 +2341,7 @@
             "is_locked": 1
           }
         ],
-        "lp_total_supply": "1527666.6189391143",
+        "lp_total_supply": "1527666.6189391145",
         "owner_address": "0x0000000000000000000000000000000000000000",
         "owner_balance": "0",
         "owner_change_balance": "0",
@@ -1305,20 +2357,18 @@
         "transfer_pausable": "0",
         "transfer_tax": ""
       },
-      "holders": 7971,
+      "holders": 8051,
       "narrative_tags": [
         "Meme+Utility"
       ],
-      "moon_score": 70,
+      "moon_score": 55,
       "reasons": [
         "Sub $2M mcap \u2014 early stage",
-        "Solid liquidity $110,742",
-        "Massive vol/mcap ratio 0.6x",
-        "+52% in 24h \u2014 strong momentum",
-        "+45% 6h \u2014 accelerating",
-        "7,971 holders \u2014 community forming",
+        "Solid liquidity $96,506",
+        "Massive vol/mcap ratio 1.4x",
+        "8,051 holders \u2014 community forming",
         "78d old \u2014 sweet spot",
-        "11152 txns/24h \u2014 very active"
+        "19963 txns/24h \u2014 very active"
       ],
       "red_flags": [
         "\ud83d\udea8 Top holder owns 43%"
@@ -1327,29 +2377,29 @@
       "recommended_action": "AVOID \u2014 rug indicators present"
     },
     {
-      "name": "GITLAWB / WETH",
-      "symbol": "GITLAWB",
-      "address": "0x5f980dcfc4c0fa3911554cf5ab288ed0eb13dba3",
-      "chain": "BASE",
+      "name": "\u5171\u5efa / WBNB",
+      "symbol": "\u5171\u5efa",
+      "address": "0xb2acf3ae051c7f0b0b8de90cbb4ed99312574444",
+      "chain": "BSC",
       "dex": "",
-      "pair_address": "0xec33256bf1ded407a57fd3c1965e7556e42ac14db09bc4e6fef57d5e2eb0b0b9",
-      "market_cap": 1461876.338,
-      "liquidity_usd": 557268.593,
-      "volume_24h": 511684.305200692,
-      "volume_6h": 166812.632635366,
-      "price_change_24h": 98.654,
-      "price_change_6h": 18.122,
-      "price_change_1h": 7.156,
-      "txns_24h": 1065,
-      "buys_24h": 670,
-      "sells_24h": 395,
-      "age_days": 29,
-      "price_usd": 1.46187633828396e-05,
-      "dex_url": "https://dexscreener.com/base/0x5f980dcfc4c0fa3911554cf5ab288ed0eb13dba3",
+      "pair_address": "0x843170d02c676175f86f85288dde9569b5570034",
+      "market_cap": 1852111.637,
+      "liquidity_usd": 153734.6139,
+      "volume_24h": 3588152.28058472,
+      "volume_6h": 1257165.17947715,
+      "price_change_24h": -21.577,
+      "price_change_6h": -15.486,
+      "price_change_1h": -12.06,
+      "txns_24h": 23309,
+      "buys_24h": 12954,
+      "sells_24h": 10355,
+      "age_days": 2,
+      "price_usd": 0.00185211163656112,
+      "dex_url": "https://dexscreener.com/bsc/0xb2acf3ae051c7f0b0b8de90cbb4ed99312574444",
       "social_links": {},
       "honeypot": false,
-      "liquidity_locked": false,
-      "top_holder_pct": 12.61,
+      "liquidity_locked": true,
+      "top_holder_pct": 3.84,
       "mintable": false,
       "proxy_contract": false,
       "contract_verified": null,
@@ -1358,544 +2408,358 @@
         "buy_tax": "0",
         "can_take_back_ownership": "0",
         "cannot_buy": "0",
-        "creator_address": "0x6c9d96942e4dc17d558e13ce679d197ea9b579f1",
+        "cannot_sell_all": "0",
+        "creator_address": "0xc694bc91de4b6397abfbabc9d1293c4ffc2f2863",
         "creator_balance": "0",
         "creator_percent": "0.000000",
         "dex": [
           {
-            "liquidity_type": "UniV4",
-            "name": "UniswapV4",
-            "liquidity": "25.943498744989",
-            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
-            "pair": "0xf77bdb95e98c96f8c8767a985de9884e5672f4bb66f45ae82cd4c82f30670b39"
-          },
-          {
-            "liquidity_type": "UniV4",
-            "name": "UniswapV4",
-            "liquidity": "17.92974154105610493703",
-            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
-            "pair": "0x97990026653e0bdab0a2953f763051e2bccea9b07991a9d5de26531d1743c225"
-          },
-          {
-            "liquidity_type": "UniV4",
-            "name": "UniswapV4",
-            "liquidity": "6.262460282993",
-            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
-            "pair": "0x943a19771b3eab892f66094c4fd20e7a1edaf24683bda0c902fc9c9fb6dd51fa"
-          },
-          {
-            "liquidity_type": "UniV4",
-            "name": "UniswapV4",
-            "liquidity": "3.449743813103",
-            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
-            "pair": "0x84c816358663b9b600a1299ab07828b13da1404204d117992a9f1d16ab43184d"
-          },
-          {
-            "liquidity_type": "UniV4",
-            "name": "UniswapV4",
-            "liquidity": "2.98124483998134840081",
-            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
-            "pair": "0xb9140d05287647564731c679060017e2a0051771a8749dce81071edb6c58150a"
-          },
-          {
-            "liquidity_type": "UniV4",
-            "name": "UniswapV4",
-            "liquidity": "1.15735675969885544104",
-            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
-            "pair": "0x8127cf836d1b088b260d004b002457a2ecb4a8f1c5aa425c639d6408435bbf40"
-          },
-          {
-            "liquidity_type": "UniV4",
-            "name": "UniswapV4",
-            "liquidity": "0.437258258136",
-            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
-            "pair": "0x4fcea0790c406d91ca996fef49380eca4a804b92698b9e3a3e2595a031e024e6"
-          },
-          {
-            "liquidity_type": "UniV4",
-            "name": "UniswapV4",
-            "liquidity": "0.36812305693123160039",
-            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
-            "pair": "0x0151640d882431fcff481cbf10f48b9a22f94cb6810ad47fdd6c9e9f3dcc345a"
-          },
-          {
-            "liquidity_type": "UniV4",
-            "name": "UniswapV4",
-            "liquidity": "0.20432888899805122517",
-            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
-            "pair": "0x1ca81c83840b34a9024e651a3cfa399c35e61af65bb27d08959e03e6f9ede416"
-          },
-          {
-            "liquidity_type": "UniV4",
-            "name": "UniswapV4",
-            "liquidity": "0.009915077812",
-            "pool_manager": "0x498581fF718922c3f8e6A244956aF099B2652b2b",
-            "pair": "0xc8b6ed7b725e82ff3b7bbffb77de7bec4d0642c3a4ac2f71512169f86ec2e44c"
-          }
-        ],
-        "external_call": "0",
-        "hidden_owner": "0",
-        "holder_count": "1105",
-        "holders": [
-          {
-            "address": "0x498581ff718922c3f8e6a244956af099b2652b2b",
-            "tag": "",
-            "is_contract": 1,
-            "balance": "12607946739.242429325948533477",
-            "percent": "0.126079467392424293",
-            "is_locked": 0
-          },
-          {
-            "address": "0x4dbb3835744b2976560e0259cb218cab89abef96",
-            "tag": "",
-            "is_contract": 1,
-            "balance": "5177446669.487186174434262677",
-            "percent": "0.051774466694871861",
-            "is_locked": 0
-          },
-          {
-            "address": "0xf60633d02690e2a15a54ab919925f3d038df163e",
-            "tag": "",
-            "is_contract": 0,
-            "balance": "3903214783.482879717820314386",
-            "percent": "0.039032147834828797",
-            "is_locked": 0
-          },
-          {
-            "address": "0x85718c19c52107fa97dbc4f4dd76e96c3f7215f8",
-            "tag": "",
-            "is_contract": 1,
-            "balance": "2782475706.378143390866710634",
-            "percent": "0.027824757063781433",
-            "is_locked": 0
-          },
-          {
-            "address": "0x465eedef54b46cb9226b57f0353e1b50c3e22a20",
-            "tag": "",
-            "is_contract": 0,
-            "balance": "2747829273.561952536575211841",
-            "percent": "0.027478292735619525",
-            "is_locked": 0
-          },
-          {
-            "address": "0x8fabe392df90b06ad610c33f41bb1abd78a5fc20",
-            "tag": "",
-            "is_contract": 0,
-            "balance": "2745019865.322159784722253856",
-            "percent": "0.027450198653221597",
-            "is_locked": 0
-          },
-          {
-            "address": "0x5a6751623861a8b6dbbbcc445638caba55add302",
-            "tag": "",
-            "is_contract": 0,
-            "balance": "2484024088.880313602380747429",
-            "percent": "0.024840240888803136",
-            "is_locked": 0
-          },
-          {
-            "address": "0x1077d0d7e6925cbf9239109977fffd737b0ddffc",
-            "tag": "",
-            "is_contract": 0,
-            "balance": "2232858380.289686320245916269",
-            "percent": "0.022328583802896863",
-            "is_locked": 0
-          },
-          {
-            "address": "0xcd83f4c3a4b96d56367e482a3774802877b82e13",
-            "tag": "",
-            "is_contract": 0,
-            "balance": "1995833768.133249720623534002",
-            "percent": "0.019958337681332497",
-            "is_locked": 0
-          },
-          {
-            "address": "0xf97bf93718402bd5bee52af1e8c4a7de7f4d4bdd",
-            "tag": "",
-            "is_contract": 0,
-            "balance": "1883290127.517342757018073531",
-            "percent": "0.018832901275173427",
-            "is_locked": 0
-          }
-        ],
-        "honeypot_with_same_creator": "0",
-        "is_anti_whale": "0",
-        "is_blacklisted": "0",
-        "is_honeypot": "0",
-        "is_in_dex": "1",
-        "is_mintable": "0",
-        "is_open_source": "1",
-        "is_proxy": "0",
-        "is_whitelisted": "0",
-        "lp_holder_count": "10",
-        "lp_holders": [
-          {
-            "address": "0xe247327570b6033f33ff5eea71c69629465cfcdf",
-            "tag": "",
-            "value": "6.954677987234",
-            "is_contract": 0,
-            "balance": "0.001484287078698549",
-            "percent": "0.268073114160221523",
-            "NFT_list": [
-              {
-                "value": "6.954677987234",
-                "NFT_id": "2127336",
-                "amount": "0.001484287078698549",
-                "in_effect": "1",
-                "NFT_percentage": "0.268073114160221523"
-              },
-              {
-                "value": "0.000000",
-                "NFT_id": "2028735",
-                "amount": "0",
-                "in_effect": "1",
-                "NFT_percentage": "0.000000000000000000"
-              }
-            ],
-            "is_locked": 0
-          },
-          {
-            "address": "0x2da78c5490bcc810e877f865f9b86a6672b9642c",
-            "tag": "",
-            "value": "5.247527759594",
-            "is_contract": 0,
-            "balance": "0.001119942352238739",
-            "percent": "0.202269768742528369",
-            "NFT_list": [
-              {
-                "value": "5.247527759594",
-                "NFT_id": "2026638",
-                "amount": "0.001119942352238739",
-                "in_effect": "1",
-                "NFT_percentage": "0.202269768742528369"
-              }
-            ],
-            "is_locked": 0
-          },
-          {
-            "address": "0x186ff660dbd2098fcb8bcb29cdeb6c2587fa1490",
-            "tag": "",
-            "value": "5.116407479872",
-            "is_contract": 1,
-            "balance": "0.001091958243750105",
-            "percent": "0.197215642328745177",
-            "NFT_list": [
-              {
-                "value": "5.116407479872",
-                "NFT_id": "2107167",
-                "amount": "0.001091958243750105",
-                "in_effect": "1",
-                "NFT_percentage": "0.197215642328745177"
-              }
-            ],
-            "is_locked": 0
-          },
-          {
-            "address": "0xfd44b08c0fb4f557094f59e78ba5d98e0ca0674c",
-            "tag": "",
-            "value": "2.407263592248",
-            "is_contract": 0,
-            "balance": "0.000513765158723253",
-            "percent": "0.092789723544784772",
-            "NFT_list": [
-              {
-                "value": "2.407263592248",
-                "NFT_id": "2035718",
-                "amount": "0.000513765158723253",
-                "in_effect": "1",
-                "NFT_percentage": "0.092789723544784772"
-              }
-            ],
-            "is_locked": 0
-          },
-          {
-            "address": "0x57d5971d1ce076e26ed6e8334b547606669eeb05",
-            "tag": "",
-            "value": "1.453098374176",
-            "is_contract": 0,
-            "balance": "0.000317365951471534",
-            "percent": "0.056010732209535531",
-            "NFT_list": [
-              {
-                "value": "1.453098374176",
-                "NFT_id": "2026641",
-                "amount": "0.000317365951471534",
-                "in_effect": "1",
-                "NFT_percentage": "0.056010732209535531"
-              }
-            ],
-            "is_locked": 0
-          },
-          {
-            "address": "0xf7d38cd26f65ea4aad8b197b68273d4e953709f2",
-            "tag": "",
-            "value": "1.28478697158",
-            "is_contract": 1,
-            "balance": "0.000274203000637734",
-            "percent": "0.049523046952877163",
-            "NFT_list": [
-              {
-                "value": "1.28478697158",
-                "NFT_id": "2035788",
-                "amount": "0.000274203000637734",
-                "in_effect": "1",
-                "NFT_percentage": "0.049523046952877163"
-              }
-            ],
-            "is_locked": 0
-          },
-          {
-            "address": "0xece081cec7ab3c08f3705ce970d87fb18cf5b533",
-            "tag": "",
-            "value": "1.232083300076",
-            "is_contract": 0,
-            "balance": "0.000667898173246987",
-            "percent": "0.047491545656384536",
-            "NFT_list": [
-              {
-                "value": "1.232083300076",
-                "NFT_id": "2107562",
-                "amount": "0.000667898173246987",
-                "in_effect": "1",
-                "NFT_percentage": "0.047491545656384536"
-              }
-            ],
-            "is_locked": 0
-          },
-          {
-            "address": "0x2e098bcf0dd8dd3642b1425a70284a75b0a7a3a4",
-            "tag": "",
-            "value": "0.9150553984",
-            "is_contract": 0,
-            "balance": "0.00019529374148304",
-            "percent": "0.035271474930756799",
-            "NFT_list": [
-              {
-                "value": "0.9150553984",
-                "NFT_id": "2107273",
-                "amount": "0.00019529374148304",
-                "in_effect": "1",
-                "NFT_percentage": "0.035271474930756799"
-              }
-            ],
-            "is_locked": 0
-          },
-          {
-            "address": "0x5c3bf6089c3692cd56304ef6b9dff1ee8d7725af",
-            "tag": "",
-            "value": "0.734268967170",
-            "is_contract": 0,
-            "balance": "0.000156709962973568",
-            "percent": "0.028302930634859956",
-            "NFT_list": [
-              {
-                "value": "0.734268967170",
-                "NFT_id": "2108900",
-                "amount": "0.000156709962973568",
-                "in_effect": "1",
-                "NFT_percentage": "0.028302930634859956"
-              }
-            ],
-            "is_locked": 0
-          },
-          {
-            "address": "0x8eedc84e1e69cd9ddfa3da2aa176b9d0bfa0e869",
-            "tag": "",
-            "value": "0.598043494196",
-            "is_contract": 1,
-            "balance": "0.000127636292495809",
-            "percent": "0.023052020839306174",
-            "NFT_list": [
-              {
-                "value": "0.598043494196",
-                "NFT_id": "2071279",
-                "amount": "0.000127636292495809",
-                "in_effect": "1",
-                "NFT_percentage": "0.023052020839306174"
-              }
-            ],
-            "is_locked": 0
-          }
-        ],
-        "lp_total_supply": "0.005949059955719318",
-        "owner_address": "0x660eaaedebc968f8f3694354fa8ec0b4c5ba8d12",
-        "owner_balance": "0",
-        "owner_change_balance": "0",
-        "owner_percent": "0.0",
-        "personal_slippage_modifiable": "0",
-        "selfdestruct": "0",
-        "sell_tax": "0",
-        "slippage_modifiable": "0",
-        "token_name": "gitlawb",
-        "token_symbol": "GITLAWB",
-        "total_supply": "100000000000",
-        "trading_cooldown": "0",
-        "transfer_pausable": "0",
-        "transfer_tax": "0"
-      },
-      "holders": 1105,
-      "source": "geckoterminal",
-      "narrative_tags": [],
-      "moon_score": 63,
-      "reasons": [
-        "Sub $2M mcap \u2014 early stage",
-        "Solid liquidity $557,269",
-        "Strong vol/mcap 0.4x",
-        "+99% in 24h \u2014 strong momentum",
-        "1,105 holders \u2014 community forming",
-        "29d old \u2014 sweet spot",
-        "1065 txns/24h \u2014 very active",
-        "Buy pressure: 670 buys vs 395 sells",
-        "\ud83d\udd35 Base chain \u2014 Coinbase legitimacy signal"
-      ],
-      "red_flags": [
-        "\ud83d\udea8 Liquidity NOT locked"
-      ],
-      "risk_level": "EXTREME",
-      "recommended_action": "AVOID \u2014 rug indicators present"
-    },
-    {
-      "name": "Hakrium",
-      "symbol": "HKM",
-      "address": "0x9a7eA44ba4eda152EB52522a095FbC98871F7777",
-      "chain": "BSC",
-      "dex": "pancakeswap",
-      "pair_address": "0xc174bC50058487a5243E7bEca4ED5E4FaB448226",
-      "market_cap": 271705.0,
-      "liquidity_usd": 50243.09,
-      "volume_24h": 30570.88,
-      "volume_6h": 8866.49,
-      "price_change_24h": 40.05,
-      "price_change_6h": 20.34,
-      "price_change_1h": 11.1,
-      "txns_24h": 456,
-      "buys_24h": 269,
-      "sells_24h": 187,
-      "age_days": 16,
-      "price_usd": 0.0003039,
-      "dex_url": "https://dexscreener.com/bsc/0xc174bc50058487a5243e7beca4ed5e4fab448226",
-      "social_links": {
-        "twitter": "https://x.com/thisishakrium?s=21"
-      },
-      "honeypot": false,
-      "liquidity_locked": true,
-      "top_holder_pct": 10.65,
-      "mintable": false,
-      "proxy_contract": false,
-      "contract_verified": null,
-      "goplus": {
-        "anti_whale_modifiable": "0",
-        "buy_tax": "0.03",
-        "can_take_back_ownership": "0",
-        "cannot_buy": "0",
-        "cannot_sell_all": "0",
-        "creator_address": "0xd1cbfab63b108d2c3ad007f5744df58e41525f3c",
-        "creator_balance": "11752717.121444534734873213",
-        "creator_percent": "0.011753",
-        "dex": [
-          {
             "liquidity_type": "UniV2",
             "name": "PancakeV2",
-            "liquidity": "23743.97091381",
-            "pair": "0xc174bc50058487a5243e7beca4ed5e4fab448226"
+            "liquidity": "76929.87195190",
+            "pair": "0x843170d02c676175f86f85288dde9569b5570034"
           },
           {
             "liquidity_type": "UniV4",
             "name": "UniswapV4",
-            "liquidity": "0.273992258320312582685439",
+            "liquidity": "44807.411429943570350886384034",
             "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
-            "pair": "0x4e0bff85885627715c880a2a8aa3ab9e17cea61fb1e10a44f522f616da014a74"
+            "pair": "0x1026498d5aa9f2c807daddb5072ee5db53ae329623f33947162934fed3d5964e"
           },
           {
             "liquidity_type": "UniV4",
             "name": "UniswapV4",
-            "liquidity": "0.127517837171744547057264",
+            "liquidity": "44553.180947684629345451153323",
             "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
-            "pair": "0x872e97e2635d66c433023c14936884a66d8e75edbfd5e1ed0dc4b9ad464ded16"
+            "pair": "0x55c8dc6fd461b10f830e467682f7beaf9a403d7f35de05569862999595a15ac9"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "6708.592695476404709512597856",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0x72eaafe036fa9e5187aa080a97dba3d060d78c9077a82a8121e9f62734469ad5"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "2999.711999999999999999000096",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0xbd3a4231d5b0666ffb25e480c1ec1e852173aef670271bf3f9395ff322538e1a"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "2999.711999999999999999000096",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0x3f45b278c7213d77b5ca3d6013560da305cdcbb92c9b6dfd68477f63af41a228"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "2999.711999999999999999000096",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0x4b0222ac9f551441fc4a7436fd23c76e17ba5eb019971685cec8a4460b374ad4"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "2734.562825285562307852460192",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0xfe0bb90485e175804ea480fe3ad916a44d96ade7c5ba02062221f17e234c6827"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "2546.113323649180919745319424",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0xe64fb3d11268e93cfd0f708221a4532d87d2cb7bfb358206f8152563a283dfaa"
+          },
+          {
+            "liquidity_type": "UniV3",
+            "name": "UniswapV3",
+            "liquidity": "2089.292237331418253733068619",
+            "pair": "0x722cdad5e048e972e683bd04565d98ad32b453d0"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "1478.076790230098317903620356",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0x6164bb9f3eef28d47b522f01259abab654eec2696398bc47b548930dc0ce188f"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "1272.037647549689715002604282",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0x91b53d5ab44563d5ab897d134db117da5ca136da0a6f42d8d0f8b496a34fa3a8"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "1240.4873649063274789520",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0x50024e66ed0d1b450ebcc9ba6dc9ca5a7acccaf5b175a5814b86fdc71034240e"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "1049.58904549838746411724949",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0x4c5b9e6ea49113960f0bf72905c25e64bd5fd70ed8a7ec25fc39c1adea26ca8d"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "1020.883176520796211138813560",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0x781ca2d30a3197011d961d846da20c85a758dab22ae7af2320c30b50089d4ba8"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "999.894999999999999999000105",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0xd60ffdc9d75d20927ea66f98871f2768550a049f467b86eb5db2a17d36d5b1b6"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "944.538798036048882898248128",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0x20c8d762ae9e59c9e4d9e14f51677fda9355f1e52b2b3b6edf1b003d7277cf0b"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "921.746746639164837271016312",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0xdd025a212199c0df37cca6d0827ead1d9e9d65e25ebfc57844375bda1c8beec5"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "859.935642241173831516518052",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0x3c4ea7fbb7e836c2da2409a5136e38e0d663d8a172111b7fb3570352607f592d"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "672.764255320387339361000000",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0x443ca93f5450615eba3646793e1b712979588f3d1328664d15e9897712821740"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "504.319912089793854080398596",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0x08c4529c7472ebcd48654d506a859a017d6512d0355336584f3141a1cd329aa3"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "283.278406557402181255734078",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0xbdde84d96390469f6eed1896ee16949f8b99971894ff39178a5d3696bb19cee6"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "221.986013999944430796080415",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0x6c3e41c64e296c22cdc679a8a971180a4228937421f0d39727ccce8852f72bc7"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "192.940975697654714030291101",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0xa0e14903780693854477af45b745d8c05cac2f09eda9fbdbc8524cf08e125fe0"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "109.677802731242508275946849",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0x5fa990cef2b4a1b0fe42db178558eb6088326aeaa69eca241452e5dcb94e8171"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "66.457506787681734590918208",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0x61a691e3ea464dd4cbe3d96e8ad9618e51b817be28a61e120f303d3db08f9337"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "63.17596013753079199551",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0xb3f115f159bdb2e81f9bc4cf5bd37e1a1fd7e849096b8beba933fb90d36d5bb8"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "63.1401369314231071930",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0xfeb01331569f0e48ed32639af12c1e7f1df29e926d50826c64fcddecced4ab43"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "41.453426862008480489207801",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0x26a91e08ac732d3d9703024a6351c02e66741226383d6e4d215ad1142bf60131"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "5.072892125927958831817132",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0xbcdc252ec5f02f0385e439a90a759cf2da409bcfaf733187d5652af1994b0519"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "0.897543395976073950",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0xe643523dda15afee2b52b81ad843865c48358bced7ae6e981639d4b8b128abed"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "0.411988189991511803099504",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0x304b754ea60490c97480e1cb419068d31af25cf1b9a2702e4bf25d5af496a767"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "0.376496548509517868398296",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0x651b03c9587c7e526afcd30283a99c0dc3248d5bf095e7f4d6ea0184acc957d6"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "0.2571762634390226583603",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0xbb077a5c2590ac1bb08cd641840581672b46aee46ecd9af686cda3b365a0b1b8"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "0.2112976351339314397497",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0xaef3b253f07c6786cb40986faa291ebe49377d5b5fae78cf19c374f6b49aa45c"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "0.14969803654931234081",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0x97d03666bac1e2a6426d6a8a9ff38d4a4afb5f2ace373d9ef0f64c220f209b5d"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "0.118812775024726705466456",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0x17fe5d39c84362b53ffe75ac40d26cec0d0f31b94df2135c86f6c5714c522424"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
+            "liquidity": "0.10184863628232973295",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0x059c83e1eb2711fed9d3ec93b05c4386f0f18d6fd89d5611b3f29c43ac4a1852"
           }
         ],
         "external_call": "0",
         "hidden_owner": "0",
-        "holder_count": "2655",
+        "holder_count": "2525",
         "holders": [
           {
-            "address": "0x000000000000000000000000000000000000dead",
-            "tag": "",
-            "is_contract": 0,
-            "balance": "106515808.409941228980364838",
-            "percent": "0.106515808409941228",
-            "is_locked": 1
-          },
-          {
-            "address": "0xc174bc50058487a5243e7beca4ed5e4fab448226",
+            "address": "0x843170d02c676175f86f85288dde9569b5570034",
             "tag": "PancakeV2",
             "is_contract": 1,
-            "balance": "87231380.910999835309312127",
-            "percent": "0.087231380910999835",
+            "balance": "38379675.686520990115658016",
+            "percent": "0.038379675686520990",
             "is_locked": 0
           },
           {
-            "address": "0x407993575c91ce7643a4d4ccacc9a98c36ee1bbe",
-            "tag": "PinkLock02",
-            "is_contract": 1,
-            "balance": "63000000.000000015370682171",
-            "percent": "0.063000000000000015",
-            "is_locked": 1
-          },
-          {
-            "address": "0xf2c38b02d443c3394e30fc19ca9f73a16d87c8ba",
-            "tag": "",
-            "is_contract": 1,
-            "balance": "43072983.843544433952510162",
-            "percent": "0.043072983843544433",
-            "is_locked": 0
-          },
-          {
-            "address": "0x0f1ae2d008796af37fd7440b03d6c1967aa18fc8",
+            "address": "0x293787c6c6d5594612628c8d15293baa79214acf",
             "tag": "",
             "is_contract": 0,
-            "balance": "29002500",
-            "percent": "0.029002500000000000",
+            "balance": "21533309.917550252772208009",
+            "percent": "0.021533309917550252",
             "is_locked": 0
           },
           {
-            "address": "0x840c80f0d38b297b387dd8f750db90ef0e3558a5",
+            "address": "0x1829a38feae3c109b12684021cf5af37f55d5c47",
             "tag": "",
             "is_contract": 0,
-            "balance": "22354903.69782814851539962",
-            "percent": "0.022354903697828148",
+            "balance": "21521853.993649324",
+            "percent": "0.021521853993649324",
             "is_locked": 0
           },
           {
-            "address": "0xd86d9dec56f9f1e29a8d1bea5d3f8797a8997add",
+            "address": "0x562a7ed94f308b617c2a1c3b69a40fcf8a021d43",
             "tag": "",
             "is_contract": 0,
-            "balance": "20202948.025086641021415925",
-            "percent": "0.020202948025086641",
+            "balance": "19105483.715094956240349936",
+            "percent": "0.019105483715094956",
             "is_locked": 0
           },
           {
-            "address": "0x617e50888b6154b35f970bfd6367ea822b21146a",
+            "address": "0xd299e4523e9a73948acd25bd1b31afb47bc15839",
             "tag": "",
             "is_contract": 0,
-            "balance": "16596665.872262899915775813",
-            "percent": "0.016596665872262899",
+            "balance": "14565863.557535742877605955",
+            "percent": "0.014565863557535742",
             "is_locked": 0
           },
           {
-            "address": "0xb1257a8259ea20f487404836eaab7e71ad6c2a4a",
+            "address": "0x1de1260228c952ddbbc0f92af3d0f0ebd4f4103a",
             "tag": "",
             "is_contract": 0,
-            "balance": "14500000",
-            "percent": "0.014500000000000000",
+            "balance": "13579557.419818431794667623",
+            "percent": "0.013579557419818431",
             "is_locked": 0
           },
           {
-            "address": "0x981088c18acfc088bbcdaf689870ffd2c5f86c24",
+            "address": "0x3989a94ed3597ef17479dfb42e41f434309224d6",
             "tag": "",
             "is_contract": 0,
-            "balance": "13802016.261277408799069648",
-            "percent": "0.013802016261277408",
+            "balance": "12721349.752712058157442324",
+            "percent": "0.012721349752712058",
+            "is_locked": 0
+          },
+          {
+            "address": "0x2daa0456786a065ee17d1edacc231f9acd6f018b",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "12014139.562238319073913835",
+            "percent": "0.012014139562238319",
+            "is_locked": 0
+          },
+          {
+            "address": "0xe5839e111e38acd3fb982d6b330028aa1132a096",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "11578054.44339827130431436",
+            "percent": "0.011578054443398271",
+            "is_locked": 0
+          },
+          {
+            "address": "0x618b085f579b7d98492fa689796c1a27454bfc6e",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "11092412.785010250971724459",
+            "percent": "0.011092412785010250",
             "is_locked": 0
           }
         ],
@@ -1908,10 +2772,6 @@
         "is_open_source": "1",
         "is_proxy": "0",
         "is_whitelisted": "0",
-        "launchpad_token": {
-          "is_launchpad_token": "1",
-          "launchpad_name": "Flap"
-        },
         "lp_holder_count": "3",
         "lp_holders": [
           {
@@ -1919,215 +2779,20 @@
             "tag": "",
             "value": null,
             "is_contract": 0,
-            "balance": "56508.563326209567468455",
-            "percent": "0.999411799329208631",
-            "NFT_list": null,
-            "is_locked": 1
-          },
-          {
-            "address": "0x0ed943ce24baebf257488771759f9bf482c39706",
-            "tag": "",
-            "value": null,
-            "is_contract": 1,
-            "balance": "33.257937194900195354",
-            "percent": "0.000588200670791368",
-            "NFT_list": null,
-            "is_locked": 0
-          },
-          {
-            "address": "0x0000000000000000000000000000000000000000",
-            "tag": "Null Address",
-            "value": null,
-            "is_contract": 0,
-            "balance": "0.000000000000001",
-            "percent": "0.000000000000000000",
-            "NFT_list": null,
-            "is_locked": 1
-          }
-        ],
-        "lp_total_supply": "56541.821263404467664809",
-        "owner_address": "0x0000000000000000000000000000000000000000",
-        "owner_balance": "0",
-        "owner_change_balance": "0",
-        "owner_percent": "0.0",
-        "personal_slippage_modifiable": "0",
-        "selfdestruct": "0",
-        "sell_tax": "0.03",
-        "slippage_modifiable": "0",
-        "token_name": "Hakrium",
-        "token_symbol": "HKM",
-        "total_supply": "1000000000",
-        "trading_cooldown": "0",
-        "transfer_pausable": "0",
-        "transfer_tax": "0"
-      },
-      "holders": 2655,
-      "narrative_tags": [],
-      "moon_score": 63,
-      "reasons": [
-        "Micro cap $271,705 \u2014 very early entry",
-        "Solid liquidity $50,243",
-        "+40% 24h momentum",
-        "+20% 6h \u2014 accelerating",
-        "2,655 holders \u2014 community forming",
-        "16d old \u2014 sweet spot",
-        "456 txns/24h \u2014 active"
-      ],
-      "red_flags": [],
-      "risk_level": "MEDIUM",
-      "recommended_action": "WATCHLIST \u2014 strong signals, wait for confirmation"
-    },
-    {
-      "name": "\u5b88\u597d\u94b1\u888b\u5b50",
-      "symbol": "\u5b88\u597d\u94b1\u888b\u5b50",
-      "address": "0x1AEc95381d11142d60D6Fe66C1d7A94aE8E64444",
-      "chain": "BSC",
-      "dex": "pancakeswap",
-      "pair_address": "0x83e060eeB3e9F9284f4936B76fFdDb9679c89476",
-      "market_cap": 97510.0,
-      "liquidity_usd": 29943.17,
-      "volume_24h": 449784.17,
-      "volume_6h": 449784.17,
-      "price_change_24h": 34.74,
-      "price_change_6h": 34.74,
-      "price_change_1h": -14.92,
-      "txns_24h": 7011,
-      "buys_24h": 3656,
-      "sells_24h": 3355,
-      "age_days": 0,
-      "price_usd": 9.751e-05,
-      "dex_url": "https://dexscreener.com/bsc/0x83e060eeb3e9f9284f4936b76ffddb9679c89476",
-      "social_links": {
-        "twitter": "https://x.com/BiteyeCN/status/2042154361422541007"
-      },
-      "honeypot": false,
-      "liquidity_locked": true,
-      "top_holder_pct": 15.89,
-      "mintable": false,
-      "proxy_contract": false,
-      "contract_verified": null,
-      "goplus": {
-        "anti_whale_modifiable": "0",
-        "buy_tax": "0",
-        "can_take_back_ownership": "0",
-        "cannot_buy": "0",
-        "cannot_sell_all": "0",
-        "creator_address": "0x1ab332aebc0148e67117787bda20354410639fc5",
-        "creator_balance": "0",
-        "creator_percent": "0.000000",
-        "dex": [
-          {
-            "liquidity_type": "UniV2",
-            "name": "PancakeV2",
-            "liquidity": "16078.31129314",
-            "pair": "0x83e060eeb3e9f9284f4936b76ffddb9679c89476"
-          }
-        ],
-        "external_call": "0",
-        "hidden_owner": "0",
-        "holder_count": "908",
-        "holders": [
-          {
-            "address": "0x83e060eeb3e9f9284f4936b76ffddb9679c89476",
-            "tag": "PancakeV2",
-            "is_contract": 1,
-            "balance": "158918347.810623156210806194",
-            "percent": "0.158918347810623156",
-            "is_locked": 0
-          },
-          {
-            "address": "0x13144162e8720488e3817768a3252c56392f55f1",
-            "tag": "",
-            "is_contract": 0,
-            "balance": "12165070.220690791842879269",
-            "percent": "0.012165070220690791",
-            "is_locked": 0
-          },
-          {
-            "address": "0x6aa3da5b70d0bc50e62e737cd9f7397a390f1309",
-            "tag": "",
-            "is_contract": 0,
-            "balance": "10603513.864541848396710367",
-            "percent": "0.010603513864541848",
-            "is_locked": 0
-          },
-          {
-            "address": "0x58746dfcafb0aee64408884acc5d4c9bec3391bc",
-            "tag": "",
-            "is_contract": 0,
-            "balance": "9845769.442625705897968908",
-            "percent": "0.009845769442625705",
-            "is_locked": 0
-          },
-          {
-            "address": "0x3966951d8c243b1f8b9b0b065c8d3001c31e5d3e",
-            "tag": "",
-            "is_contract": 0,
-            "balance": "9413596.115492019038653509",
-            "percent": "0.009413596115492019",
-            "is_locked": 0
-          },
-          {
-            "address": "0x9c24f19e0c5785c36a9b4b787c76e67532acbfd2",
-            "tag": "",
-            "is_contract": 0,
-            "balance": "9342145.554999063914643848",
-            "percent": "0.009342145554999063",
-            "is_locked": 0
-          },
-          {
-            "address": "0x2dd73c4c02a46a6e3486d07666ffc69e2c4d9e02",
-            "tag": "",
-            "is_contract": 0,
-            "balance": "9281222.007487214061411518",
-            "percent": "0.009281222007487214",
-            "is_locked": 0
-          },
-          {
-            "address": "0x4b7de05fbe22e08934e0ea7465187f8e89b27971",
-            "tag": "",
-            "is_contract": 0,
-            "balance": "9270731.3552462312135764",
-            "percent": "0.009270731355246231",
-            "is_locked": 0
-          },
-          {
-            "address": "0x15365bdd4e5466a317c05aa104ed7d4d83967326",
-            "tag": "",
-            "is_contract": 0,
-            "balance": "8735325.90349346138717256",
-            "percent": "0.008735325903493461",
-            "is_locked": 0
-          },
-          {
-            "address": "0x2a948cbde7bb01e32301849a98001450c9e91ac7",
-            "tag": "",
-            "is_contract": 0,
-            "balance": "8549691.058865709529021905",
-            "percent": "0.008549691058865709",
-            "is_locked": 0
-          }
-        ],
-        "honeypot_with_same_creator": "0",
-        "is_anti_whale": "0",
-        "is_blacklisted": "0",
-        "is_honeypot": "0",
-        "is_in_dex": "1",
-        "is_mintable": "0",
-        "is_open_source": "1",
-        "is_proxy": "0",
-        "is_whitelisted": "0",
-        "lp_holder_count": "2",
-        "lp_holders": [
-          {
-            "address": "0x000000000000000000000000000000000000dead",
-            "tag": "",
-            "value": null,
-            "is_contract": 0,
             "balance": "59396.96961656815029505",
-            "percent": "0.999999999999999999",
+            "percent": "0.992674854187155273",
             "NFT_list": null,
             "is_locked": 1
+          },
+          {
+            "address": "0x791bc2e9b8af6463febc52fd500399a3a7395ce5",
+            "tag": "",
+            "value": null,
+            "is_contract": 0,
+            "balance": "438.302090001807457065",
+            "percent": "0.007325145812844726",
+            "NFT_list": null,
+            "is_locked": 0
           },
           {
             "address": "0x0000000000000000000000000000000000000000",
@@ -2140,7 +2805,7 @@
             "is_locked": 1
           }
         ],
-        "lp_total_supply": "59396.96961656815029605",
+        "lp_total_supply": "59835.271706569957753115",
         "owner_address": "0x0000000000000000000000000000000000000000",
         "owner_balance": "0",
         "owner_change_balance": "0",
@@ -2149,122 +2814,26 @@
         "selfdestruct": "0",
         "sell_tax": "0",
         "slippage_modifiable": "0",
-        "token_name": "\u5b88\u597d\u94b1\u888b\u5b50",
-        "token_symbol": "\u5b88\u597d\u94b1\u888b\u5b50",
+        "token_name": "Build N Build",
+        "token_symbol": "\u5171\u5efa",
         "total_supply": "1000000000",
         "trading_cooldown": "0",
         "transfer_pausable": "1",
         "transfer_tax": "0"
       },
-      "holders": 908,
-      "narrative_tags": [],
-      "moon_score": 61,
-      "reasons": [
-        "Micro cap $97,510 \u2014 very early entry",
-        "Decent liquidity $29,943",
-        "Massive vol/mcap ratio 4.6x",
-        "+35% 24h momentum",
-        "+35% 6h \u2014 accelerating",
-        "908 holders growing",
-        "7011 txns/24h \u2014 very active"
-      ],
-      "red_flags": [
-        "\u26a0\ufe0f Only 0d old \u2014 extreme risk"
-      ],
-      "risk_level": "MEDIUM",
-      "recommended_action": "WATCHLIST \u2014 strong signals, wait for confirmation"
-    },
-    {
-      "name": "Upscreener",
-      "symbol": "UPS",
-      "address": "0xae5A409773b9A7Dd0Ae94ff437Ac213d8faFBa01",
-      "chain": "BSC",
-      "dex": "pancakeswap",
-      "pair_address": "0xC17236BA8107de131a6A7e380Cf857faE9696919",
-      "market_cap": 544811.0,
-      "liquidity_usd": 73641.37,
-      "volume_24h": 127737.09,
-      "volume_6h": 52343.53,
-      "price_change_24h": 188.0,
-      "price_change_6h": 2.06,
-      "price_change_1h": 12.58,
-      "txns_24h": 1676,
-      "buys_24h": 1173,
-      "sells_24h": 503,
-      "age_days": 5,
-      "price_usd": 0.0908,
-      "dex_url": "https://dexscreener.com/bsc/0xc17236ba8107de131a6a7e380cf857fae9696919",
-      "social_links": {
-        "twitter": "https://x.com/upscreener",
-        "telegram": "https://t.me/upscreenerchat",
-        "instagram": "https://www.instagram.com/upscreener?igsh=MWV5c24zb2twMWpncw=="
-      },
-      "honeypot": null,
-      "liquidity_locked": null,
-      "top_holder_pct": null,
-      "mintable": null,
-      "proxy_contract": null,
-      "contract_verified": null,
-      "goplus": {},
-      "holders": 0,
-      "narrative_tags": [],
-      "moon_score": 60,
-      "reasons": [
-        "Sub $2M mcap \u2014 early stage",
-        "Solid liquidity $73,641",
-        "Strong vol/mcap 0.2x",
-        "+188% in 24h \u2014 strong momentum",
-        "5d old \u2014 very fresh",
-        "1676 txns/24h \u2014 very active",
-        "Buy pressure: 1173 buys vs 503 sells"
-      ],
-      "red_flags": [],
-      "risk_level": "MEDIUM",
-      "recommended_action": "WATCHLIST \u2014 strong signals, wait for confirmation"
-    },
-    {
-      "name": "UGOR / WETH",
-      "symbol": "UGOR",
-      "address": "0x1097b441553ab806c014921f9562802957095905",
-      "chain": "BASE",
-      "dex": "",
-      "pair_address": "0x17e324ce1a535e7297753ec30d01e15cc75dc2b7",
-      "market_cap": 9511.4486376,
-      "liquidity_usd": 12640.8512,
-      "volume_24h": 4004.6944753901,
-      "volume_6h": 4004.6944753901,
-      "price_change_24h": 122.762,
-      "price_change_6h": 122.762,
-      "price_change_1h": 122.762,
-      "txns_24h": 84,
-      "buys_24h": 70,
-      "sells_24h": 14,
-      "age_days": 0,
-      "price_usd": 1.69847297084487e-06,
-      "dex_url": "https://dexscreener.com/base/0x1097b441553ab806c014921f9562802957095905",
-      "social_links": {},
-      "honeypot": null,
-      "liquidity_locked": null,
-      "top_holder_pct": null,
-      "mintable": null,
-      "proxy_contract": null,
-      "contract_verified": null,
-      "goplus": {},
-      "holders": 0,
+      "holders": 2525,
       "source": "geckoterminal",
       "narrative_tags": [],
-      "moon_score": 57,
+      "moon_score": 55,
       "reasons": [
-        "Micro cap $9,511 \u2014 very early entry",
-        "Decent liquidity $12,641",
-        "Strong vol/mcap 0.4x",
-        "+123% in 24h \u2014 strong momentum",
-        "+123% 6h \u2014 accelerating",
-        "Buy pressure: 70 buys vs 14 sells",
-        "\ud83d\udd35 Base chain \u2014 Coinbase legitimacy signal"
+        "Sub $2M mcap \u2014 early stage",
+        "Solid liquidity $153,735",
+        "Massive vol/mcap ratio 1.9x",
+        "2,525 holders \u2014 community forming",
+        "23309 txns/24h \u2014 very active"
       ],
       "red_flags": [
-        "\u26a0\ufe0f Only 0d old \u2014 extreme risk"
+        "\u26a0\ufe0f Only 2d old \u2014 extreme risk"
       ],
       "risk_level": "HIGH",
       "recommended_action": "WATCHLIST \u2014 strong signals, wait for confirmation"
@@ -2276,18 +2845,18 @@
       "chain": "BSC",
       "dex": "pancakeswap",
       "pair_address": "0xc5c497f6AA41934E3F35307262429041beE78cB6",
-      "market_cap": 491080.0,
-      "liquidity_usd": 107425.46,
-      "volume_24h": 667526.88,
-      "volume_6h": 219936.15,
-      "price_change_24h": -28.48,
-      "price_change_6h": -28.81,
-      "price_change_1h": -6.41,
-      "txns_24h": 4468,
-      "buys_24h": 2501,
-      "sells_24h": 1967,
+      "market_cap": 598328.0,
+      "liquidity_usd": 119493.78,
+      "volume_24h": 783923.4,
+      "volume_6h": 372686.14,
+      "price_change_24h": -17.18,
+      "price_change_6h": 18.5,
+      "price_change_1h": -8.56,
+      "txns_24h": 5217,
+      "buys_24h": 2935,
+      "sells_24h": 2282,
       "age_days": 126,
-      "price_usd": 0.000491,
+      "price_usd": 0.0005983,
       "dex_url": "https://dexscreener.com/bsc/0xc5c497f6aa41934e3f35307262429041bee78cb6",
       "social_links": {
         "twitter": "https://twitter.com/i/communities/2003021637243838718",
@@ -2295,7 +2864,7 @@
       },
       "honeypot": false,
       "liquidity_locked": true,
-      "top_holder_pct": 10.9,
+      "top_holder_pct": 9.54,
       "mintable": false,
       "proxy_contract": false,
       "contract_verified": null,
@@ -2312,41 +2881,34 @@
           {
             "liquidity_type": "UniV2",
             "name": "PancakeV2",
-            "liquidity": "53799.26588400",
+            "liquidity": "62751.10656165",
             "pair": "0xc5c497f6aa41934e3f35307262429041bee78cb6"
           },
           {
             "liquidity_type": "UniV4",
             "name": "UniswapV4",
-            "liquidity": "2526.679170095344375259842232",
+            "liquidity": "3753.847611345528155371500222",
             "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
             "pair": "0x109c32d69434a1e883a46d3d1984863f1003ec1919ade47b4c4dba0b71856bb6"
           },
           {
             "liquidity_type": "UniV4",
             "name": "UniswapV4",
-            "liquidity": "20.981998784652076302000672000000",
+            "liquidity": "20.981159457698380812001152000000",
             "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
             "pair": "0x7fd51bfde10ba7393f537285a10d0990f9012c7fc857d7abaac958428636abd4"
           },
           {
             "liquidity_type": "UniV4",
             "name": "UniswapV4",
-            "liquidity": "12.035430160425729030607128000000",
+            "liquidity": "12.034948716258438633183648000000",
             "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
             "pair": "0x68dd20e91dea1eaf7b2106f8f32bf90ab957f0a55bcd97f371b33b086435bdf6"
           },
           {
             "liquidity_type": "UniV4",
             "name": "UniswapV4",
-            "liquidity": "10.076542037461385713811408000000",
-            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
-            "pair": "0xed9b8c2b21b69e358a1533fc40d4b6bcca707bff0e31bce8810c6a4f99c9095e"
-          },
-          {
-            "liquidity_type": "UniV4",
-            "name": "UniswapV4",
-            "liquidity": "3.858540458333291505952408",
+            "liquidity": "3.858386108071343505204128",
             "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
             "pair": "0xf698f63af07ba358ea9734992ca2942eff73b77487931ecbea0062f0a30a95ad"
           },
@@ -2374,6 +2936,13 @@
           {
             "liquidity_type": "UniV4",
             "name": "UniswapV4",
+            "liquidity": "0.077101960359346146504854000000",
+            "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
+            "pair": "0xed9b8c2b21b69e358a1533fc40d4b6bcca707bff0e31bce8810c6a4f99c9095e"
+          },
+          {
+            "liquidity_type": "UniV4",
+            "name": "UniswapV4",
             "liquidity": "0.051778426721474356021736000000",
             "pool_manager": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
             "pair": "0x22ae65fb3cf9e1d7d01ec439cc47060836aa3cc02a47c33f1c93f516b8675a6e"
@@ -2381,14 +2950,14 @@
         ],
         "external_call": "0",
         "hidden_owner": "0",
-        "holder_count": "5795",
+        "holder_count": "5803",
         "holders": [
           {
             "address": "0xc5c497f6aa41934e3f35307262429041bee78cb6",
             "tag": "PancakeV2",
             "is_contract": 1,
-            "balance": "109036232.581510510776305539",
-            "percent": "0.109036232581510510",
+            "balance": "95387161.56357174127957342",
+            "percent": "0.095387161563571741",
             "is_locked": 0
           },
           {
@@ -2435,16 +3004,24 @@
             "address": "0xbf004bff64725914ee36d03b87d6965b0ced4903",
             "tag": "",
             "is_contract": 1,
-            "balance": "15457837.879852103901168215",
-            "percent": "0.015457837879852103",
+            "balance": "16264816.142965672316149693",
+            "percent": "0.016264816142965672",
+            "is_locked": 0
+          },
+          {
+            "address": "0xf075fea8c5b73e25af69824d215b0e3f3e6e308e",
+            "tag": "",
+            "is_contract": 0,
+            "balance": "13575581.348351722841789747",
+            "percent": "0.013575581348351722",
             "is_locked": 0
           },
           {
             "address": "0x28e2ea090877bf75740558f6bfb36a5ffee9e9df",
             "tag": "",
             "is_contract": 1,
-            "balance": "14645833.328778803930846127",
-            "percent": "0.014645833328778803",
+            "balance": "13560107.307211876108761312",
+            "percent": "0.013560107307211876",
             "is_locked": 0
           },
           {
@@ -2453,14 +3030,6 @@
             "is_contract": 0,
             "balance": "13030844.243732068230721113",
             "percent": "0.013030844243732068",
-            "is_locked": 0
-          },
-          {
-            "address": "0xf075fea8c5b73e25af69824d215b0e3f3e6e308e",
-            "tag": "",
-            "is_contract": 0,
-            "balance": "12324903.092252153162129904",
-            "percent": "0.012324903092252153",
             "is_locked": 0
           }
         ],
@@ -2516,40 +3085,40 @@
         "transfer_pausable": "0",
         "transfer_tax": "0"
       },
-      "holders": 5795,
+      "holders": 5803,
       "narrative_tags": [],
-      "moon_score": 56,
+      "moon_score": 53,
       "reasons": [
-        "Micro cap $491,080 \u2014 very early entry",
-        "Solid liquidity $107,425",
-        "Massive vol/mcap ratio 1.4x",
-        "5,795 holders \u2014 community forming",
-        "4468 txns/24h \u2014 very active"
+        "Sub $2M mcap \u2014 early stage",
+        "Solid liquidity $119,494",
+        "Massive vol/mcap ratio 1.3x",
+        "5,803 holders \u2014 community forming",
+        "5217 txns/24h \u2014 very active"
       ],
       "red_flags": [],
       "risk_level": "HIGH",
-      "recommended_action": "WATCHLIST \u2014 strong signals, wait for confirmation"
+      "recommended_action": "WATCHLIST \u2014 some potential, needs more data"
     },
     {
-      "name": "PRO / WETH",
-      "symbol": "PRO",
-      "address": "0xfa47ea71cbf1648fbbd7cb70b963ab2b14bdcbc9",
+      "name": "GITLAWB / WETH",
+      "symbol": "GITLAWB",
+      "address": "0xf7217b29f308b0b6ad72311af1f1c9e7c15d7085",
       "chain": "BASE",
       "dex": "",
-      "pair_address": "0xebb17cbc7222c8e01d142fe4711ad00012263742",
-      "market_cap": 7696.935577,
-      "liquidity_usd": 12949.8828,
-      "volume_24h": 1958.0519610936,
-      "volume_6h": 1958.0519610936,
-      "price_change_24h": 40.574,
-      "price_change_6h": 40.574,
-      "price_change_1h": 40.574,
-      "txns_24h": 22,
+      "pair_address": "0x6d369435b04448d2080f7a9c32ace92e3442eec8",
+      "market_cap": 32619.1543656,
+      "liquidity_usd": 57663.3064,
+      "volume_24h": 3433.2468079604,
+      "volume_6h": 3433.2468079604,
+      "price_change_24h": 28.534,
+      "price_change_6h": 28.534,
+      "price_change_1h": 28.534,
+      "txns_24h": 19,
       "buys_24h": 18,
-      "sells_24h": 4,
+      "sells_24h": 1,
       "age_days": 0,
-      "price_usd": 7.87849275262418e-07,
-      "dex_url": "https://dexscreener.com/base/0xfa47ea71cbf1648fbbd7cb70b963ab2b14bdcbc9",
+      "price_usd": 3.84083341236769e-06,
+      "dex_url": "https://dexscreener.com/base/0xf7217b29f308b0b6ad72311af1f1c9e7c15d7085",
       "social_links": {},
       "honeypot": null,
       "liquidity_locked": null,
@@ -2563,58 +3132,11 @@
       "narrative_tags": [],
       "moon_score": 53,
       "reasons": [
-        "Micro cap $7,697 \u2014 very early entry",
-        "Decent liquidity $12,950",
-        "Strong vol/mcap 0.3x",
-        "+41% 24h momentum",
-        "+41% 6h \u2014 accelerating",
-        "Buy pressure: 18 buys vs 4 sells",
-        "\ud83d\udd35 Base chain \u2014 Coinbase legitimacy signal"
-      ],
-      "red_flags": [
-        "\u26a0\ufe0f Only 0d old \u2014 extreme risk"
-      ],
-      "risk_level": "HIGH",
-      "recommended_action": "WATCHLIST \u2014 some potential, needs more data"
-    },
-    {
-      "name": "EKISS / WETH",
-      "symbol": "EKISS",
-      "address": "0xd78ef90efed8f2c21315c5d7eddd7de8f918635f",
-      "chain": "BASE",
-      "dex": "",
-      "pair_address": "0x855105a93595f10238b2fbab5d1c8e6f14f00ca1",
-      "market_cap": 7059.97434299,
-      "liquidity_usd": 8966.8213,
-      "volume_24h": 2825.1560255532,
-      "volume_6h": 2825.1560255532,
-      "price_change_24h": 148.262,
-      "price_change_6h": 148.262,
-      "price_change_1h": 148.262,
-      "txns_24h": 19,
-      "buys_24h": 16,
-      "sells_24h": 3,
-      "age_days": 0,
-      "price_usd": 1.04903036318435e-11,
-      "dex_url": "https://dexscreener.com/base/0xd78ef90efed8f2c21315c5d7eddd7de8f918635f",
-      "social_links": {},
-      "honeypot": null,
-      "liquidity_locked": null,
-      "top_holder_pct": null,
-      "mintable": null,
-      "proxy_contract": null,
-      "contract_verified": null,
-      "goplus": {},
-      "holders": 0,
-      "source": "geckoterminal",
-      "narrative_tags": [],
-      "moon_score": 52,
-      "reasons": [
-        "Micro cap $7,060 \u2014 very early entry",
-        "Strong vol/mcap 0.4x",
-        "+148% in 24h \u2014 strong momentum",
-        "+148% 6h \u2014 accelerating",
-        "Buy pressure: 16 buys vs 3 sells",
+        "Micro cap $32,619 \u2014 very early entry",
+        "Solid liquidity $57,663",
+        "+29% 24h momentum",
+        "+29% 6h \u2014 accelerating",
+        "Buy pressure: 18 buys vs 1 sells",
         "\ud83d\udd35 Base chain \u2014 Coinbase legitimacy signal"
       ],
       "red_flags": [
