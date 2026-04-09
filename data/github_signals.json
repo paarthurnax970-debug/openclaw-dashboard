@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-04-09T05:01:06.472782+00:00",
-  "overall_score": 7,
-  "high_priority_count": 1,
-  "total_signals": 19,
+  "timestamp": "2026-04-09T13:01:04.987788+00:00",
+  "overall_score": 8,
+  "high_priority_count": 3,
+  "total_signals": 22,
   "repo_summaries": {
     "Uniswap/v3-core": {
       "commits_scanned": 30,
@@ -18,9 +18,9 @@
     },
     "solana-labs/solana": {
       "commits_scanned": 30,
-      "prs_scanned": 0,
-      "signals_found": 5,
-      "max_signal_score": 5
+      "prs_scanned": 20,
+      "signals_found": 8,
+      "max_signal_score": 8
     },
     "project-serum/serum-dex": {
       "commits_scanned": 30,
@@ -131,6 +131,46 @@
       "url": "https://github.com/aave/aave-v3-core/releases/tag/v1.19.0",
       "matched_keywords": [],
       "signal_score": 5
+    },
+    {
+      "type": "pull_request",
+      "repo": "solana-labs/solana",
+      "pr_number": 28398,
+      "state": "closed",
+      "title": "Replace deploy command with program deploy in tests",
+      "updated_at": "2025-09-04T08:09:25Z",
+      "url": "https://github.com/solana-labs/solana/pull/28398",
+      "matched_keywords": [
+        "upgrade",
+        "deploy"
+      ],
+      "signal_score": 8
+    },
+    {
+      "type": "pull_request",
+      "repo": "solana-labs/solana",
+      "pr_number": 24479,
+      "state": "closed",
+      "title": "Clap v3 update: keygen",
+      "updated_at": "2025-09-04T08:09:01Z",
+      "url": "https://github.com/solana-labs/solana/pull/24479",
+      "matched_keywords": [
+        "migrate"
+      ],
+      "signal_score": 7
+    },
+    {
+      "type": "pull_request",
+      "repo": "solana-labs/solana",
+      "pr_number": 27425,
+      "state": "closed",
+      "title": "Gossip Simulation & multiple gossip instances/node in GCP",
+      "updated_at": "2026-01-09T01:12:53Z",
+      "url": "https://github.com/solana-labs/solana/pull/27425",
+      "matched_keywords": [
+        "deploy"
+      ],
+      "signal_score": 6
     },
     {
       "type": "release",
@@ -246,6 +286,33 @@
       "url": "https://github.com/aave/aave-v3-core/pull/701",
       "matched_keywords": [
         "upgrade"
+      ],
+      "signal_score": 7
+    },
+    {
+      "type": "pull_request",
+      "repo": "solana-labs/solana",
+      "pr_number": 28398,
+      "state": "closed",
+      "title": "Replace deploy command with program deploy in tests",
+      "updated_at": "2025-09-04T08:09:25Z",
+      "url": "https://github.com/solana-labs/solana/pull/28398",
+      "matched_keywords": [
+        "upgrade",
+        "deploy"
+      ],
+      "signal_score": 8
+    },
+    {
+      "type": "pull_request",
+      "repo": "solana-labs/solana",
+      "pr_number": 24479,
+      "state": "closed",
+      "title": "Clap v3 update: keygen",
+      "updated_at": "2025-09-04T08:09:01Z",
+      "url": "https://github.com/solana-labs/solana/pull/24479",
+      "matched_keywords": [
+        "migrate"
       ],
       "signal_score": 7
     }
