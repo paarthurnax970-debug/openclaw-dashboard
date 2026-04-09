@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-09T13:00:43.757257+00:00",
-  "overall_score": -1.97,
+  "timestamp": "2026-04-09T17:00:38.783460+00:00",
+  "overall_score": -1.93,
   "classification": "MILD_BEARISH",
   "components": {
     "fear_greed": {
@@ -17,11 +17,11 @@
       "bearish_count": 0
     },
     "reddit": {
-      "score": 1.52,
+      "score": 1.59,
       "post_count": 25,
-      "avg_upvote_ratio": 0.796,
-      "weighted_text_avg": 0.111,
-      "upvote_signal": 1.186
+      "avg_upvote_ratio": 0.874,
+      "weighted_text_avg": 0.031,
+      "upvote_signal": 1.494
     }
   },
   "top_headlines": [],
@@ -29,8 +29,8 @@
     "Daily Crypto Discussion - April 7, 2026 (GMT+0)",
     "Iran To Earn 282 BTC Per Day From Straight Of Hormuz Toll: More Than 50% Of The Supply",
     "Japan Cuts Crypto Taxes from 55% Progressive Tax to a 20% Flat Tax Rate",
-    "90% of tokens listed on major CEXs fell below their listing price within 1 year. The odds are heavily against buying new tokens.",
-    "Iran Eyes Bitcoin Toll for Strait of Hormuz Oil Transit"
+    "Strategy made nearly $2 billion on Bitcoin this year but SEC filing hides a far bigger number",
+    "Trump's Crypto Project That Borrowed From Itself Now Has a Sanctions Problem Too"
   ],
   "trading_signal": "CAUTION"
 }
