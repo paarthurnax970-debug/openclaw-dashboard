@@ -1,48 +1,48 @@
 {
-  "timestamp": "2026-04-09T05:03:18.776360+00:00",
+  "timestamp": "2026-04-09T13:03:23.556823+00:00",
   "cryptopanic_hot": [],
   "defi_tvl_movers": [
     {
       "protocol": "EtherFi Borrowing Market",
       "coin": "ETHFI",
-      "tvl_change_pct": 387.29,
-      "tvl_usd": 192248669.56698874
+      "tvl_change_pct": 8667.32,
+      "tvl_usd": 167205986.8299649
     },
     {
-      "protocol": "LogX V1",
-      "coin": "LOGX",
-      "tvl_change_pct": 194.59,
-      "tvl_usd": 3657.845888397332
+      "protocol": "Liquis",
+      "coin": "LIQ",
+      "tvl_change_pct": 376.37,
+      "tvl_usd": 470434.6140868476
     },
     {
-      "protocol": "GullNetwork AMM",
-      "coin": "GULL",
-      "tvl_change_pct": 169.35,
-      "tvl_usd": 401609.67018782644
+      "protocol": "Metera Protocol",
+      "coin": "METERA",
+      "tvl_change_pct": 173.14,
+      "tvl_usd": 21371.335208512995
     },
     {
       "protocol": "ZealousSwap",
       "coin": "ZEAL",
-      "tvl_change_pct": 144.36,
-      "tvl_usd": 279556.5848510476
+      "tvl_change_pct": 145.69,
+      "tvl_usd": 282739.5718834625
     },
     {
       "protocol": "xDollar",
       "coin": "SPACE",
-      "tvl_change_pct": 135.07,
-      "tvl_usd": 89020.79038430116
-    },
-    {
-      "protocol": "Ethernity Chain",
-      "coin": "ERN",
-      "tvl_change_pct": 125.82,
-      "tvl_usd": 40012.369371744484
+      "tvl_change_pct": 133.47,
+      "tvl_usd": 88910.75263847045
     },
     {
       "protocol": "VoltSwap V2",
       "coin": "VOLT",
-      "tvl_change_pct": 102.44,
-      "tvl_usd": 191710.0193286797
+      "tvl_change_pct": 101.45,
+      "tvl_usd": 191493.49851908482
+    },
+    {
+      "protocol": "DexFinance BSC",
+      "coin": "DEXSHARE",
+      "tvl_change_pct": -100.0,
+      "tvl_usd": 6.014155544556303e-08
     },
     {
       "protocol": "KlimaDAO",
@@ -51,26 +51,25 @@
       "tvl_usd": 0
     },
     {
-      "protocol": "GTON Capital",
-      "coin": "GTON",
-      "tvl_change_pct": -99.17,
-      "tvl_usd": 21.151920269494028
+      "protocol": "cantOHM",
+      "coin": "COHM",
+      "tvl_change_pct": -100.0,
+      "tvl_usd": 0
     },
     {
-      "protocol": "Zenland",
-      "coin": "ZEN",
-      "tvl_change_pct": -98.46,
-      "tvl_usd": 2.499982608392649
+      "protocol": "ElectroSwap V2",
+      "coin": "BOLT",
+      "tvl_change_pct": -100.0,
+      "tvl_usd": 0
     }
   ],
   "whale_alerts": [],
   "twitter_spikes": [],
   "reddit_mentions": {
+    "MICHI": 2,
+    "MOODENG": 2,
     "MOTHER": 2,
     "BILLY": 2,
-    "MOODENG": 2,
-    "MICHI": 2,
-    "ROSE": 2,
     "BRETT": 1,
     "SUS": 1,
     "ZYPTO": 1,
@@ -83,6 +82,7 @@
     "MUSK": 1,
     "MEMA": 1,
     "GIGA": 1,
+    "ROSE": 1,
     "NCT": 1,
     "KNS": 1,
     "KSW": 1,
@@ -90,14 +90,22 @@
     "TRIPLET": 1,
     "FAPCOIN": 1
   },
-  "reddit_gem_leads": [],
+  "reddit_gem_leads": [
+    {
+      "address": "0x3632DEa96A953C11dac2f00b4A05a32CD1063fAE",
+      "source_post": "Goal is to live in my own apartment solo\u2026 need help budgeting!",
+      "subreddit": "CoinBase",
+      "upvotes": 0,
+      "age_hours": 4.2,
+      "url": "https://reddit.com/r/Coinbase/comments/1sgk6ja/goal_is_to_live_in_my_own_apartment_solo_need/"
+    }
+  ],
   "news_score": {
     "ETHFI": 4,
-    "LOGX": 4,
-    "GULL": 4,
+    "LIQ": 4,
+    "METERA": 4,
     "ZEAL": 4,
     "SPACE": 4,
-    "ERN": 4,
     "VOLT": 4,
     "BRETT": 1,
     "SUS": 1,
@@ -106,10 +114,10 @@
     "WHALLY": 1,
     "BKN": 1,
     "SATOSUN": 1,
+    "MICHI": 1,
+    "MOODENG": 1,
     "MOTHER": 1,
     "BILLY": 1,
-    "MOODENG": 1,
-    "MICHI": 1,
     "BELIEVE": 1,
     "AURA": 1,
     "MUSK": 1,
@@ -122,9 +130,10 @@
     "DOGE": 1,
     "TRIPLET": 1,
     "FAPCOIN": 1,
+    "DEXSHARE": -2,
     "KLIMA": -2,
-    "GTON": -2,
-    "ZEN": -2
+    "COHM": -2,
+    "BOLT": -2
   },
   "overall_sentiment": "NEUTRAL",
   "nitter_available": false,
