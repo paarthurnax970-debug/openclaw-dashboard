@@ -1,48 +1,36 @@
 {
-  "timestamp": "2026-04-09T17:03:18.986047+00:00",
+  "timestamp": "2026-04-09T21:03:15.936514+00:00",
   "cryptopanic_hot": [],
   "defi_tvl_movers": [
     {
-      "protocol": "EtherFi Borrowing Market",
-      "coin": "ETHFI",
-      "tvl_change_pct": 91351.16,
-      "tvl_usd": 178209108.3230517
-    },
-    {
       "protocol": "Liquis",
       "coin": "LIQ",
-      "tvl_change_pct": 384.89,
-      "tvl_usd": 470843.57932863367
+      "tvl_change_pct": 384.33,
+      "tvl_usd": 470885.8888898468
     },
     {
       "protocol": "ZealousSwap",
       "coin": "ZEAL",
-      "tvl_change_pct": 220.38,
-      "tvl_usd": 365531.4240932175
+      "tvl_change_pct": 231.25,
+      "tvl_usd": 370906.729768015
     },
     {
       "protocol": "Metera Protocol",
       "coin": "METERA",
-      "tvl_change_pct": 174.83,
-      "tvl_usd": 21376.728945422346
-    },
-    {
-      "protocol": "xDollar",
-      "coin": "SPACE",
-      "tvl_change_pct": 134.32,
-      "tvl_usd": 88987.4936572215
+      "tvl_change_pct": 179.63,
+      "tvl_usd": 21560.713439303614
     },
     {
       "protocol": "VoltSwap V2",
       "coin": "VOLT",
-      "tvl_change_pct": 100.14,
-      "tvl_usd": 190436.4245793031
+      "tvl_change_pct": 101.09,
+      "tvl_usd": 191001.44310968235
     },
     {
       "protocol": "DexFinance BSC",
       "coin": "DEXSHARE",
       "tvl_change_pct": -100.0,
-      "tvl_usd": 5.992704408894826e-08
+      "tvl_usd": 6.066230117217215e-08
     },
     {
       "protocol": "KlimaDAO",
@@ -61,6 +49,18 @@
       "coin": "BOLT",
       "tvl_change_pct": -100.0,
       "tvl_usd": 0
+    },
+    {
+      "protocol": "ElectroSwap V3",
+      "coin": "BOLT",
+      "tvl_change_pct": -100.0,
+      "tvl_usd": 0
+    },
+    {
+      "protocol": "Nusa",
+      "coin": "NUSA",
+      "tvl_change_pct": -99.63,
+      "tvl_usd": 3.6441754605689436
     }
   ],
   "whale_alerts": [],
@@ -68,9 +68,9 @@
   "reddit_mentions": {
     "CWU": 2,
     "BILLY": 2,
-    "MICHI": 2,
-    "MOODENG": 2,
     "MOTHER": 2,
+    "MOODENG": 2,
+    "MICHI": 2,
     "BRETT": 1,
     "SUS": 1,
     "ZYPTO": 1,
@@ -84,28 +84,17 @@
     "GIGA": 1,
     "ROSE": 1,
     "NCT": 1,
-    "KNS": 1,
     "KSW": 1,
+    "KNS": 1,
     "DOGE": 1,
     "TRIPLET": 1,
     "FAPCOIN": 1
   },
-  "reddit_gem_leads": [
-    {
-      "address": "0x3632DEa96A953C11dac2f00b4A05a32CD1063fAE",
-      "source_post": "Goal is to live in my own apartment solo\u2026 need help budgeting!",
-      "subreddit": "CoinBase",
-      "upvotes": 0,
-      "age_hours": 8.2,
-      "url": "https://reddit.com/r/Coinbase/comments/1sgk6ja/goal_is_to_live_in_my_own_apartment_solo_need/"
-    }
-  ],
+  "reddit_gem_leads": [],
   "news_score": {
-    "ETHFI": 4,
     "LIQ": 4,
     "ZEAL": 4,
     "METERA": 4,
-    "SPACE": 4,
     "VOLT": 4,
     "BRETT": 1,
     "CWU": 1,
@@ -115,9 +104,9 @@
     "BKN": 1,
     "SATOSUN": 1,
     "BILLY": 1,
-    "MICHI": 1,
-    "MOODENG": 1,
     "MOTHER": 1,
+    "MOODENG": 1,
+    "MICHI": 1,
     "BELIEVE": 1,
     "AURA": 1,
     "MUSK": 1,
@@ -125,15 +114,16 @@
     "GIGA": 1,
     "ROSE": 1,
     "NCT": 1,
-    "KNS": 1,
     "KSW": 1,
+    "KNS": 1,
     "DOGE": 1,
     "TRIPLET": 1,
     "FAPCOIN": 1,
     "DEXSHARE": -2,
     "KLIMA": -2,
     "COHM": -2,
-    "BOLT": -2
+    "NUSA": -2,
+    "BOLT": -4
   },
   "overall_sentiment": "NEUTRAL",
   "nitter_available": false,
