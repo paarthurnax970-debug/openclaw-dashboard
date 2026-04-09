@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-09T17:00:38.783460+00:00",
-  "overall_score": -1.93,
+  "timestamp": "2026-04-09T21:00:38.889594+00:00",
+  "overall_score": -1.96,
   "classification": "MILD_BEARISH",
   "components": {
     "fear_greed": {
@@ -17,20 +17,20 @@
       "bearish_count": 0
     },
     "reddit": {
-      "score": 1.59,
+      "score": 1.54,
       "post_count": 25,
-      "avg_upvote_ratio": 0.874,
-      "weighted_text_avg": 0.031,
-      "upvote_signal": 1.494
+      "avg_upvote_ratio": 0.876,
+      "weighted_text_avg": 0.013,
+      "upvote_signal": 1.504
     }
   },
   "top_headlines": [],
   "top_reddit_posts": [
     "Daily Crypto Discussion - April 7, 2026 (GMT+0)",
+    "He stole 120,000 Bitcoins and outran the feds for 6 years, only to get caught by a single fucking Dropbox file \ud83d\ude05",
     "Iran To Earn 282 BTC Per Day From Straight Of Hormuz Toll: More Than 50% Of The Supply",
     "Japan Cuts Crypto Taxes from 55% Progressive Tax to a 20% Flat Tax Rate",
-    "Strategy made nearly $2 billion on Bitcoin this year but SEC filing hides a far bigger number",
-    "Trump's Crypto Project That Borrowed From Itself Now Has a Sanctions Problem Too"
+    "China using cryptocurrency to pay for fees through Strait of Hormuz"
   ],
   "trading_signal": "CAUTION"
 }
