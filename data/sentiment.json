@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-09T01:00:38.469827+00:00",
-  "overall_score": -1.73,
+  "timestamp": "2026-04-09T05:00:39.664836+00:00",
+  "overall_score": -1.79,
   "classification": "MILD_BEARISH",
   "components": {
     "fear_greed": {
@@ -17,20 +17,20 @@
       "bearish_count": 0
     },
     "reddit": {
-      "score": 1.91,
+      "score": 1.81,
       "post_count": 25,
-      "avg_upvote_ratio": 0.883,
-      "weighted_text_avg": 0.127,
-      "upvote_signal": 1.533
+      "avg_upvote_ratio": 0.886,
+      "weighted_text_avg": 0.089,
+      "upvote_signal": 1.542
     }
   },
   "top_headlines": [],
   "top_reddit_posts": [
     "Daily Crypto Discussion - April 7, 2026 (GMT+0)",
+    "Iran To Earn 282 BTC Per Day From Straight Of Hormuz Toll: More Than 50% Of The Supply",
     "Exclusive: Iran demands crypto fees for ships passing Hormuz during ceasefire",
-    "Iran demands crypto fees for ships passing Hormuz during ceasefire",
-    "Bitcoin\u2019s rebound may be fragile as Wall Street warns Hormuz disruption is not really over",
-    "Polymarket Traders Net $663K on US-Iran Ceasefire in Suspected Insider Trade"
+    "Iran Eyes Bitcoin Toll for Strait of Hormuz Oil Transit",
+    "Bitcoin\u2019s rebound may be fragile as Wall Street warns Hormuz disruption is not really over"
   ],
   "trading_signal": "CAUTION"
 }
