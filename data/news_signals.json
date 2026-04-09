@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-04-09T01:03:08.872159+00:00",
+  "timestamp": "2026-04-09T05:03:18.776360+00:00",
   "cryptopanic_hot": [],
   "defi_tvl_movers": [
     {
-      "protocol": "Popsicle Finance",
-      "coin": "ICE",
-      "tvl_change_pct": 4072.83,
-      "tvl_usd": 10894.893371879843
+      "protocol": "EtherFi Borrowing Market",
+      "coin": "ETHFI",
+      "tvl_change_pct": 387.29,
+      "tvl_usd": 192248669.56698874
     },
     {
       "protocol": "LogX V1",
@@ -21,22 +21,28 @@
       "tvl_usd": 401609.67018782644
     },
     {
+      "protocol": "ZealousSwap",
+      "coin": "ZEAL",
+      "tvl_change_pct": 144.36,
+      "tvl_usd": 279556.5848510476
+    },
+    {
       "protocol": "xDollar",
       "coin": "SPACE",
-      "tvl_change_pct": 144.87,
-      "tvl_usd": 89221.36411436275
+      "tvl_change_pct": 135.07,
+      "tvl_usd": 89020.79038430116
     },
     {
       "protocol": "Ethernity Chain",
       "coin": "ERN",
-      "tvl_change_pct": 140.46,
-      "tvl_usd": 40263.95719381065
+      "tvl_change_pct": 125.82,
+      "tvl_usd": 40012.369371744484
     },
     {
-      "protocol": "Mixoor",
-      "coin": "MIXOOR",
-      "tvl_change_pct": 101.62,
-      "tvl_usd": 613.1897442804553
+      "protocol": "VoltSwap V2",
+      "coin": "VOLT",
+      "tvl_change_pct": 102.44,
+      "tvl_usd": 191710.0193286797
     },
     {
       "protocol": "KlimaDAO",
@@ -48,27 +54,21 @@
       "protocol": "GTON Capital",
       "coin": "GTON",
       "tvl_change_pct": -99.17,
-      "tvl_usd": 21.144754746950113
+      "tvl_usd": 21.151920269494028
     },
     {
       "protocol": "Zenland",
       "coin": "ZEN",
       "tvl_change_pct": -98.46,
-      "tvl_usd": 2.5000474539910473
-    },
-    {
-      "protocol": "The Story of Draco",
-      "coin": "DRACO",
-      "tvl_change_pct": -97.6,
-      "tvl_usd": 7.467368276412168
+      "tvl_usd": 2.499982608392649
     }
   ],
   "whale_alerts": [],
   "twitter_spikes": [],
   "reddit_mentions": {
     "MOTHER": 2,
-    "MOODENG": 2,
     "BILLY": 2,
+    "MOODENG": 2,
     "MICHI": 2,
     "ROSE": 2,
     "BRETT": 1,
@@ -84,20 +84,21 @@
     "MEMA": 1,
     "GIGA": 1,
     "NCT": 1,
-    "KSW": 1,
     "KNS": 1,
+    "KSW": 1,
     "DOGE": 1,
     "TRIPLET": 1,
     "FAPCOIN": 1
   },
   "reddit_gem_leads": [],
   "news_score": {
-    "ICE": 4,
+    "ETHFI": 4,
     "LOGX": 4,
     "GULL": 4,
+    "ZEAL": 4,
     "SPACE": 4,
     "ERN": 4,
-    "MIXOOR": 4,
+    "VOLT": 4,
     "BRETT": 1,
     "SUS": 1,
     "ZYPTO": 1,
@@ -106,8 +107,8 @@
     "BKN": 1,
     "SATOSUN": 1,
     "MOTHER": 1,
-    "MOODENG": 1,
     "BILLY": 1,
+    "MOODENG": 1,
     "MICHI": 1,
     "BELIEVE": 1,
     "AURA": 1,
@@ -116,15 +117,14 @@
     "GIGA": 1,
     "ROSE": 1,
     "NCT": 1,
-    "KSW": 1,
     "KNS": 1,
+    "KSW": 1,
     "DOGE": 1,
     "TRIPLET": 1,
     "FAPCOIN": 1,
     "KLIMA": -2,
     "GTON": -2,
-    "ZEN": -2,
-    "DRACO": -2
+    "ZEN": -2
   },
   "overall_sentiment": "NEUTRAL",
   "nitter_available": false,
